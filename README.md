@@ -1,5 +1,5 @@
 # tinyDataScinceProject
-my first Data Science project for uni
+my first Data Science project for my MSc in Data Science
 
 ### II.	ANALYTICAL QUESTIONS
 Throughout this study, we will work with our data to try and answer the following questions:

@@ -1,0 +1,2129 @@
+country,continent,year,life_exp,hdi_index,co2_consump,gdp,services,Suicide_mortality_rate(per 100000),income_Level,Country_Code,Unemployment_Rate
+Afghanistan,Asia,2000,54.7,0.35,0.037,339.5,24.7,4.9,Low income,AFG,10.81
+Afghanistan,Asia,2001,54.8,0.353,0.0376,339.5,24.7,5.0,Low income,AFG,10.81
+Afghanistan,Asia,2002,55.5,0.384,0.0471,333.0,25.6,5.0,Low income,AFG,11.26
+Afghanistan,Asia,2003,56.5,0.393,0.0509,346.0,25.9,5.0,Low income,AFG,11.14
+Afghanistan,Asia,2004,57.1,0.409,0.0368,336.0,26.1,5.0,Low income,AFG,10.99
+Afghanistan,Asia,2005,57.6,0.418,0.0515,360.0,26.5,5.0,Low income,AFG,11.22
+Afghanistan,Asia,2006,58.0,0.429,0.0622,368.0,26.9,4.9,Low income,AFG,11.1
+Afghanistan,Asia,2007,58.5,0.447,0.0838,409.0,27.7,4.8,Low income,AFG,11.3
+Afghanistan,Asia,2008,59.2,0.447,0.152,415.0,28.2,4.6,Low income,AFG,11.09
+Afghanistan,Asia,2009,59.9,0.46,0.238,492.0,29.5,4.4,Low income,AFG,11.31
+Afghanistan,Asia,2010,60.5,0.472,0.29,547.0,30.7,4.3,Low income,AFG,11.35
+Afghanistan,Asia,2011,61.0,0.477,0.406,533.0,31.7,4.1,Low income,AFG,11.05
+Afghanistan,Asia,2012,61.4,0.489,0.345,580.0,32.8,4.0,Low income,AFG,11.34
+Afghanistan,Asia,2013,61.9,0.496,0.28,592.0,33.8,4.0,Low income,AFG,11.19
+Afghanistan,Asia,2014,61.9,0.5,0.253,588.0,34.8,3.9,Low income,AFG,11.14
+Afghanistan,Asia,2015,61.9,0.5,0.262,578.0,35.8,4.0,Low income,AFG,11.13
+Afghanistan,Asia,2016,62.0,0.502,0.245,575.0,36.9,4.0,Low income,AFG,11.16
+Afghanistan,Asia,2017,62.9,0.506,0.247,576.0,38.0,4.1,Low income,AFG,11.18
+Afghanistan,Asia,2018,62.7,0.509,0.254,569.0,38.4,4.1,Low income,AFG,11.15
+Albania,Europe,2000,75.4,0.671,0.966,1960.0,34.4,4.9,Upper middle income,ALB,19.03
+Albania,Europe,2001,76.0,0.678,1.03,2140.0,35.0,4.5,Upper middle income,ALB,18.58
+Albania,Europe,2002,75.9,0.684,1.2,2250.0,35.4,4.6,Upper middle income,ALB,17.9
+Albania,Europe,2003,75.6,0.691,1.38,2380.0,35.9,4.8,Upper middle income,ALB,16.99
+Albania,Europe,2004,75.8,0.696,1.34,2520.0,36.4,4.8,Upper middle income,ALB,16.31
+Albania,Europe,2005,76.2,0.706,1.38,2680.0,36.9,7.5,Upper middle income,ALB,15.97
+Albania,Europe,2006,76.9,0.713,1.27,2850.0,37.2,7.8,Upper middle income,ALB,15.63
+Albania,Europe,2007,77.5,0.722,1.29,3050.0,37.5,8.1,Upper middle income,ALB,15.97
+Albania,Europe,2008,77.6,0.728,1.46,3300.0,37.6,8.2,Upper middle income,ALB,13.06
+Albania,Europe,2009,78.0,0.733,1.47,3430.0,36.0,8.1,Upper middle income,ALB,13.67
+Albania,Europe,2010,78.1,0.745,1.56,3580.0,37.3,7.8,Upper middle income,ALB,14.09
+Albania,Europe,2011,78.1,0.764,1.79,3680.0,35.7,7.9,Upper middle income,ALB,13.48
+Albania,Europe,2012,78.2,0.775,1.69,3740.0,36.7,5.2,Upper middle income,ALB,13.38
+Albania,Europe,2013,78.3,0.782,1.69,3780.0,38.9,5.3,Upper middle income,ALB,15.87
+Albania,Europe,2014,78.2,0.787,1.9,3860.0,40.0,5.0,Upper middle income,ALB,18.05
+Albania,Europe,2015,78.1,0.788,1.6,3950.0,40.1,4.8,Upper middle income,ALB,17.19
+Albania,Europe,2016,78.2,0.788,1.57,4090.0,40.6,4.7,Upper middle income,ALB,15.42
+Albania,Europe,2017,78.3,0.79,1.61,4250.0,42.5,4.7,Upper middle income,ALB,13.62
+Albania,Europe,2018,78.4,0.792,1.59,4430.0,43.0,4.5,Upper middle income,ALB,12.3
+Algeria,Africa,2000,71.0,0.637,2.82,3110.0,52.8,4.5,Lower middle income,DZA,29.77
+Algeria,Africa,2001,71.3,0.647,2.67,3160.0,53.3,4.5,Lower middle income,DZA,27.3
+Algeria,Africa,2002,71.8,0.657,2.81,3300.0,53.5,4.4,Lower middle income,DZA,25.9
+Algeria,Africa,2003,72.0,0.667,2.82,3490.0,53.6,4.1,Lower middle income,DZA,23.72
+Algeria,Africa,2004,72.6,0.677,2.69,3590.0,54.3,4.0,Lower middle income,DZA,17.65
+Algeria,Africa,2005,72.9,0.685,3.21,3750.0,54.7,3.9,Lower middle income,DZA,15.27
+Algeria,Africa,2006,73.3,0.69,2.98,3760.0,55.4,3.7,Lower middle income,DZA,12.27
+Algeria,Africa,2007,73.6,0.7,3.18,3830.0,56.0,3.5,Lower middle income,DZA,13.79
+Algeria,Africa,2008,73.9,0.702,3.14,3860.0,56.8,3.4,Lower middle income,DZA,11.33
+Algeria,Africa,2009,74.2,0.711,3.4,3850.0,57.4,3.2,Lower middle income,DZA,10.16
+Algeria,Africa,2010,74.5,0.721,3.28,3920.0,57.9,3.0,Lower middle income,DZA,9.96
+Algeria,Africa,2011,74.7,0.728,3.27,3960.0,58.4,3.0,Lower middle income,DZA,9.96
+Algeria,Africa,2012,74.9,0.728,3.43,4010.0,58.5,2.9,Lower middle income,DZA,10.97
+Algeria,Africa,2013,75.1,0.729,3.48,4040.0,58.5,2.9,Lower middle income,DZA,9.82
+Algeria,Africa,2014,75.3,0.736,3.68,4110.0,58.6,2.8,Lower middle income,DZA,10.21
+Algeria,Africa,2015,75.4,0.74,3.8,4180.0,58.8,2.7,Lower middle income,DZA,11.21
+Algeria,Africa,2016,75.7,0.743,3.64,4220.0,59.0,2.6,Lower middle income,DZA,10.2
+Algeria,Africa,2017,75.9,0.745,3.56,4190.0,59.2,2.5,Lower middle income,DZA,10.33
+Algeria,Africa,2018,76.0,0.746,3.69,4160.0,59.6,2.5,Lower middle income,DZA,10.42
+Angola,Africa,2000,52.8,0.4,0.581,2450.0,53.9,8.7,Lower middle income,AGO,4.03
+Angola,Africa,2001,53.4,0.41,0.571,2470.0,54.1,8.6,Lower middle income,AGO,4.0
+Angola,Africa,2002,54.5,0.426,0.72,2720.0,54.7,8.6,Lower middle income,AGO,3.96
+Angola,Africa,2003,55.1,0.435,0.496,2710.0,54.6,8.8,Lower middle income,AGO,3.96
+Angola,Africa,2004,55.5,0.446,0.998,2900.0,54.7,8.6,Lower middle income,AGO,3.92
+Angola,Africa,2005,56.4,0.46,0.979,3220.0,53.1,8.1,Lower middle income,AGO,3.88
+Angola,Africa,2006,57.0,0.473,1.1,3460.0,51.2,8.6,Lower middle income,AGO,3.86
+Angola,Africa,2007,58.0,0.489,1.2,3810.0,49.5,7.4,Lower middle income,AGO,3.82
+Angola,Africa,2008,58.8,0.501,1.18,4080.0,47.6,7.5,Lower middle income,AGO,3.79
+Angola,Africa,2009,59.5,0.515,1.23,3960.0,45.7,6.7,Lower middle income,AGO,3.78
+Angola,Africa,2010,60.2,0.517,1.24,3990.0,43.3,7.0,Lower middle income,AGO,9.43
+Angola,Africa,2011,60.8,0.533,1.25,3980.0,40.8,6.6,Lower middle income,AGO,7.36
+Angola,Africa,2012,61.4,0.544,1.35,4170.0,40.8,6.9,Lower middle income,AGO,7.35
+Angola,Africa,2013,62.1,0.555,1.28,4220.0,41.0,6.9,Lower middle income,AGO,7.37
+Angola,Africa,2014,63.0,0.565,1.64,4270.0,41.1,6.4,Lower middle income,AGO,7.37
+Angola,Africa,2015,63.5,0.572,1.22,4170.0,41.3,6.5,Lower middle income,AGO,7.39
+Angola,Africa,2016,63.9,0.578,1.18,3920.0,41.5,6.2,Lower middle income,AGO,7.41
+Angola,Africa,2017,64.2,0.582,1.14,3790.0,41.8,6.0,Lower middle income,AGO,7.41
+Angola,Africa,2018,64.6,0.582,1.12,3600.0,42.1,6.0,Lower middle income,AGO,7.42
+Argentina,South America,2000,74.2,0.781,3.85,10700.0,76.6,9.1,Upper middle income,ARG,15.0
+Argentina,South America,2001,74.3,0.786,3.58,10100.0,77.2,10.3,Upper middle income,ARG,17.32
+Argentina,South America,2002,74.3,0.781,3.3,8940.0,78.8,10.2,Upper middle income,ARG,19.59
+Argentina,South America,2003,74.4,0.786,3.54,9630.0,76.8,9.7,Upper middle income,ARG,15.36
+Argentina,South America,2004,74.9,0.787,4.08,10400.0,75.8,8.7,Upper middle income,ARG,13.52
+Argentina,South America,2005,75.3,0.788,4.15,11200.0,75.5,8.6,Upper middle income,ARG,11.51
+Argentina,South America,2006,75.4,0.812,4.45,12000.0,75.3,8.6,Upper middle income,ARG,10.08
+Argentina,South America,2007,75.3,0.817,4.39,12900.0,75.0,8.3,Upper middle income,ARG,8.47
+Argentina,South America,2008,75.7,0.821,4.7,13300.0,74.8,8.7,Upper middle income,ARG,7.84
+Argentina,South America,2009,75.8,0.821,4.42,12400.0,75.6,8.4,Upper middle income,ARG,8.65
+Argentina,South America,2010,75.9,0.829,4.57,13600.0,75.4,8.6,Upper middle income,ARG,7.71
+Argentina,South America,2011,76.0,0.835,4.61,14200.0,75.4,8.5,Upper middle income,ARG,7.18
+Argentina,South America,2012,76.2,0.834,4.6,13900.0,75.7,9.1,Upper middle income,ARG,7.22
+Argentina,South America,2013,76.3,0.835,4.56,14100.0,75.4,8.6,Upper middle income,ARG,7.1
+Argentina,South America,2014,76.5,0.836,4.56,13600.0,75.3,9.3,Upper middle income,ARG,7.27
+Argentina,South America,2015,76.5,0.84,4.64,13800.0,76.1,8.3,Upper middle income,ARG,7.52
+Argentina,South America,2016,76.2,0.839,4.6,13400.0,77.0,8.3,Upper middle income,ARG,8.11
+Argentina,South America,2017,76.3,0.843,4.55,13600.0,77.5,8.9,Upper middle income,ARG,8.35
+Argentina,South America,2018,76.5,0.842,4.41,13100.0,78.0,9.2,Upper middle income,ARG,9.22
+Armenia,Asia,2000,72.4,0.669,1.14,1290.0,41.5,3.4,Upper middle income,ARM,11.05
+Armenia,Asia,2001,72.5,0.673,1.16,1420.0,42.0,3.1,Upper middle income,ARM,10.91
+Armenia,Asia,2002,72.7,0.682,1.01,1620.0,42.5,3.5,Upper middle income,ARM,10.78
+Armenia,Asia,2003,72.8,0.691,1.15,1860.0,43.0,2.6,Upper middle income,ARM,10.59
+Armenia,Asia,2004,73.0,0.7,1.23,2060.0,43.3,4.0,Upper middle income,ARM,10.34
+Armenia,Asia,2005,73.0,0.712,1.47,2360.0,43.6,4.2,Upper middle income,ARM,10.2
+Armenia,Asia,2006,73.1,0.726,1.49,2700.0,44.0,5.9,Upper middle income,ARM,10.0
+Armenia,Asia,2007,73.5,0.741,1.74,3090.0,44.5,5.8,Upper middle income,ARM,9.81
+Armenia,Asia,2008,73.5,0.745,1.92,3340.0,44.0,4.8,Upper middle income,ARM,14.39
+Armenia,Asia,2009,73.6,0.742,1.51,2880.0,43.5,4.8,Upper middle income,ARM,18.44
+Armenia,Asia,2010,73.9,0.747,1.48,2960.0,44.0,6.8,Upper middle income,ARM,19.01
+Armenia,Asia,2011,74.2,0.751,1.73,3100.0,44.4,6.8,Upper middle income,ARM,18.44
+Armenia,Asia,2012,74.6,0.756,1.99,3310.0,45.1,7.4,Upper middle income,ARM,17.3
+Armenia,Asia,2013,75.1,0.762,1.91,3410.0,46.7,6.4,Upper middle income,ARM,16.18
+Armenia,Asia,2014,75.2,0.764,1.91,3510.0,48.4,6.3,Upper middle income,ARM,17.5
+Armenia,Asia,2015,75.1,0.768,1.65,3610.0,48.8,6.2,Upper middle income,ARM,18.26
+Armenia,Asia,2016,75.3,0.766,1.76,3600.0,50.6,5.7,Upper middle income,ARM,17.62
+Armenia,Asia,2017,75.5,0.769,1.7,3860.0,51.9,3.0,Upper middle income,ARM,17.7
+Armenia,Asia,2018,75.6,0.771,1.89,4050.0,51.1,2.1,Upper middle income,ARM,18.97
+Australia,Oceania,2000,79.7,0.903,18.5,45700.0,73.5,12.7,High income,AUS,6.28
+Australia,Oceania,2001,80.1,0.905,18.6,45900.0,74.5,12.2,High income,AUS,6.74
+Australia,Oceania,2002,80.3,0.907,18.7,47200.0,74.7,11.3,High income,AUS,6.37
+Australia,Oceania,2003,80.6,0.909,18.9,48000.0,75.2,10.5,High income,AUS,5.93
+Australia,Oceania,2004,80.9,0.911,19.3,49400.0,75.0,10.3,High income,AUS,5.39
+Australia,Oceania,2005,81.2,0.906,19.2,50300.0,75.3,11.2,High income,AUS,5.03
+Australia,Oceania,2006,81.5,0.909,19.1,50900.0,75.3,10.6,High income,AUS,4.78
+Australia,Oceania,2007,81.5,0.912,19.2,52600.0,75.5,10.9,High income,AUS,4.38
+Australia,Oceania,2008,81.7,0.926,19.0,53400.0,75.1,11.6,High income,AUS,4.23
+Australia,Oceania,2009,81.9,0.928,18.8,53300.0,75.6,11.2,High income,AUS,5.56
+Australia,Oceania,2010,82.1,0.93,18.4,53600.0,75.8,11.7,High income,AUS,5.21
+Australia,Oceania,2011,82.3,0.932,18.0,54200.0,76.3,11.2,High income,AUS,5.08
+Australia,Oceania,2012,82.6,0.937,17.8,55300.0,76.5,11.7,High income,AUS,5.22
+Australia,Oceania,2013,82.7,0.931,17.1,55800.0,76.9,11.5,High income,AUS,5.66
+Australia,Oceania,2014,82.7,0.933,16.7,56300.0,76.9,12.7,High income,AUS,6.08
+Australia,Oceania,2015,82.7,0.938,16.8,56800.0,78.0,13.2,High income,AUS,6.05
+Australia,Oceania,2016,83.0,0.939,17.0,57400.0,78.0,12.2,High income,AUS,5.71
+Australia,Oceania,2017,83.0,0.941,17.0,57800.0,78.0,13.1,High income,AUS,5.59
+Australia,Oceania,2018,82.9,0.943,16.9,58600.0,77.5,12.4,High income,AUS,5.3
+Austria,Europe,2000,78.5,0.847,8.22,38800.0,63.9,19.9,High income,AUT,4.69
+Austria,Europe,2001,78.9,0.857,8.69,39200.0,64.8,18.6,High income,AUT,4.01
+Austria,Europe,2002,79.0,0.847,8.87,39600.0,65.4,19.3,High income,AUT,4.85
+Austria,Europe,2003,79.1,0.851,9.52,39800.0,65.6,18.2,High income,AUT,4.78
+Austria,Europe,2004,79.5,0.858,9.49,40600.0,68.4,17.5,High income,AUT,5.83
+Austria,Europe,2005,79.8,0.863,9.63,41300.0,67.2,17.2,High income,AUT,5.63
+Austria,Europe,2006,80.1,0.87,9.31,42500.0,66.6,16.4,High income,AUT,5.24
+Austria,Europe,2007,80.3,0.89,8.96,43900.0,67.1,16.0,High income,AUT,4.86
+Austria,Europe,2008,80.5,0.893,8.85,44400.0,68.5,15.8,High income,AUT,4.13
+Austria,Europe,2009,80.5,0.895,8.1,42600.0,69.7,16.0,High income,AUT,5.3
+Austria,Europe,2010,80.8,0.904,8.6,43300.0,69.9,16.1,High income,AUT,4.82
+Austria,Europe,2011,81.0,0.906,8.3,44400.0,69.0,16.5,High income,AUT,4.56
+Austria,Europe,2012,81.2,0.908,7.95,44500.0,69.2,16.3,High income,AUT,4.87
+Austria,Europe,2013,81.3,0.905,7.97,44300.0,69.5,16.2,High income,AUT,5.33
+Austria,Europe,2014,81.5,0.913,7.49,44200.0,69.4,16.5,High income,AUT,5.62
+Austria,Europe,2015,81.6,0.915,7.7,44200.0,69.7,16.0,High income,AUT,5.72
+Austria,Europe,2016,81.8,0.917,7.7,44600.0,70.1,15.5,High income,AUT,6.01
+Austria,Europe,2017,82.0,0.919,7.94,45300.0,71.1,15.4,High income,AUT,5.5
+Austria,Europe,2018,82.1,0.921,7.75,46300.0,70.9,15.7,High income,AUT,4.85
+Azerbaijan,Asia,2000,66.5,0.635,3.64,1500.0,48.0,3.1,Upper middle income,AZE,11.78
+Azerbaijan,Asia,2001,67.1,0.643,3.52,1640.0,49.3,3.4,Upper middle income,AZE,10.91
+Azerbaijan,Asia,2002,67.2,0.651,3.58,1780.0,48.5,3.6,Upper middle income,AZE,10.04
+Azerbaijan,Asia,2003,67.1,0.659,3.67,1950.0,48.6,3.8,Upper middle income,AZE,9.17
+Azerbaijan,Asia,2004,67.2,0.667,3.8,2110.0,48.7,4.3,Upper middle income,AZE,7.99
+Azerbaijan,Asia,2005,67.3,0.674,4.02,2670.0,48.7,4.5,Upper middle income,AZE,7.26
+Azerbaijan,Asia,2006,67.7,0.701,4.54,3560.0,48.1,4.7,Upper middle income,AZE,6.62
+Azerbaijan,Asia,2007,68.2,0.706,3.49,4410.0,48.8,4.9,Upper middle income,AZE,6.33
+Azerbaijan,Asia,2008,68.5,0.716,4.02,4780.0,48.3,4.7,Upper middle income,AZE,5.86
+Azerbaijan,Asia,2009,68.8,0.727,3.57,5120.0,49.2,4.6,Upper middle income,AZE,5.74
+Azerbaijan,Asia,2010,69.0,0.726,3.39,5300.0,48.1,4.6,Upper middle income,AZE,5.63
+Azerbaijan,Asia,2011,69.2,0.727,3.61,5150.0,48.0,4.5,Upper middle income,AZE,5.42
+Azerbaijan,Asia,2012,69.5,0.73,3.79,5190.0,48.1,4.4,Upper middle income,AZE,5.19
+Azerbaijan,Asia,2013,69.7,0.735,3.74,5430.0,48.5,4.3,Upper middle income,AZE,4.97
+Azerbaijan,Asia,2014,69.9,0.74,3.88,5510.0,48.9,4.2,Upper middle income,AZE,4.91
+Azerbaijan,Asia,2015,70.2,0.744,3.86,5500.0,49.6,4.1,Upper middle income,AZE,4.96
+Azerbaijan,Asia,2016,70.3,0.751,3.82,5270.0,49.3,4.0,Upper middle income,AZE,5.0
+Azerbaijan,Asia,2017,70.4,0.754,3.73,5230.0,49.3,4.0,Upper middle income,AZE,5.0
+Azerbaijan,Asia,2018,70.8,0.754,3.7,5260.0,49.0,4.0,Upper middle income,AZE,4.9
+Bahrain,Asia,2000,71.7,0.795,28.3,23200.0,69.9,6.6,High income,BHR,1.08
+Bahrain,Asia,2001,73.4,0.796,20.2,22700.0,69.9,8.8,High income,BHR,1.11
+Bahrain,Asia,2002,72.7,0.795,21.6,22300.0,69.8,9.2,High income,BHR,1.11
+Bahrain,Asia,2003,72.2,0.797,21.6,22300.0,69.5,10.2,High income,BHR,1.09
+Bahrain,Asia,2004,72.3,0.796,21.6,22400.0,68.6,10.2,High income,BHR,1.09
+Bahrain,Asia,2005,72.7,0.795,22.3,22300.0,67.6,10.3,High income,BHR,1.09
+Bahrain,Asia,2006,73.0,0.797,20.3,22100.0,66.5,8.2,High income,BHR,1.1
+Bahrain,Asia,2007,73.6,0.799,25.9,22100.0,65.4,9.6,High income,BHR,1.09
+Bahrain,Asia,2008,74.0,0.8,26.7,21800.0,64.3,9.2,High income,BHR,1.11
+Bahrain,Asia,2009,74.5,0.798,23.7,21100.0,64.3,8.6,High income,BHR,1.14
+Bahrain,Asia,2010,75.0,0.8,23.5,21000.0,63.2,8.2,High income,BHR,1.13
+Bahrain,Asia,2011,75.3,0.801,22.4,20800.0,63.7,7.9,High income,BHR,1.18
+Bahrain,Asia,2012,75.7,0.808,21.0,21200.0,63.9,7.4,High income,BHR,1.2
+Bahrain,Asia,2013,76.2,0.815,23.7,22100.0,63.8,7.1,High income,BHR,1.18
+Bahrain,Asia,2014,76.6,0.82,23.3,22700.0,63.7,7.4,High income,BHR,1.19
+Bahrain,Asia,2015,76.8,0.848,23.8,22600.0,63.8,7.4,High income,BHR,1.2
+Bahrain,Asia,2016,76.8,0.853,22.1,22600.0,63.6,7.7,High income,BHR,1.19
+Bahrain,Asia,2017,76.8,0.854,21.3,22400.0,63.5,8.1,High income,BHR,1.18
+Bahrain,Asia,2018,77.0,0.852,19.8,21700.0,63.6,8.6,High income,BHR,1.2
+Bangladesh,Asia,2000,65.5,0.478,0.208,654.0,24.5,6.0,Lower middle income,BGD,3.27
+Bangladesh,Asia,2001,66.0,0.486,0.239,674.0,26.4,5.7,Lower middle income,BGD,3.62
+Bangladesh,Asia,2002,66.3,0.492,0.242,687.0,28.4,5.3,Lower middle income,BGD,3.9
+Bangladesh,Asia,2003,66.7,0.499,0.248,708.0,30.5,5.1,Lower middle income,BGD,4.32
+Bangladesh,Asia,2004,67.1,0.506,0.263,733.0,32.7,4.9,Lower middle income,BGD,4.26
+Bangladesh,Asia,2005,67.4,0.514,0.271,769.0,35.1,4.9,Lower middle income,BGD,4.25
+Bangladesh,Asia,2006,67.8,0.521,0.296,809.0,37.4,5.0,Lower middle income,BGD,3.59
+Bangladesh,Asia,2007,68.2,0.528,0.299,856.0,36.9,4.9,Lower middle income,BGD,4.13
+Bangladesh,Asia,2008,69.0,0.531,0.314,897.0,36.3,4.7,Lower middle income,BGD,4.57
+Bangladesh,Asia,2009,69.6,0.543,0.337,932.0,35.7,4.6,Lower middle income,BGD,5.0
+Bangladesh,Asia,2010,70.0,0.557,0.366,973.0,35.1,4.4,Lower middle income,BGD,3.38
+Bangladesh,Asia,2011,71.1,0.566,0.379,1020.0,35.4,4.0,Lower middle income,BGD,3.77
+Bangladesh,Asia,2012,72.3,0.575,0.402,1080.0,35.7,3.7,Lower middle income,BGD,4.12
+Bangladesh,Asia,2013,72.8,0.579,0.405,1130.0,36.0,3.5,Lower middle income,BGD,4.43
+Bangladesh,Asia,2014,73.0,0.579,0.427,1180.0,36.3,3.5,Lower middle income,BGD,4.38
+Bangladesh,Asia,2015,73.6,0.595,0.467,1250.0,36.6,3.4,Lower middle income,BGD,4.37
+Bangladesh,Asia,2016,73.9,0.606,0.481,1320.0,36.9,3.4,Lower middle income,BGD,4.35
+Bangladesh,Asia,2017,73.9,0.616,0.494,1400.0,39.0,3.5,Lower middle income,BGD,4.37
+Bangladesh,Asia,2018,74.2,0.625,0.531,1500.0,39.8,3.6,Lower middle income,BGD,4.41
+Belarus,Europe,2000,69.0,0.686,5.62,2620.0,52.3,41.8,Upper middle income,BLR,12.26
+Belarus,Europe,2001,68.6,0.692,5.67,2750.0,53.1,43.3,Upper middle income,BLR,11.55
+Belarus,Europe,2002,68.0,0.699,5.72,2910.0,53.7,44.3,Upper middle income,BLR,10.91
+Belarus,Europe,2003,68.6,0.707,5.91,3140.0,54.3,42.9,Upper middle income,BLR,10.32
+Belarus,Europe,2004,69.0,0.717,6.32,3520.0,54.8,42.1,Upper middle income,BLR,9.82
+Belarus,Europe,2005,68.8,0.727,6.5,3880.0,55.4,43.5,Upper middle income,BLR,9.06
+Belarus,Europe,2006,69.5,0.744,6.82,4290.0,55.7,40.9,Upper middle income,BLR,8.4
+Belarus,Europe,2007,70.4,0.76,6.78,4680.0,56.1,36.8,Upper middle income,BLR,7.67
+Belarus,Europe,2008,70.5,0.777,7.03,5180.0,56.4,36.7,Upper middle income,BLR,7.03
+Belarus,Europe,2009,70.6,0.787,6.57,5200.0,56.7,36.5,Upper middle income,BLR,6.1
+Belarus,Europe,2010,70.6,0.795,6.79,5620.0,57.1,35.9,Upper middle income,BLR,6.25
+Belarus,Europe,2011,70.5,0.801,6.68,5930.0,57.4,36.2,Upper middle income,BLR,6.17
+Belarus,Europe,2012,72.3,0.806,6.77,6040.0,57.9,29.9,Upper middle income,BLR,6.05
+Belarus,Europe,2013,72.8,0.811,6.85,6100.0,58.2,27.9,Upper middle income,BLR,6.01
+Belarus,Europe,2014,73.1,0.814,6.77,6200.0,58.6,26.3,Upper middle income,BLR,5.99
+Belarus,Europe,2015,73.7,0.814,6.29,5950.0,59.2,24.3,Upper middle income,BLR,5.84
+Belarus,Europe,2016,73.8,0.815,6.46,5790.0,58.7,24.2,Upper middle income,BLR,5.84
+Belarus,Europe,2017,73.8,0.819,6.64,5940.0,58.5,23.3,Upper middle income,BLR,5.65
+Belarus,Europe,2018,74.0,0.823,6.93,6140.0,58.1,22.8,Upper middle income,BLR,4.76
+Belgium,Europe,2000,78.0,0.88,12.3,35700.0,72.3,22.0,High income,BEL,6.59
+Belgium,Europe,2001,78.3,0.883,12.2,35900.0,73.1,22.3,High income,BEL,6.18
+Belgium,Europe,2002,78.5,0.886,12.2,36400.0,72.4,20.9,High income,BEL,6.91
+Belgium,Europe,2003,78.7,0.889,12.3,36600.0,73.4,21.5,High income,BEL,7.68
+Belgium,Europe,2004,79.1,0.893,12.3,37700.0,72.8,20.2,High income,BEL,7.36
+Belgium,Europe,2005,79.3,0.897,11.9,38400.0,73.3,20.7,High income,BEL,8.44
+Belgium,Europe,2006,79.6,0.904,11.7,39100.0,73.4,20.2,High income,BEL,8.25
+Belgium,Europe,2007,79.8,0.907,11.3,40300.0,73.7,18.7,High income,BEL,7.46
+Belgium,Europe,2008,79.9,0.906,11.2,40100.0,73.8,20.3,High income,BEL,6.98
+Belgium,Europe,2009,80.0,0.907,9.93,39000.0,75.0,20.6,High income,BEL,7.91
+Belgium,Europe,2010,80.2,0.91,10.4,39800.0,75.3,20.5,High income,BEL,8.29
+Belgium,Europe,2011,80.4,0.911,9.48,39900.0,75.5,21.1,High income,BEL,7.14
+Belgium,Europe,2012,80.5,0.913,9.17,40000.0,77.1,20.8,High income,BEL,7.54
+Belgium,Europe,2013,80.7,0.916,9.11,40000.0,76.9,19.5,High income,BEL,8.43
+Belgium,Europe,2014,81.0,0.918,8.55,40400.0,77.4,19.4,High income,BEL,8.52
+Belgium,Europe,2015,81.1,0.922,8.84,41000.0,77.4,18.6,High income,BEL,8.48
+Belgium,Europe,2016,81.3,0.924,8.68,41300.0,77.5,19.3,High income,BEL,7.83
+Belgium,Europe,2017,81.4,0.929,8.55,41800.0,78.1,18.9,High income,BEL,7.09
+Belgium,Europe,2018,81.4,0.93,8.69,42400.0,77.9,18.7,High income,BEL,5.95
+Bolivia,South America,2000,66.5,0.627,1.31,2060.0,42.4,6.9,Lower middle income,BOL,2.38
+Bolivia,South America,2001,67.2,0.63,0.999,2050.0,40.1,6.6,Lower middle income,BOL,2.48
+Bolivia,South America,2002,67.6,0.637,1.18,2070.0,39.9,6.6,Lower middle income,BOL,2.49
+Bolivia,South America,2003,68.1,0.64,1.24,2080.0,44.4,6.4,Lower middle income,BOL,2.54
+Bolivia,South America,2004,68.6,0.641,1.22,2130.0,44.4,6.3,Lower middle income,BOL,2.5
+Bolivia,South America,2005,69.0,0.643,1.31,2190.0,42.0,6.3,Lower middle income,BOL,2.54
+Bolivia,South America,2006,69.3,0.649,1.59,2250.0,43.0,5.9,Lower middle income,BOL,2.58
+Bolivia,South America,2007,69.6,0.649,1.27,2310.0,44.2,6.1,Lower middle income,BOL,2.65
+Bolivia,South America,2008,69.8,0.658,1.34,2410.0,48.7,6.0,Lower middle income,BOL,2.6
+Bolivia,South America,2009,70.1,0.663,1.38,2450.0,49.2,6.0,Lower middle income,BOL,2.97
+Bolivia,South America,2010,70.3,0.667,1.49,2510.0,49.3,6.0,Lower middle income,BOL,2.61
+Bolivia,South America,2011,70.5,0.671,1.57,2600.0,49.3,6.1,Lower middle income,BOL,2.25
+Bolivia,South America,2012,70.7,0.675,1.79,2690.0,51.6,6.0,Lower middle income,BOL,2.07
+Bolivia,South America,2013,70.9,0.684,1.79,2830.0,50.9,6.0,Lower middle income,BOL,2.44
+Bolivia,South America,2014,71.1,0.69,1.87,2940.0,48.5,6.2,Lower middle income,BOL,2.02
+Bolivia,South America,2015,71.3,0.697,1.81,3040.0,49.6,6.4,Lower middle income,BOL,3.11
+Bolivia,South America,2016,71.5,0.702,1.92,3120.0,49.5,6.6,Lower middle income,BOL,3.5
+Bolivia,South America,2017,71.7,0.71,1.94,3200.0,49.5,6.4,Lower middle income,BOL,3.65
+Bolivia,South America,2018,71.8,0.714,1.96,3290.0,49.5,6.3,Lower middle income,BOL,3.52
+Bosnia and Herzegovina,Europe,2000,75.5,0.679,3.66,2660.0,45.0,9.0,Upper middle income,BIH,25.78
+Bosnia and Herzegovina,Europe,2001,75.3,0.684,3.53,2780.0,45.9,9.4,Upper middle income,BIH,26.61
+Bosnia and Herzegovina,Europe,2002,75.1,0.689,3.77,2920.0,46.7,9.8,Upper middle income,BIH,27.55
+Bosnia and Herzegovina,Europe,2003,75.3,0.695,3.82,3040.0,47.4,9.9,Upper middle income,BIH,28.36
+Bosnia and Herzegovina,Europe,2004,75.5,0.701,4.11,3220.0,47.9,10.0,Upper middle income,BIH,29.37
+Bosnia and Herzegovina,Europe,2005,75.3,0.706,4.26,3500.0,48.3,10.8,Upper middle income,BIH,30.41
+Bosnia and Herzegovina,Europe,2006,75.6,0.712,4.62,3690.0,48.7,10.7,Upper middle income,BIH,31.11
+Bosnia and Herzegovina,Europe,2007,75.3,0.719,4.65,3910.0,47.6,11.5,Upper middle income,BIH,28.98
+Bosnia and Herzegovina,Europe,2008,75.9,0.726,5.32,4130.0,47.0,10.8,Upper middle income,BIH,23.41
+Bosnia and Herzegovina,Europe,2009,76.1,0.727,5.5,4030.0,47.3,10.7,Upper middle income,BIH,24.07
+Bosnia and Herzegovina,Europe,2010,76.3,0.721,5.71,4090.0,49.4,10.5,Upper middle income,BIH,27.31
+Bosnia and Herzegovina,Europe,2011,76.4,0.729,6.5,4180.0,51.5,10.6,Upper middle income,BIH,27.58
+Bosnia and Herzegovina,Europe,2012,76.7,0.748,6.15,4210.0,49.1,10.4,Upper middle income,BIH,28.01
+Bosnia and Herzegovina,Europe,2013,76.6,0.755,6.16,4390.0,51.2,10.6,Upper middle income,BIH,27.49
+Bosnia and Herzegovina,Europe,2014,76.7,0.758,5.55,4520.0,52.9,10.6,Upper middle income,BIH,27.52
+Bosnia and Herzegovina,Europe,2015,76.5,0.761,5.39,4730.0,51.9,10.7,Upper middle income,BIH,27.69
+Bosnia and Herzegovina,Europe,2016,76.7,0.772,6.42,4940.0,50.8,10.5,Upper middle income,BIH,25.41
+Bosnia and Herzegovina,Europe,2017,76.8,0.774,6.5,5150.0,51.5,10.5,Upper middle income,BIH,20.53
+Bosnia and Herzegovina,Europe,2018,76.9,0.777,6.53,5380.0,52.1,10.8,Upper middle income,BIH,18.4
+Botswana,Africa,2000,45.5,0.581,2.3,4650.0,58.9,35.3,Upper middle income,BWA,15.88
+Botswana,Africa,2001,45.0,0.582,2.3,4580.0,57.9,34.5,Upper middle income,BWA,18.54
+Botswana,Africa,2002,44.9,0.579,2.33,4770.0,57.1,32.7,Upper middle income,BWA,21.13
+Botswana,Africa,2003,45.7,0.586,2.21,4910.0,56.2,31.2,Upper middle income,BWA,23.8
+Botswana,Africa,2004,47.5,0.592,2.21,4950.0,56.4,31.8,Upper middle income,BWA,21.83
+Botswana,Africa,2005,49.9,0.601,2.28,5080.0,56.6,34.0,Upper middle income,BWA,19.81
+Botswana,Africa,2006,51.4,0.615,2.25,5390.0,56.9,32.0,Upper middle income,BWA,17.78
+Botswana,Africa,2007,53.4,0.628,2.26,5720.0,56.9,29.3,Upper middle income,BWA,17.2
+Botswana,Africa,2008,54.7,0.641,2.35,5950.0,56.9,28.4,Upper middle income,BWA,16.64
+Botswana,Africa,2009,56.1,0.65,1.98,5380.0,56.8,25.1,Upper middle income,BWA,16.17
+Botswana,Africa,2010,57.0,0.663,2.28,5750.0,57.3,24.4,Upper middle income,BWA,17.86
+Botswana,Africa,2011,57.8,0.677,2.0,6010.0,57.9,22.7,Upper middle income,BWA,18.42
+Botswana,Africa,2012,58.6,0.689,2.49,6200.0,58.4,22.6,Upper middle income,BWA,18.95
+Botswana,Africa,2013,59.4,0.701,2.75,6830.0,59.2,21.6,Upper middle income,BWA,19.4
+Botswana,Africa,2014,60.1,0.711,3.28,7020.0,59.7,19.6,Upper middle income,BWA,19.99
+Botswana,Africa,2015,60.6,0.717,2.56,6800.0,60.1,19.0,Upper middle income,BWA,20.57
+Botswana,Africa,2016,61.2,0.72,2.93,6960.0,60.7,17.8,Upper middle income,BWA,21.03
+Botswana,Africa,2017,61.5,0.726,3.14,7020.0,61.3,17.4,Upper middle income,BWA,21.57
+Botswana,Africa,2018,61.8,0.73,2.96,7170.0,61.9,17.4,Upper middle income,BWA,22.07
+Brazil,South America,2000,71.2,0.685,1.86,6790.0,61.7,4.0,Upper middle income,BRA,9.56
+Brazil,South America,2001,71.5,0.691,1.88,6790.0,62.0,4.4,Upper middle income,BRA,9.61
+Brazil,South America,2002,71.8,0.699,1.83,6900.0,61.5,4.4,Upper middle income,BRA,9.37
+Brazil,South America,2003,72.0,0.695,1.75,6900.0,61.8,4.3,Upper middle income,BRA,9.99
+Brazil,South America,2004,72.3,0.698,1.81,7210.0,61.2,4.4,Upper middle income,BRA,9.11
+Brazil,South America,2005,72.8,0.7,1.84,7350.0,61.4,4.7,Upper middle income,BRA,9.57
+Brazil,South America,2006,73.1,0.702,1.82,7560.0,62.5,4.7,Upper middle income,BRA,8.64
+Brazil,South America,2007,73.3,0.706,1.88,7940.0,62.8,4.9,Upper middle income,BRA,8.33
+Brazil,South America,2008,73.5,0.717,1.98,8260.0,62.9,5.1,Upper middle income,BRA,7.34
+Brazil,South America,2009,73.7,0.719,1.86,8170.0,63.9,5.1,Upper middle income,BRA,8.52
+Brazil,South America,2010,73.8,0.727,2.1,8700.0,64.8,5.0,Upper middle income,BRA,7.27
+Brazil,South America,2011,74.0,0.731,2.18,8970.0,65.7,5.2,Upper middle income,BRA,6.92
+Brazil,South America,2012,74.3,0.735,2.31,9060.0,65.5,5.4,Upper middle income,BRA,7.19
+Brazil,South America,2013,74.5,0.753,2.46,9250.0,65.9,5.6,Upper middle income,BRA,6.98
+Brazil,South America,2014,74.8,0.756,2.59,9210.0,66.8,5.6,Upper middle income,BRA,6.66
+Brazil,South America,2015,75.0,0.756,2.42,8810.0,67.6,5.9,Upper middle income,BRA,8.43
+Brazil,South America,2016,75.0,0.758,2.2,8460.0,69.0,6.0,Upper middle income,BRA,11.6
+Brazil,South America,2017,75.4,0.761,2.23,8500.0,70.1,6.6,Upper middle income,BRA,12.82
+Brazil,South America,2018,75.7,0.762,2.18,8580.0,70.6,7.0,Upper middle income,BRA,12.33
+Bulgaria,Europe,2000,70.2,0.72,5.66,3670.0,54.0,18.2,Upper middle income,BGR,16.22
+Bulgaria,Europe,2001,70.4,0.73,6.17,3890.0,57.5,17.5,Upper middle income,BGR,19.92
+Bulgaria,Europe,2002,70.7,0.736,5.87,4210.0,56.6,17.5,Upper middle income,BGR,18.11
+Bulgaria,Europe,2003,70.9,0.745,6.47,4460.0,56.7,15.1,Upper middle income,BGR,13.73
+Bulgaria,Europe,2004,71.0,0.752,6.4,4780.0,56.3,14.2,Upper middle income,BGR,12.04
+Bulgaria,Europe,2005,71.1,0.758,6.59,5160.0,56.8,13.3,Upper middle income,BGR,10.08
+Bulgaria,Europe,2006,71.2,0.765,6.8,5560.0,57.4,13.4,Upper middle income,BGR,8.95
+Bulgaria,Europe,2007,71.5,0.773,7.35,5960.0,57.0,12.5,Upper middle income,BGR,6.88
+Bulgaria,Europe,2008,71.9,0.78,7.18,6370.0,56.1,13.2,Upper middle income,BGR,5.61
+Bulgaria,Europe,2009,72.1,0.782,6.12,6200.0,57.7,12.3,Upper middle income,BGR,6.82
+Bulgaria,Europe,2010,72.3,0.788,6.44,6270.0,60.2,12.4,Upper middle income,BGR,10.28
+Bulgaria,Europe,2011,72.7,0.791,7.2,6460.0,61.8,11.0,Upper middle income,BGR,11.26
+Bulgaria,Europe,2012,73.0,0.795,6.59,6520.0,62.2,12.5,Upper middle income,BGR,12.27
+Bulgaria,Europe,2013,73.3,0.801,5.84,6580.0,63.2,10.5,Upper middle income,BGR,12.94
+Bulgaria,Europe,2014,73.0,0.806,6.23,6740.0,62.9,10.4,Upper middle income,BGR,11.42
+Bulgaria,Europe,2015,73.2,0.809,6.69,7060.0,63.2,9.8,Upper middle income,BGR,9.14
+Bulgaria,Europe,2016,73.3,0.811,6.33,7380.0,63.5,9.7,Upper middle income,BGR,7.57
+Bulgaria,Europe,2017,73.3,0.811,6.68,7690.0,63.1,10.3,Upper middle income,BGR,6.16
+Bulgaria,Europe,2018,73.3,0.813,6.32,7990.0,63.3,9.7,Upper middle income,BGR,5.21
+Cambodia,Asia,2000,60.4,0.424,0.163,486.0,18.0,5.0,Lower middle income,KHM,0.97
+Cambodia,Asia,2001,60.9,0.438,0.181,515.0,20.1,5.1,Lower middle income,KHM,1.03
+Cambodia,Asia,2002,61.5,0.457,0.175,539.0,21.3,5.1,Lower middle income,KHM,1.1
+Cambodia,Asia,2003,62.2,0.47,0.185,575.0,22.1,5.1,Lower middle income,KHM,1.11
+Cambodia,Asia,2004,62.9,0.482,0.187,624.0,23.6,5.3,Lower middle income,KHM,1.13
+Cambodia,Asia,2005,63.7,0.494,0.209,695.0,24.7,5.5,Lower middle income,KHM,1.13
+Cambodia,Asia,2006,64.5,0.506,0.223,759.0,25.9,5.7,Lower middle income,KHM,1.21
+Cambodia,Asia,2007,65.2,0.52,0.253,824.0,27.2,5.7,Lower middle income,KHM,1.26
+Cambodia,Asia,2008,65.9,0.525,0.274,866.0,26.8,5.6,Lower middle income,KHM,0.82
+Cambodia,Asia,2009,66.5,0.528,0.324,854.0,26.3,5.4,Lower middle income,KHM,0.58
+Cambodia,Asia,2010,66.9,0.539,0.352,891.0,26.6,5.4,Lower middle income,KHM,0.77
+Cambodia,Asia,2011,67.4,0.546,0.351,939.0,27.0,5.3,Lower middle income,KHM,0.58
+Cambodia,Asia,2012,67.9,0.552,0.361,991.0,29.0,5.2,Lower middle income,KHM,0.51
+Cambodia,Asia,2013,68.2,0.559,0.365,1050.0,31.2,5.2,Lower middle income,KHM,0.44
+Cambodia,Asia,2014,68.6,0.565,0.427,1100.0,30.2,5.1,Lower middle income,KHM,0.69
+Cambodia,Asia,2015,68.9,0.57,0.545,1160.0,32.6,5.1,Lower middle income,KHM,0.39
+Cambodia,Asia,2016,69.2,0.576,0.617,1220.0,36.7,5.1,Lower middle income,KHM,0.72
+Cambodia,Asia,2017,69.4,0.582,0.626,1290.0,36.3,5.0,Lower middle income,KHM,0.14
+Cambodia,Asia,2018,69.7,0.585,0.64,1360.0,36.6,4.9,Lower middle income,KHM,0.14
+Cameroon,Africa,2000,54.5,0.44,0.216,1060.0,23.9,10.7,Lower middle income,CMR,7.59
+Cameroon,Africa,2001,54.3,0.456,0.209,1070.0,24.3,10.8,Lower middle income,CMR,7.46
+Cameroon,Africa,2002,54.2,0.458,0.203,1090.0,25.0,10.6,Lower middle income,CMR,6.7
+Cameroon,Africa,2003,54.3,0.464,0.22,1110.0,25.7,10.8,Lower middle income,CMR,5.93
+Cameroon,Africa,2004,54.6,0.469,0.223,1150.0,26.6,10.7,Lower middle income,CMR,5.14
+Cameroon,Africa,2005,55.0,0.47,0.203,1140.0,27.3,11.4,Lower middle income,CMR,4.4
+Cameroon,Africa,2006,55.4,0.471,0.206,1150.0,28.1,11.7,Lower middle income,CMR,3.73
+Cameroon,Africa,2007,55.9,0.482,0.305,1180.0,29.0,11.4,Lower middle income,CMR,3.06
+Cameroon,Africa,2008,56.6,0.49,0.282,1180.0,30.2,11.2,Lower middle income,CMR,3.41
+Cameroon,Africa,2009,57.2,0.498,0.334,1180.0,31.4,11.1,Lower middle income,CMR,3.77
+Cameroon,Africa,2010,57.7,0.505,0.328,1180.0,32.7,10.8,Lower middle income,CMR,4.11
+Cameroon,Africa,2011,58.2,0.514,0.295,1200.0,34.1,10.8,Lower middle income,CMR,3.96
+Cameroon,Africa,2012,58.8,0.525,0.274,1220.0,35.4,10.6,Lower middle income,CMR,3.82
+Cameroon,Africa,2013,59.1,0.534,0.22,1250.0,36.9,10.4,Lower middle income,CMR,3.67
+Cameroon,Africa,2014,59.5,0.54,0.293,1290.0,38.3,10.0,Lower middle income,CMR,3.53
+Cameroon,Africa,2015,60.0,0.549,0.333,1330.0,39.2,9.5,Lower middle income,CMR,3.55
+Cameroon,Africa,2016,60.9,0.553,0.334,1350.0,40.0,9.2,Lower middle income,CMR,3.58
+Cameroon,Africa,2017,61.9,0.557,0.326,1360.0,40.7,9.0,Lower middle income,CMR,3.6
+Cameroon,Africa,2018,62.6,0.56,0.323,1380.0,41.4,8.9,Lower middle income,CMR,3.62
+Canada,North America,2000,79.4,0.867,18.7,34100.0,74.2,11.9,High income,CAN,6.83
+Canada,North America,2001,79.6,0.871,18.3,34200.0,74.8,12.2,High income,CAN,7.22
+Canada,North America,2002,79.8,0.877,18.3,35000.0,74.7,11.9,High income,CAN,7.66
+Canada,North America,2003,80.0,0.882,18.7,36000.0,74.9,12.4,High income,CAN,7.57
+Canada,North America,2004,80.2,0.888,18.4,37100.0,74.9,11.7,High income,CAN,7.19
+Canada,North America,2005,80.4,0.894,17.9,38600.0,75.2,12.2,High income,CAN,6.76
+Canada,North America,2006,80.7,0.898,17.6,39800.0,75.8,11.2,High income,CAN,6.32
+Canada,North America,2007,80.9,0.896,18.1,42100.0,76.3,11.5,High income,CAN,6.04
+Canada,North America,2008,81.1,0.898,17.3,42100.0,76.6,11.5,High income,CAN,6.14
+Canada,North America,2009,81.4,0.898,16.1,40400.0,77.8,12.0,High income,CAN,8.34
+Canada,North America,2010,81.6,0.901,16.3,41200.0,78.0,12.1,High income,CAN,8.06
+Canada,North America,2011,81.9,0.903,16.4,42000.0,77.9,11.3,High income,CAN,7.51
+Canada,North America,2012,82.0,0.906,16.3,42300.0,77.8,11.8,High income,CAN,7.29
+Canada,North America,2013,82.1,0.913,16.4,42800.0,77.9,12.1,High income,CAN,7.07
+Canada,North America,2014,82.2,0.918,16.2,43600.0,78.1,12.7,High income,CAN,6.91
+Canada,North America,2015,82.3,0.921,16.0,43600.0,78.4,13.0,High income,CAN,6.91
+Canada,North America,2016,82.3,0.923,15.5,43500.0,78.7,11.9,High income,CAN,7.0
+Canada,North America,2017,82.4,0.926,15.6,44300.0,78.9,13.0,High income,CAN,6.34
+Canada,North America,2018,82.2,0.928,15.3,44800.0,78.9,12.0,High income,CAN,5.83
+Chile,South America,2000,76.9,0.756,3.79,8690.0,62.2,10.3,High income,CHL,10.49
+Chile,South America,2001,77.0,0.767,3.39,8870.0,62.5,10.3,High income,CHL,10.39
+Chile,South America,2002,77.4,0.769,3.48,9050.0,62.6,9.6,High income,CHL,10.17
+Chile,South America,2003,77.4,0.776,3.47,9320.0,63.0,9.7,High income,CHL,9.77
+Chile,South America,2004,77.6,0.785,3.69,9890.0,63.0,10.1,High income,CHL,10.16
+Chile,South America,2005,77.9,0.791,3.77,10300.0,63.9,9.7,High income,CHL,9.34
+Chile,South America,2006,78.2,0.791,3.91,10900.0,63.9,10.0,High income,CHL,9.02
+Chile,South America,2007,78.4,0.804,4.28,11300.0,64.3,11.0,High income,CHL,8.43
+Chile,South America,2008,78.7,0.814,4.24,11600.0,64.7,12.2,High income,CHL,9.29
+Chile,South America,2009,78.6,0.822,3.91,11300.0,65.7,12.7,High income,CHL,11.31
+Chile,South America,2010,78.6,0.803,4.18,11800.0,66.4,11.6,High income,CHL,8.42
+Chile,South America,2011,79.0,0.815,4.53,12400.0,66.4,11.7,High income,CHL,7.34
+Chile,South America,2012,79.2,0.821,4.58,12900.0,66.2,10.5,High income,CHL,6.66
+Chile,South America,2013,79.3,0.826,4.65,13300.0,66.6,9.8,High income,CHL,6.21
+Chile,South America,2014,79.5,0.837,4.36,13400.0,67.1,9.9,High income,CHL,6.66
+Chile,South America,2015,79.6,0.842,4.55,13600.0,67.3,10.0,High income,CHL,6.51
+Chile,South America,2016,80.0,0.845,4.62,13600.0,67.5,10.0,High income,CHL,6.74
+Chile,South America,2017,80.0,0.847,4.52,13600.0,68.0,9.3,High income,CHL,6.96
+Chile,South America,2018,80.1,0.849,4.59,13900.0,68.5,8.8,High income,CHL,7.23
+China,Asia,2000,71.3,0.588,2.6,2190.0,27.5,14.3,Upper middle income,CHN,3.26
+China,Asia,2001,71.7,0.596,2.64,2360.0,27.7,12.9,Upper middle income,CHN,3.8
+China,Asia,2002,72.0,0.606,2.9,2560.0,28.6,12.2,Upper middle income,CHN,4.24
+China,Asia,2003,72.3,0.618,3.39,2800.0,29.3,12.8,Upper middle income,CHN,4.58
+China,Asia,2004,72.5,0.628,3.88,3060.0,30.6,13.3,Upper middle income,CHN,4.49
+China,Asia,2005,73.0,0.64,4.34,3390.0,31.4,12.9,Upper middle income,CHN,4.52
+China,Asia,2006,73.7,0.653,4.77,3800.0,32.2,12.1,Upper middle income,CHN,4.43
+China,Asia,2007,74.2,0.667,5.1,4320.0,32.4,11.5,Upper middle income,CHN,4.35
+China,Asia,2008,74.3,0.678,5.45,4710.0,33.2,11.1,Upper middle income,CHN,4.59
+China,Asia,2009,74.7,0.687,5.7,5130.0,34.1,10.7,Upper middle income,CHN,4.72
+China,Asia,2010,74.9,0.699,6.22,5650.0,34.6,10.2,Upper middle income,CHN,4.53
+China,Asia,2011,75.3,0.707,6.83,6160.0,35.7,9.6,Upper middle income,CHN,4.55
+China,Asia,2012,75.7,0.716,6.97,6610.0,36.1,9.0,Upper middle income,CHN,4.57
+China,Asia,2013,76.1,0.724,7.04,7090.0,38.5,8.6,Upper middle income,CHN,4.59
+China,Asia,2014,76.4,0.731,7.02,7570.0,40.6,8.4,Upper middle income,CHN,4.61
+China,Asia,2015,76.8,0.739,6.91,8070.0,42.2,8.1,Upper middle income,CHN,4.63
+China,Asia,2016,77.0,0.746,6.87,8570.0,43.5,8.2,Upper middle income,CHN,4.53
+China,Asia,2017,77.2,0.75,6.93,9120.0,44.9,8.1,Upper middle income,CHN,4.44
+China,Asia,2018,77.4,0.755,7.06,9690.0,45.6,8.1,Upper middle income,CHN,4.28
+Colombia,South America,2000,74.2,0.666,1.42,3960.0,59.0,5.0,Upper middle income,COL,20.52
+Colombia,South America,2001,74.4,0.668,1.39,3970.0,59.4,4.9,Upper middle income,COL,15.04
+Colombia,South America,2002,73.4,0.671,1.36,4000.0,59.6,4.7,Upper middle income,COL,14.48
+Colombia,South America,2003,75.2,0.67,1.38,4100.0,59.9,4.6,Upper middle income,COL,13.22
+Colombia,South America,2004,75.6,0.684,1.3,4260.0,60.2,4.5,Upper middle income,COL,12.74
+Colombia,South America,2005,76.5,0.689,1.41,4400.0,60.4,4.1,Upper middle income,COL,11.06
+Colombia,South America,2006,76.7,0.698,1.44,4640.0,60.8,4.1,Upper middle income,COL,11.29
+Colombia,South America,2007,77.3,0.711,1.41,4890.0,61.1,4.1,Upper middle income,COL,10.25
+Colombia,South America,2008,77.6,0.718,1.52,4990.0,61.3,4.2,Upper middle income,COL,10.49
+Colombia,South America,2009,77.5,0.72,1.62,4990.0,61.6,4.1,Upper middle income,COL,11.29
+Colombia,South America,2010,77.9,0.729,1.69,5160.0,61.6,3.8,Upper middle income,COL,10.98
+Colombia,South America,2011,78.7,0.734,1.67,5470.0,61.5,3.7,Upper middle income,COL,10.11
+Colombia,South America,2012,79.0,0.739,1.73,5630.0,61.9,3.8,Upper middle income,COL,9.74
+Colombia,South America,2013,79.3,0.742,1.98,5870.0,63.8,3.7,Upper middle income,COL,9.05
+Colombia,South America,2014,79.7,0.753,1.83,6070.0,64.0,3.8,Upper middle income,COL,8.57
+Colombia,South America,2015,79.7,0.756,1.96,6180.0,64.2,4.1,Upper middle income,COL,8.3
+Colombia,South America,2016,79.8,0.76,2.01,6220.0,64.6,4.2,Upper middle income,COL,8.69
+Colombia,South America,2017,80.0,0.763,1.91,6210.0,64.0,4.7,Upper middle income,COL,8.87
+Colombia,South America,2018,80.1,0.764,1.96,6270.0,63.3,4.0,Upper middle income,COL,9.11
+Costa Rica,North America,2000,77.9,0.721,1.36,7680.0,61.3,6.4,Upper middle income,CRI,5.08
+Costa Rica,North America,2001,77.9,0.725,1.41,7810.0,60.9,5.2,Upper middle income,CRI,5.92
+Costa Rica,North America,2002,78.4,0.728,1.52,7940.0,61.5,7.0,Upper middle income,CRI,6.33
+Costa Rica,North America,2003,78.5,0.731,1.57,8160.0,62.5,7.9,Upper middle income,CRI,6.56
+Costa Rica,North America,2004,78.6,0.735,1.61,8400.0,63.0,8.1,Upper middle income,CRI,6.39
+Costa Rica,North America,2005,79.4,0.738,1.56,8610.0,63.1,6.6,Upper middle income,CRI,6.57
+Costa Rica,North America,2006,79.1,0.745,1.6,9110.0,64.2,8.4,Upper middle income,CRI,5.74
+Costa Rica,North America,2007,80.3,0.753,1.79,9730.0,64.5,5.7,Upper middle income,CRI,4.49
+Costa Rica,North America,2008,80.3,0.761,1.77,10100.0,65.9,5.5,Upper middle income,CRI,4.78
+Costa Rica,North America,2009,80.6,0.762,1.7,9840.0,68.1,5.6,Upper middle income,CRI,7.71
+Costa Rica,North America,2010,79.5,0.765,1.62,10200.0,69.0,6.9,Upper middle income,CRI,7.17
+Costa Rica,North America,2011,80.2,0.778,1.56,10600.0,69.8,6.9,Upper middle income,CRI,10.14
+Costa Rica,North America,2012,80.3,0.783,1.53,10900.0,71.5,6.6,Upper middle income,CRI,9.78
+Costa Rica,North America,2013,80.4,0.788,1.59,11100.0,73.6,6.7,Upper middle income,CRI,8.77
+Costa Rica,North America,2014,80.5,0.796,1.6,11400.0,71.2,5.6,Upper middle income,CRI,9.06
+Costa Rica,North America,2015,80.2,0.797,1.51,11600.0,68.5,6.7,Upper middle income,CRI,9.0
+Costa Rica,North America,2016,79.8,0.801,1.6,12000.0,69.2,7.7,Upper middle income,CRI,8.6
+Costa Rica,North America,2017,79.8,0.804,1.58,12400.0,69.0,6.1,Upper middle income,CRI,8.14
+Costa Rica,North America,2018,80.0,0.808,1.61,12500.0,67.9,7.2,Upper middle income,CRI,9.63
+Croatia,Europe,2000,74.7,0.757,4.45,8720.0,54.3,20.8,High income,HRV,16.06
+Croatia,Europe,2001,74.9,0.768,4.73,9330.0,54.3,19.7,High income,HRV,15.82
+Croatia,Europe,2002,75.0,0.774,4.99,9860.0,54.6,19.5,High income,HRV,15.05
+Croatia,Europe,2003,75.1,0.78,5.31,10400.0,52.9,19.7,High income,HRV,13.92
+Croatia,Europe,2004,75.6,0.786,5.23,10800.0,53.4,20.2,High income,HRV,13.66
+Croatia,Europe,2005,75.6,0.792,5.35,11300.0,54.1,20.1,High income,HRV,12.6
+Croatia,Europe,2006,76.0,0.798,5.4,11900.0,56.4,18.3,High income,HRV,11.13
+Croatia,Europe,2007,75.9,0.808,5.72,12500.0,57.0,18.1,High income,HRV,9.91
+Croatia,Europe,2008,75.9,0.813,5.44,12700.0,56.3,18.4,High income,HRV,8.53
+Croatia,Europe,2009,76.5,0.812,5.04,11800.0,57.7,18.3,High income,HRV,9.2
+Croatia,Europe,2010,76.8,0.815,4.87,11600.0,58.3,18.3,High income,HRV,11.62
+Croatia,Europe,2011,77.1,0.823,4.8,11700.0,57.5,16.4,High income,HRV,13.68
+Croatia,Europe,2012,77.4,0.825,4.45,11400.0,59.8,18.4,High income,HRV,15.93
+Croatia,Europe,2013,77.8,0.83,4.32,11400.0,61.6,16.5,High income,HRV,17.25
+Croatia,Europe,2014,77.9,0.835,4.16,11400.0,63.5,17.3,High income,HRV,17.29
+Croatia,Europe,2015,77.7,0.84,4.22,11800.0,64.1,17.6,High income,HRV,16.18
+Croatia,Europe,2016,78.4,0.841,4.3,12300.0,65.4,16.4,High income,HRV,13.1
+Croatia,Europe,2017,78.5,0.845,4.48,12900.0,66.6,15.7,High income,HRV,11.21
+Croatia,Europe,2018,78.6,0.848,4.48,13300.0,66.3,16.4,High income,HRV,8.43
+Cuba,North America,2000,77.0,0.691,2.33,4110.0,53.6,17.2,Upper middle income,CUB,5.45
+Cuba,North America,2001,77.2,0.696,2.27,4220.0,55.1,15.3,Upper middle income,CUB,4.08
+Cuba,North America,2002,77.9,0.698,2.32,4270.0,56.7,14.7,Upper middle income,CUB,3.31
+Cuba,North America,2003,77.8,0.708,2.26,4420.0,58.1,13.8,Upper middle income,CUB,2.33
+Cuba,North America,2004,77.8,0.722,2.21,4670.0,59.5,13.9,Upper middle income,CUB,1.85
+Cuba,North America,2005,77.7,0.734,2.3,5180.0,60.8,12.9,Upper middle income,CUB,1.95
+Cuba,North America,2006,78.4,0.756,2.34,5810.0,62.0,12.7,Upper middle income,CUB,1.91
+Cuba,North America,2007,78.5,0.772,2.29,6240.0,63.2,12.2,Upper middle income,CUB,1.79
+Cuba,North America,2008,78.4,0.783,2.47,6500.0,63.4,12.9,Upper middle income,CUB,1.58
+Cuba,North America,2009,78.5,0.785,2.5,6600.0,63.7,13.7,Upper middle income,CUB,1.67
+Cuba,North America,2010,78.5,0.781,3.02,6760.0,64.3,14.4,Upper middle income,CUB,2.5
+Cuba,North America,2011,79.1,0.78,2.6,6940.0,63.2,14.1,Upper middle income,CUB,3.18
+Cuba,North America,2012,78.8,0.769,2.62,7140.0,61.6,13.8,Upper middle income,CUB,3.46
+Cuba,North America,2013,78.8,0.766,2.46,7320.0,64.3,13.9,Upper middle income,CUB,3.29
+Cuba,North America,2014,78.7,0.767,2.43,7380.0,64.3,13.4,Upper middle income,CUB,2.7
+Cuba,North America,2015,78.4,0.772,2.57,7690.0,64.3,14.0,Upper middle income,CUB,2.4
+Cuba,North America,2016,78.5,0.773,2.48,7730.0,64.7,13.4,Upper middle income,CUB,2.0
+Cuba,North America,2017,78.3,0.777,2.48,7860.0,65.1,14.5,Upper middle income,CUB,1.7
+Cuba,North America,2018,78.3,0.781,2.53,8040.0,65.3,14.3,Upper middle income,CUB,1.7
+Cyprus,Asia,2000,76.7,0.804,7.56,26700.0,70.8,2.0,High income,CYP,4.97
+Cyprus,Asia,2001,77.1,0.81,7.3,27400.0,71.5,2.1,High income,CYP,3.98
+Cyprus,Asia,2002,77.3,0.819,7.37,28100.0,71.6,2.2,High income,CYP,3.3
+Cyprus,Asia,2003,77.7,0.828,7.64,28500.0,71.9,2.2,High income,CYP,4.14
+Cyprus,Asia,2004,77.9,0.831,7.74,29600.0,71.5,0.9,High income,CYP,4.33
+Cyprus,Asia,2005,77.9,0.836,7.79,30600.0,71.2,2.6,High income,CYP,5.3
+Cyprus,Asia,2006,78.2,0.842,7.84,31500.0,73.1,3.5,High income,CYP,4.54
+Cyprus,Asia,2007,78.3,0.849,8.01,32400.0,73.1,3.1,High income,CYP,3.92
+Cyprus,Asia,2008,78.8,0.858,8.03,32700.0,72.7,6.1,High income,CYP,3.65
+Cyprus,Asia,2009,79.1,0.862,7.68,31200.0,74.2,4.5,High income,CYP,5.36
+Cyprus,Asia,2010,79.5,0.856,7.25,31000.0,75.8,5.3,High income,CYP,6.26
+Cyprus,Asia,2011,79.8,0.86,6.89,30400.0,75.3,4.3,High income,CYP,7.86
+Cyprus,Asia,2012,80.1,0.859,6.36,28900.0,76.9,5.4,High income,CYP,11.8
+Cyprus,Asia,2013,80.3,0.86,5.72,27000.0,79.3,5.7,High income,CYP,15.87
+Cyprus,Asia,2014,80.4,0.862,6.01,26800.0,79.1,5.4,High income,CYP,16.09
+Cyprus,Asia,2015,80.5,0.865,5.99,27900.0,79.8,4.7,High income,CYP,14.91
+Cyprus,Asia,2016,80.7,0.873,6.29,29500.0,79.3,4.6,High income,CYP,12.95
+Cyprus,Asia,2017,80.8,0.878,6.39,30800.0,80.4,3.7,High income,CYP,11.05
+Cyprus,Asia,2018,80.8,0.885,6.3,32000.0,81.2,4.2,High income,CYP,8.37
+Denmark,Europe,2000,77.2,0.87,10.2,49200.0,71.0,15.6,High income,DNK,4.48
+Denmark,Europe,2001,77.3,0.883,10.4,49500.0,71.1,15.8,High income,DNK,4.16
+Denmark,Europe,2002,77.4,0.89,10.3,49500.0,73.3,14.9,High income,DNK,4.27
+Denmark,Europe,2003,77.7,0.901,11.3,49600.0,73.6,13.6,High income,DNK,5.4
+Denmark,Europe,2004,78.0,0.905,10.2,50800.0,73.0,14.2,High income,DNK,5.2
+Denmark,Europe,2005,78.3,0.91,9.51,51800.0,72.9,14.8,High income,DNK,4.83
+Denmark,Europe,2006,78.5,0.912,10.9,53700.0,73.6,14.7,High income,DNK,3.9
+Denmark,Europe,2007,78.7,0.911,10.0,53900.0,73.5,12.6,High income,DNK,3.8
+Denmark,Europe,2008,79.0,0.917,9.33,53300.0,74.0,13.1,High income,DNK,3.68
+Denmark,Europe,2009,79.2,0.914,8.84,50500.0,76.7,12.9,High income,DNK,6.41
+Denmark,Europe,2010,79.5,0.917,8.86,51200.0,77.6,11.8,High income,DNK,7.75
+Denmark,Europe,2011,79.9,0.93,7.93,51600.0,77.5,12.6,High income,DNK,7.77
+Denmark,Europe,2012,80.3,0.931,7.11,51600.0,77.6,12.8,High income,DNK,7.8
+Denmark,Europe,2013,80.5,0.933,7.41,51800.0,77.7,12.1,High income,DNK,7.38
+Denmark,Europe,2014,80.8,0.935,6.63,52400.0,78.1,12.0,High income,DNK,6.93
+Denmark,Europe,2015,81.0,0.933,6.19,53300.0,78.0,10.9,High income,DNK,6.28
+Denmark,Europe,2016,81.0,0.935,6.49,54600.0,78.6,10.9,High income,DNK,5.99
+Denmark,Europe,2017,81.1,0.936,6.07,55700.0,78.9,11.3,High income,DNK,5.83
+Denmark,Europe,2018,81.1,0.939,6.06,56600.0,78.9,11.4,High income,DNK,5.13
+Dominican Republic,North America,2000,73.7,0.659,2.31,4210.0,59.8,3.9,Upper middle income,DOM,6.43
+Dominican Republic,North America,2001,73.8,0.663,2.28,4250.0,62.0,3.9,Upper middle income,DOM,7.26
+Dominican Republic,North America,2002,73.9,0.668,2.42,4380.0,63.2,4.1,Upper middle income,DOM,6.78
+Dominican Republic,North America,2003,73.5,0.669,2.4,4260.0,63.5,4.4,Upper middle income,DOM,6.94
+Dominican Republic,North America,2004,72.6,0.672,2.02,4300.0,62.6,4.5,Upper middle income,DOM,6.3
+Dominican Republic,North America,2005,72.6,0.681,2.02,4650.0,63.7,4.8,Upper middle income,DOM,6.59
+Dominican Republic,North America,2006,72.7,0.688,2.11,5010.0,64.0,4.7,Upper middle income,DOM,5.65
+Dominican Republic,North America,2007,72.9,0.694,2.22,5310.0,64.7,4.8,Upper middle income,DOM,5.16
+Dominican Republic,North America,2008,73.3,0.698,2.14,5410.0,65.9,4.8,Upper middle income,DOM,4.76
+Dominican Republic,North America,2009,73.4,0.7,2.07,5390.0,68.7,4.9,Upper middle income,DOM,5.47
+Dominican Republic,North America,2010,73.5,0.706,2.12,5770.0,69.1,4.7,Upper middle income,DOM,5.21
+Dominican Republic,North America,2011,73.4,0.71,2.17,5880.0,69.8,4.9,Upper middle income,DOM,6.09
+Dominican Republic,North America,2012,72.9,0.714,2.17,5970.0,70.1,5.2,Upper middle income,DOM,6.72
+Dominican Republic,North America,2013,72.3,0.718,2.09,6190.0,71.8,5.5,Upper middle income,DOM,7.35
+Dominican Republic,North America,2014,72.2,0.73,2.12,6550.0,71.0,6.1,Upper middle income,DOM,6.72
+Dominican Republic,North America,2015,72.0,0.738,2.29,6920.0,71.9,6.4,Upper middle income,DOM,7.61
+Dominican Republic,North America,2016,72.1,0.743,2.37,7300.0,72.1,6.4,Upper middle income,DOM,7.28
+Dominican Republic,North America,2017,72.5,0.746,2.32,7560.0,71.0,5.7,Upper middle income,DOM,5.83
+Dominican Republic,North America,2018,72.9,0.751,2.34,8000.0,71.0,5.2,Upper middle income,DOM,5.86
+Ecuador,South America,2000,74.5,0.675,1.62,4210.0,49.7,6.4,Upper middle income,ECU,4.8
+Ecuador,South America,2001,75.0,0.68,1.78,4300.0,50.2,6.9,Upper middle income,ECU,4.25
+Ecuador,South America,2002,74.1,0.684,1.88,4400.0,50.9,7.9,Upper middle income,ECU,4.9
+Ecuador,South America,2003,73.9,0.687,2.0,4440.0,51.6,8.5,Upper middle income,ECU,5.66
+Ecuador,South America,2004,73.9,0.693,2.12,4730.0,51.6,9.0,Upper middle income,ECU,5.0
+Ecuador,South America,2005,73.6,0.698,2.17,4890.0,52.1,9.9,Upper middle income,ECU,3.78
+Ecuador,South America,2006,73.6,0.701,2.03,5020.0,51.8,10.0,Upper middle income,ECU,3.55
+Ecuador,South America,2007,73.7,0.71,2.21,5050.0,52.9,10.2,Upper middle income,ECU,3.14
+Ecuador,South America,2008,73.8,0.717,2.29,5280.0,53.3,10.5,Upper middle income,ECU,3.92
+Ecuador,South America,2009,74.1,0.719,2.4,5220.0,52.7,10.5,Upper middle income,ECU,4.61
+Ecuador,South America,2010,74.3,0.726,2.39,5320.0,53.6,9.9,Upper middle income,ECU,4.09
+Ecuador,South America,2011,74.9,0.732,2.35,5650.0,54.1,9.8,Upper middle income,ECU,3.46
+Ecuador,South America,2012,74.9,0.751,2.06,5890.0,54.5,10.1,Upper middle income,ECU,3.23
+Ecuador,South America,2013,75.2,0.754,2.59,6080.0,54.3,9.6,Upper middle income,ECU,3.08
+Ecuador,South America,2014,75.6,0.756,2.85,6220.0,54.8,8.8,Upper middle income,ECU,3.48
+Ecuador,South America,2015,75.9,0.764,2.63,6120.0,54.1,8.8,Upper middle income,ECU,3.62
+Ecuador,South America,2016,75.9,0.758,2.46,5950.0,54.4,9.0,Upper middle income,ECU,4.6
+Ecuador,South America,2017,76.0,0.76,2.36,5980.0,53.8,9.2,Upper middle income,ECU,3.84
+Ecuador,South America,2018,76.2,0.762,2.46,5950.0,52.6,8.1,Upper middle income,ECU,3.53
+Egypt,Africa,2000,68.5,0.613,2.04,2610.0,49.1,3.1,Lower middle income,EGY,8.98
+Egypt,Africa,2001,68.3,0.618,1.77,2650.0,50.2,3.2,Lower middle income,EGY,9.26
+Egypt,Africa,2002,68.3,0.622,1.76,2660.0,51.9,3.2,Lower middle income,EGY,10.01
+Egypt,Africa,2003,68.2,0.625,2.01,2700.0,50.4,3.2,Lower middle income,EGY,11.01
+Egypt,Africa,2004,68.5,0.631,2.01,2760.0,48.2,3.1,Lower middle income,EGY,10.32
+Egypt,Africa,2005,68.8,0.637,2.19,2830.0,47.5,3.1,Lower middle income,EGY,11.2
+Egypt,Africa,2006,68.9,0.645,2.29,2970.0,46.7,3.1,Lower middle income,EGY,10.49
+Egypt,Africa,2007,69.2,0.653,2.38,3130.0,46.1,3.1,Lower middle income,EGY,8.8
+Egypt,Africa,2008,69.3,0.66,2.45,3290.0,45.4,3.1,Lower middle income,EGY,8.52
+Egypt,Africa,2009,69.3,0.662,2.5,3380.0,46.3,3.1,Lower middle income,EGY,9.09
+Egypt,Africa,2010,69.4,0.668,2.4,3490.0,46.3,3.2,Lower middle income,EGY,8.76
+Egypt,Africa,2011,69.6,0.671,2.53,3470.0,47.2,3.3,Lower middle income,EGY,11.85
+Egypt,Africa,2012,69.7,0.677,2.49,3470.0,48.1,3.4,Lower middle income,EGY,12.6
+Egypt,Africa,2013,70.1,0.683,2.37,3470.0,47.9,3.4,Lower middle income,EGY,13.15
+Egypt,Africa,2014,70.3,0.685,2.47,3490.0,48.0,3.3,Lower middle income,EGY,13.1
+Egypt,Africa,2015,69.9,0.691,2.37,3560.0,49.1,3.3,Lower middle income,EGY,13.05
+Egypt,Africa,2016,70.2,0.696,2.47,3640.0,48.9,3.2,Lower middle income,EGY,12.41
+Egypt,Africa,2017,70.5,0.698,2.46,3710.0,48.4,3.0,Lower middle income,EGY,11.74
+Egypt,Africa,2018,70.7,0.701,2.43,3830.0,50.8,3.0,Lower middle income,EGY,9.82
+El Salvador,North America,2000,73.1,0.615,0.964,2980.0,54.1,6.2,Lower middle income,SLV,6.96
+El Salvador,North America,2001,73.0,0.62,0.989,2990.0,54.6,6.8,Lower middle income,SLV,6.96
+El Salvador,North America,2002,74.3,0.627,1.02,3020.0,55.9,5.3,Lower middle income,SLV,5.73
+El Salvador,North America,2003,73.9,0.633,1.07,3050.0,57.2,6.5,Lower middle income,SLV,6.26
+El Salvador,North America,2004,73.6,0.639,1.04,3060.0,57.2,6.8,Lower middle income,SLV,6.05
+El Salvador,North America,2005,73.6,0.646,1.04,3130.0,57.8,7.8,Lower middle income,SLV,7.22
+El Salvador,North America,2006,73.7,0.653,1.11,3250.0,58.2,6.6,Lower middle income,SLV,6.57
+El Salvador,North America,2007,74.1,0.652,1.12,3290.0,58.6,7.9,Lower middle income,SLV,6.41
+El Salvador,North America,2008,74.7,0.655,1.05,3360.0,57.8,6.8,Lower middle income,SLV,5.88
+El Salvador,North America,2009,74.1,0.656,1.03,3280.0,58.4,8.6,Lower middle income,SLV,7.33
+El Salvador,North America,2010,75.2,0.668,1.02,3330.0,57.9,6.1,Lower middle income,SLV,4.89
+El Salvador,North America,2011,75.1,0.664,1.05,3450.0,57.1,8.0,Lower middle income,SLV,4.3
+El Salvador,North America,2012,74.5,0.669,1.04,3530.0,58.1,6.8,Lower middle income,SLV,3.84
+El Salvador,North America,2013,74.3,0.67,0.973,3590.0,60.1,6.4,Lower middle income,SLV,3.69
+El Salvador,North America,2014,73.5,0.668,0.981,3640.0,60.3,5.8,Lower middle income,SLV,4.15
+El Salvador,North America,2015,73.4,0.668,1.07,3710.0,59.7,6.9,Lower middle income,SLV,4.0
+El Salvador,North America,2016,75.2,0.671,1.11,3780.0,60.2,5.7,Lower middle income,SLV,4.42
+El Salvador,North America,2017,75.4,0.671,1.1,3850.0,59.5,6.1,Lower middle income,SLV,4.39
+El Salvador,North America,2018,75.6,0.67,1.11,3920.0,61.1,6.0,Lower middle income,SLV,4.01
+Estonia,Europe,2000,71.0,0.787,11.0,9960.0,58.6,29.1,High income,EST,13.36
+Estonia,Europe,2001,70.8,0.797,11.3,10600.0,59.9,30.3,High income,EST,13.13
+Estonia,Europe,2002,71.4,0.805,11.0,11400.0,63.6,29.3,High income,EST,10.03
+Estonia,Europe,2003,72.1,0.813,12.5,12400.0,63.1,26.3,High income,EST,11.29
+Estonia,Europe,2004,72.5,0.821,12.7,13300.0,61.0,26.5,High income,EST,10.25
+Estonia,Europe,2005,73.0,0.832,12.6,14600.0,60.7,22.6,High income,EST,8.03
+Estonia,Europe,2006,73.3,0.839,12.2,16100.0,61.4,20.9,High income,EST,5.91
+Estonia,Europe,2007,73.3,0.846,14.9,17500.0,60.1,21.4,High income,EST,4.59
+Estonia,Europe,2008,74.4,0.848,13.3,16600.0,60.8,19.4,High income,EST,5.45
+Estonia,Europe,2009,75.2,0.846,10.9,14200.0,64.5,23.3,High income,EST,13.55
+Estonia,Europe,2010,76.3,0.852,14.3,14600.0,65.5,18.8,High income,EST,16.71
+Estonia,Europe,2011,76.3,0.86,14.4,15700.0,63.2,18.2,High income,EST,12.33
+Estonia,Europe,2012,76.5,0.865,13.6,16300.0,64.4,21.1,High income,EST,10.02
+Estonia,Europe,2013,77.2,0.869,14.9,16500.0,65.5,18.9,High income,EST,8.63
+Estonia,Europe,2014,77.3,0.871,14.4,17100.0,66.0,19.5,High income,EST,7.35
+Estonia,Europe,2015,77.8,0.877,12.1,17400.0,65.4,15.9,High income,EST,6.19
+Estonia,Europe,2016,77.7,0.881,13.3,17900.0,66.4,15.7,High income,EST,6.76
+Estonia,Europe,2017,77.8,0.885,14.2,19000.0,66.5,18.7,High income,EST,5.76
+Estonia,Europe,2018,77.9,0.889,14.8,19700.0,67.1,15.3,High income,EST,5.37
+Ethiopia,Africa,2000,51.1,0.292,0.0524,262.0,16.7,9.7,Low income,ETH,3.51
+Ethiopia,Africa,2001,53.3,0.306,0.0626,276.0,16.4,9.3,Low income,ETH,3.3
+Ethiopia,Africa,2002,54.2,0.315,0.0632,272.0,15.7,8.9,Low income,ETH,3.13
+Ethiopia,Africa,2003,55.0,0.319,0.0675,259.0,15.0,8.6,Low income,ETH,2.94
+Ethiopia,Africa,2004,55.9,0.334,0.0695,286.0,14.9,8.3,Low income,ETH,2.69
+Ethiopia,Africa,2005,57.0,0.355,0.065,310.0,14.5,8.1,Low income,ETH,2.5
+Ethiopia,Africa,2006,58.2,0.371,0.0678,335.0,15.1,7.8,Low income,ETH,2.47
+Ethiopia,Africa,2007,59.5,0.386,0.0724,363.0,15.8,7.7,Low income,ETH,2.43
+Ethiopia,Africa,2008,60.8,0.403,0.0775,391.0,16.5,7.6,Low income,ETH,2.41
+Ethiopia,Africa,2009,61.9,0.411,0.0761,414.0,17.2,7.4,Low income,ETH,2.38
+Ethiopia,Africa,2010,63.0,0.421,0.0724,453.0,18.0,7.1,Low income,ETH,2.34
+Ethiopia,Africa,2011,64.0,0.432,0.0765,490.0,18.9,6.7,Low income,ETH,2.31
+Ethiopia,Africa,2012,64.9,0.438,0.0874,518.0,19.6,6.1,Low income,ETH,2.29
+Ethiopia,Africa,2013,65.6,0.447,0.104,556.0,20.6,5.7,Low income,ETH,2.25
+Ethiopia,Africa,2014,66.3,0.455,0.121,596.0,21.2,5.5,Low income,ETH,2.26
+Ethiopia,Africa,2015,66.8,0.462,0.128,641.0,21.8,5.5,Low income,ETH,2.27
+Ethiopia,Africa,2016,67.4,0.467,0.135,682.0,22.4,5.5,Low income,ETH,2.29
+Ethiopia,Africa,2017,67.9,0.474,0.138,728.0,23.0,5.4,Low income,ETH,2.3
+Ethiopia,Africa,2018,68.4,0.478,0.137,757.0,23.5,5.4,Low income,ETH,2.32
+Finland,Europe,2000,78.0,0.864,11.0,37900.0,65.8,24.3,High income,FIN,11.13
+Finland,Europe,2001,78.4,0.871,12.0,38800.0,67.1,24.1,High income,FIN,10.29
+Finland,Europe,2002,78.6,0.874,12.5,39300.0,67.3,22.0,High income,FIN,10.42
+Finland,Europe,2003,78.8,0.877,13.9,40000.0,68.0,21.7,High income,FIN,10.47
+Finland,Europe,2004,79.0,0.904,13.2,41500.0,68.9,21.2,High income,FIN,10.36
+Finland,Europe,2005,79.3,0.908,10.9,42500.0,69.4,19.9,High income,FIN,8.38
+Finland,Europe,2006,79.6,0.912,13.0,44100.0,69.6,21.0,High income,FIN,7.72
+Finland,Europe,2007,79.7,0.915,12.6,46200.0,69.7,19.7,High income,FIN,6.85
+Finland,Europe,2008,80.0,0.917,11.0,46300.0,70.3,20.6,High income,FIN,6.37
+Finland,Europe,2009,80.2,0.912,10.5,42400.0,71.4,20.4,High income,FIN,8.25
+Finland,Europe,2010,80.4,0.916,12.0,43500.0,72.3,18.6,High income,FIN,8.39
+Finland,Europe,2011,80.7,0.92,10.5,44400.0,72.8,17.9,High income,FIN,7.78
+Finland,Europe,2012,80.9,0.921,9.47,43600.0,73.1,17.0,High income,FIN,7.69
+Finland,Europe,2013,81.2,0.928,9.52,43000.0,73.0,17.2,High income,FIN,8.19
+Finland,Europe,2014,81.4,0.928,8.73,42700.0,73.8,15.4,High income,FIN,8.66
+Finland,Europe,2015,81.7,0.93,8.06,42800.0,74.1,14.0,High income,FIN,9.38
+Finland,Europe,2016,81.8,0.932,8.6,43900.0,74.0,15.2,High income,FIN,8.82
+Finland,Europe,2017,81.8,0.935,8.12,45200.0,74.1,15.9,High income,FIN,8.64
+Finland,Europe,2018,81.8,0.937,8.52,45600.0,74.0,16.2,High income,FIN,7.36
+France,Europe,2000,79.2,0.849,7.06,33600.0,69.6,20.2,High income,FRA,10.22
+France,Europe,2001,79.3,0.851,7.09,34000.0,69.9,19.5,High income,FRA,8.61
+France,Europe,2002,79.5,0.852,6.96,34100.0,70.5,19.8,High income,FRA,8.7
+France,Europe,2003,79.7,0.855,7.02,34200.0,71.6,20.1,High income,FRA,8.31
+France,Europe,2004,80.3,0.858,6.99,34900.0,71.9,19.5,High income,FRA,8.91
+France,Europe,2005,80.6,0.867,6.99,35200.0,72.6,19.1,High income,FRA,8.49
+France,Europe,2006,80.8,0.871,6.77,35800.0,72.5,18.5,High income,FRA,8.45
+France,Europe,2007,81.1,0.874,6.56,36500.0,73.2,17.9,High income,FRA,7.66
+France,Europe,2008,81.2,0.875,6.42,36300.0,74.0,18.2,High income,FRA,7.06
+France,Europe,2009,81.4,0.876,6.12,35100.0,74.4,18.4,High income,FRA,8.74
+France,Europe,2010,81.6,0.879,6.2,35600.0,74.8,18.2,High income,FRA,8.87
+France,Europe,2011,81.8,0.882,5.78,36200.0,74.9,18.0,High income,FRA,8.81
+France,Europe,2012,82.0,0.885,5.76,36200.0,75.3,17.8,High income,FRA,9.4
+France,Europe,2013,82.3,0.889,5.75,36200.0,75.6,17.0,High income,FRA,9.92
+France,Europe,2014,82.6,0.893,5.23,36400.0,76.6,15.6,High income,FRA,10.29
+France,Europe,2015,82.5,0.895,5.3,36600.0,77.0,15.8,High income,FRA,10.35
+France,Europe,2016,82.8,0.894,5.31,36900.0,76.9,14.9,High income,FRA,10.05
+France,Europe,2017,82.9,0.897,5.35,37700.0,77.0,14.6,High income,FRA,9.41
+France,Europe,2018,82.9,0.898,5.2,38300.0,77.3,14.2,High income,FRA,9.02
+Georgia,Asia,2000,70.7,0.69,1.03,1570.0,38.0,7.4,Upper middle income,GEO,10.82
+Georgia,Asia,2001,70.8,0.694,0.87,1670.0,37.9,6.9,Upper middle income,GEO,11.16
+Georgia,Asia,2002,70.4,0.699,0.788,1770.0,38.0,8.2,Upper middle income,GEO,12.59
+Georgia,Asia,2003,70.6,0.708,0.882,1980.0,36.7,6.6,Upper middle income,GEO,11.51
+Georgia,Asia,2004,70.7,0.715,1.01,2110.0,37.2,7.4,Upper middle income,GEO,12.62
+Georgia,Asia,2005,71.0,0.725,1.19,2330.0,36.4,6.2,Upper middle income,GEO,13.81
+Georgia,Asia,2006,71.5,0.731,1.46,2560.0,35.6,6.2,Upper middle income,GEO,13.57
+Georgia,Asia,2007,72.0,0.743,1.53,2900.0,36.2,6.1,Upper middle income,GEO,13.28
+Georgia,Asia,2008,71.5,0.742,1.28,2980.0,38.4,7.5,Upper middle income,GEO,17.87
+Georgia,Asia,2009,71.7,0.746,1.49,2900.0,40.4,8.5,Upper middle income,GEO,20.71
+Georgia,Asia,2010,71.9,0.751,1.52,3100.0,41.3,8.3,Upper middle income,GEO,20.2
+Georgia,Asia,2011,72.2,0.757,1.91,3360.0,40.4,8.7,Upper middle income,GEO,19.63
+Georgia,Asia,2012,72.5,0.767,2.03,3600.0,42.0,9.2,Upper middle income,GEO,19.65
+Georgia,Asia,2013,72.9,0.775,1.98,3740.0,41.9,9.8,Upper middle income,GEO,19.42
+Georgia,Asia,2014,73.2,0.783,2.18,3900.0,42.8,10.3,Upper middle income,GEO,17.44
+Georgia,Asia,2015,73.3,0.79,2.38,4010.0,44.9,10.5,Upper middle income,GEO,16.51
+Georgia,Asia,2016,73.1,0.792,2.47,4130.0,44.3,10.7,Upper middle income,GEO,16.6
+Georgia,Asia,2017,73.2,0.799,2.66,4330.0,43.8,9.6,Upper middle income,GEO,13.94
+Georgia,Asia,2018,73.3,0.805,2.64,4540.0,46.9,9.4,Upper middle income,GEO,12.67
+Germany,Europe,2000,78.4,0.876,11.1,34500.0,63.8,14.5,High income,DEU,7.92
+Germany,Europe,2001,78.7,0.884,11.3,35000.0,64.6,14.5,High income,DEU,7.77
+Germany,Europe,2002,78.8,0.89,11.1,34900.0,65.1,14.6,High income,DEU,8.48
+Germany,Europe,2003,78.9,0.896,11.1,34600.0,66.2,14.4,High income,DEU,9.78
+Germany,Europe,2004,79.3,0.907,10.9,35000.0,66.4,14.0,High income,DEU,10.73
+Germany,Europe,2005,79.6,0.908,10.6,35300.0,67.8,13.3,High income,DEU,11.17
+Germany,Europe,2006,79.9,0.918,10.8,36700.0,68.1,12.8,High income,DEU,10.25
+Germany,Europe,2007,80.0,0.921,10.5,37800.0,67.8,12.4,High income,DEU,8.66
+Germany,Europe,2008,80.2,0.924,10.5,38300.0,68.9,12.5,High income,DEU,7.52
+Germany,Europe,2009,80.3,0.924,9.76,36200.0,69.5,12.8,High income,DEU,7.74
+Germany,Europe,2010,80.5,0.927,10.3,37700.0,70.0,13.2,High income,DEU,6.97
+Germany,Europe,2011,80.7,0.933,10.0,40000.0,70.1,13.2,High income,DEU,5.82
+Germany,Europe,2012,80.8,0.934,10.1,40100.0,70.2,12.9,High income,DEU,5.38
+Germany,Europe,2013,80.8,0.935,10.3,40100.0,70.8,13.4,High income,DEU,5.23
+Germany,Europe,2014,81.0,0.937,9.74,40800.0,70.5,13.4,High income,DEU,4.98
+Germany,Europe,2015,80.9,0.938,9.74,41100.0,70.9,13.3,High income,DEU,4.62
+Germany,Europe,2016,81.0,0.941,9.76,41700.0,71.3,13.0,High income,DEU,4.12
+Germany,Europe,2017,81.1,0.943,9.66,42600.0,71.3,12.6,High income,DEU,3.75
+Germany,Europe,2018,81.2,0.946,9.14,43000.0,71.4,12.9,High income,DEU,3.38
+Ghana,Africa,2000,59.6,0.494,0.317,1000.0,31.0,5.4,Lower middle income,GHA,10.46
+Ghana,Africa,2001,59.5,0.493,0.341,1020.0,30.9,5.8,Lower middle income,GHA,9.5
+Ghana,Africa,2002,59.5,0.499,0.357,1040.0,30.8,6.1,Lower middle income,GHA,8.53
+Ghana,Africa,2003,59.6,0.5,0.359,1060.0,30.8,6.4,Lower middle income,GHA,7.56
+Ghana,Africa,2004,59.8,0.509,0.336,1090.0,30.8,6.6,Lower middle income,GHA,6.59
+Ghana,Africa,2005,60.0,0.52,0.312,1130.0,30.9,6.9,Lower middle income,GHA,5.62
+Ghana,Africa,2006,60.3,0.529,0.41,1170.0,30.8,7.0,Lower middle income,GHA,4.64
+Ghana,Africa,2007,60.5,0.541,0.419,1190.0,32.0,7.2,Lower middle income,GHA,4.84
+Ghana,Africa,2008,61.0,0.553,0.379,1270.0,33.4,7.5,Lower middle income,GHA,4.99
+Ghana,Africa,2009,61.3,0.558,0.31,1300.0,34.6,7.6,Lower middle income,GHA,5.22
+Ghana,Africa,2010,61.8,0.565,0.392,1360.0,36.0,7.8,Lower middle income,GHA,5.38
+Ghana,Africa,2011,62.4,0.574,0.443,1520.0,37.7,7.8,Lower middle income,GHA,5.6
+Ghana,Africa,2012,63.0,0.577,0.551,1620.0,39.2,7.8,Lower middle income,GHA,5.91
+Ghana,Africa,2013,63.5,0.586,0.533,1700.0,40.6,7.7,Lower middle income,GHA,6.2
+Ghana,Africa,2014,63.9,0.59,0.542,1710.0,43.4,7.5,Lower middle income,GHA,6.52
+Ghana,Africa,2015,64.2,0.59,0.579,1710.0,46.1,7.3,Lower middle income,GHA,6.81
+Ghana,Africa,2016,64.7,0.598,0.57,1720.0,47.0,7.2,Lower middle income,GHA,5.53
+Ghana,Africa,2017,65.1,0.602,0.606,1820.0,47.8,7.0,Lower middle income,GHA,4.22
+Ghana,Africa,2018,65.8,0.606,0.615,1890.0,48.5,6.6,Lower middle income,GHA,4.28
+Greece,Europe,2000,78.4,0.804,9.3,18600.0,60.0,3.5,High income,GRC,11.25
+Greece,Europe,2001,78.7,0.814,9.47,19300.0,61.1,3.1,High income,GRC,10.46
+Greece,Europe,2002,78.9,0.826,9.4,20000.0,62.0,2.9,High income,GRC,9.97
+Greece,Europe,2003,79.1,0.833,9.73,21100.0,62.4,3.3,High income,GRC,9.41
+Greece,Europe,2004,79.2,0.843,9.76,22100.0,65.2,3.1,High income,GRC,10.31
+Greece,Europe,2005,79.4,0.853,10.2,22200.0,65.5,3.7,High income,GRC,9.99
+Greece,Europe,2006,79.7,0.859,10.1,23400.0,66.3,3.7,High income,GRC,9.01
+Greece,Europe,2007,79.6,0.857,10.3,24100.0,66.2,3.0,High income,GRC,8.4
+Greece,Europe,2008,80.0,0.865,10.1,23900.0,66.6,3.4,High income,GRC,7.76
+Greece,Europe,2009,80.2,0.867,9.53,22800.0,67.2,3.6,High income,GRC,9.62
+Greece,Europe,2010,80.4,0.865,8.95,21600.0,68.0,3.5,High income,GRC,12.71
+Greece,Europe,2011,80.5,0.862,8.74,19400.0,70.0,4.4,High income,GRC,17.86
+Greece,Europe,2012,80.6,0.865,8.49,18100.0,70.5,4.8,High income,GRC,24.44
+Greece,Europe,2013,80.9,0.867,7.62,17800.0,70.7,5.0,High income,GRC,27.47
+Greece,Europe,2014,81.0,0.875,7.36,18000.0,71.5,5.3,High income,GRC,26.49
+Greece,Europe,2015,80.9,0.877,7.04,18100.0,72.2,5.0,High income,GRC,24.9
+Greece,Europe,2016,81.0,0.874,6.73,18000.0,72.4,4.7,High income,GRC,23.54
+Greece,Europe,2017,81.1,0.879,7.09,18300.0,72.5,5.1,High income,GRC,21.49
+Greece,Europe,2018,81.0,0.881,7.03,18600.0,72.5,5.1,High income,GRC,19.29
+Guatemala,North America,2000,66.7,0.549,0.839,3200.0,37.7,10.2,Upper middle income,GTM,2.72
+Guatemala,North America,2001,67.2,0.557,0.859,3190.0,39.8,10.7,Upper middle income,GTM,2.78
+Guatemala,North America,2002,67.8,0.563,0.879,3240.0,41.2,10.5,Upper middle income,GTM,2.75
+Guatemala,North America,2003,68.1,0.567,0.836,3250.0,42.8,10.8,Upper middle income,GTM,2.81
+Guatemala,North America,2004,68.4,0.571,0.874,3280.0,43.7,11.0,Upper middle income,GTM,2.97
+Guatemala,North America,2005,68.4,0.574,0.925,3320.0,43.8,11.4,Upper middle income,GTM,3.05
+Guatemala,North America,2006,68.9,0.583,0.91,3430.0,44.0,10.7,Upper middle income,GTM,3.06
+Guatemala,North America,2007,69.5,0.592,0.887,3570.0,44.1,8.3,Upper middle income,GTM,3.11
+Guatemala,North America,2008,69.9,0.597,0.778,3620.0,44.3,8.0,Upper middle income,GTM,3.31
+Guatemala,North America,2009,69.9,0.601,0.8,3570.0,44.4,7.9,Upper middle income,GTM,3.51
+Guatemala,North America,2010,70.3,0.606,0.759,3610.0,44.5,7.3,Upper middle income,GTM,3.5
+Guatemala,North America,2011,70.7,0.612,0.752,3690.0,46.4,6.6,Upper middle income,GTM,3.09
+Guatemala,North America,2012,71.1,0.618,0.758,3730.0,48.2,6.1,Upper middle income,GTM,2.76
+Guatemala,North America,2013,71.3,0.621,0.807,3800.0,51.0,5.9,Upper middle income,GTM,3.02
+Guatemala,North America,2014,71.6,0.648,0.852,3900.0,49.0,5.8,Upper middle income,GTM,2.72
+Guatemala,North America,2015,71.8,0.652,0.95,3990.0,49.2,5.8,Upper middle income,GTM,2.51
+Guatemala,North America,2016,72.0,0.653,0.988,4030.0,49.6,5.7,Upper middle income,GTM,2.58
+Guatemala,North America,2017,72.3,0.655,0.959,4090.0,49.2,5.6,Upper middle income,GTM,2.46
+Guatemala,North America,2018,72.4,0.657,1.07,4160.0,49.6,6.0,Upper middle income,GTM,2.28
+Guyana,South America,2000,64.0,0.616,2.16,3850.0,51.0,31.4,Upper middle income,GUY,11.86
+Guyana,South America,2001,63.9,0.619,2.14,3950.0,51.7,34.7,Upper middle income,GUY,11.81
+Guyana,South America,2002,63.9,0.622,2.12,3990.0,52.4,34.5,Upper middle income,GUY,11.81
+Guyana,South America,2003,64.1,0.618,2.1,3970.0,53.0,33.2,Upper middle income,GUY,11.55
+Guyana,South America,2004,64.3,0.625,2.18,4030.0,53.4,32.5,Upper middle income,GUY,11.27
+Guyana,South America,2005,64.4,0.629,1.93,3940.0,53.5,30.9,Upper middle income,GUY,11.02
+Guyana,South America,2006,65.0,0.63,1.73,4150.0,53.3,30.7,Upper middle income,GUY,10.7
+Guyana,South America,2007,65.2,0.634,2.09,4440.0,53.7,30.9,Upper middle income,GUY,10.96
+Guyana,South America,2008,65.3,0.638,2.09,4510.0,54.2,30.0,Upper middle income,GUY,11.27
+Guyana,South America,2009,65.9,0.641,2.09,4680.0,54.6,32.9,Upper middle income,GUY,11.53
+Guyana,South America,2010,65.8,0.649,2.29,4850.0,54.9,33.3,Upper middle income,GUY,11.8
+Guyana,South America,2011,65.7,0.658,2.37,5090.0,55.5,32.6,Upper middle income,GUY,12.06
+Guyana,South America,2012,65.7,0.662,2.64,5340.0,55.9,35.0,Upper middle income,GUY,12.34
+Guyana,South America,2013,66.0,0.666,2.55,5510.0,56.7,38.2,Upper middle income,GUY,12.63
+Guyana,South America,2014,66.0,0.671,2.63,5570.0,57.2,37.2,Upper middle income,GUY,12.92
+Guyana,South America,2015,66.4,0.674,2.61,5580.0,57.9,37.3,Upper middle income,GUY,13.21
+Guyana,South America,2016,66.7,0.676,3.04,5760.0,58.1,37.9,Upper middle income,GUY,13.46
+Guyana,South America,2017,66.9,0.677,3.03,5950.0,58.7,38.5,Upper middle income,GUY,13.75
+Guyana,South America,2018,67.1,0.68,3.12,6180.0,59.2,39.5,Upper middle income,GUY,14.02
+Honduras,North America,2000,70.1,0.566,0.751,1790.0,41.8,2.1,Lower middle income,HND,3.84
+Honduras,North America,2001,70.2,0.57,0.831,1790.0,40.9,2.1,Lower middle income,HND,4.0
+Honduras,North America,2002,70.4,0.575,0.865,1810.0,39.3,2.1,Lower middle income,HND,4.02
+Honduras,North America,2003,70.5,0.58,0.938,1850.0,41.2,2.2,Lower middle income,HND,5.3
+Honduras,North America,2004,70.7,0.586,0.995,1910.0,42.7,2.1,Lower middle income,HND,5.99
+Honduras,North America,2005,70.9,0.593,0.996,1980.0,43.4,2.2,Lower middle income,HND,4.91
+Honduras,North America,2006,71.1,0.599,0.978,2060.0,42.3,2.2,Lower middle income,HND,3.57
+Honduras,North America,2007,71.2,0.607,1.1,2140.0,43.7,2.1,Lower middle income,HND,3.21
+Honduras,North America,2008,71.3,0.603,1.06,2180.0,43.7,2.1,Lower middle income,HND,3.16
+Honduras,North America,2009,71.3,0.605,0.943,2090.0,43.7,2.0,Lower middle income,HND,3.29
+Honduras,North America,2010,71.1,0.61,0.954,2120.0,44.5,2.0,Lower middle income,HND,4.12
+Honduras,North America,2011,71.0,0.613,1.02,2160.0,44.9,1.9,Lower middle income,HND,4.47
+Honduras,North America,2012,69.3,0.612,1.04,2210.0,43.1,3.3,Lower middle income,HND,3.75
+Honduras,North America,2013,69.6,0.613,1.05,2230.0,46.6,3.2,Lower middle income,HND,5.65
+Honduras,North America,2014,69.9,0.616,1.04,2260.0,49.2,3.4,Lower middle income,HND,7.08
+Honduras,North America,2015,69.9,0.618,1.08,2300.0,49.5,4.0,Lower middle income,HND,6.15
+Honduras,North America,2016,71.5,0.626,1.04,2350.0,51.1,2.0,Lower middle income,HND,6.73
+Honduras,North America,2017,71.7,0.63,1.02,2420.0,47.3,2.1,Lower middle income,HND,5.53
+Honduras,North America,2018,71.9,0.633,1.04,2480.0,49.1,2.0,Lower middle income,HND,5.65
+Hungary,Europe,2000,71.9,0.772,5.73,8970.0,59.8,33.4,High income,HUN,6.56
+Hungary,Europe,2001,72.5,0.781,5.91,9350.0,59.4,29.8,High income,HUN,5.67
+Hungary,Europe,2002,72.6,0.788,5.83,9830.0,59.7,28.6,High income,HUN,5.61
+Hungary,Europe,2003,72.7,0.797,6.11,10300.0,61.2,28.0,High income,HUN,5.79
+Hungary,Europe,2004,73.1,0.799,5.98,10800.0,61.8,27.5,High income,HUN,5.83
+Hungary,Europe,2005,73.1,0.805,6.0,11300.0,62.7,26.4,High income,HUN,7.19
+Hungary,Europe,2006,73.5,0.815,5.96,11700.0,62.9,24.9,High income,HUN,7.49
+Hungary,Europe,2007,73.6,0.818,5.85,11800.0,62.9,25.0,High income,HUN,7.41
+Hungary,Europe,2008,74.2,0.822,5.75,11900.0,63.5,25.4,High income,HUN,7.82
+Hungary,Europe,2009,74.4,0.828,5.21,11100.0,64.2,25.4,High income,HUN,10.03
+Hungary,Europe,2010,74.8,0.831,5.26,11300.0,64.8,25.5,High income,HUN,11.17
+Hungary,Europe,2011,75.1,0.828,5.09,11500.0,64.3,25.1,High income,HUN,11.03
+Hungary,Europe,2012,75.4,0.831,4.75,11400.0,65.1,24.8,High income,HUN,11.0
+Hungary,Europe,2013,75.9,0.839,4.46,11700.0,65.3,22.1,High income,HUN,10.18
+Hungary,Europe,2014,76.0,0.838,4.48,12200.0,64.8,20.4,High income,HUN,7.73
+Hungary,Europe,2015,75.9,0.842,4.78,12700.0,64.8,19.9,High income,HUN,6.81
+Hungary,Europe,2016,76.3,0.844,4.87,13000.0,64.5,18.7,High income,HUN,5.11
+Hungary,Europe,2017,76.3,0.846,5.11,13600.0,63.4,17.5,High income,HUN,4.16
+Hungary,Europe,2018,76.3,0.85,5.14,14400.0,62.7,17.7,High income,HUN,3.71
+Iceland,Europe,2000,80.3,0.867,10.5,42200.0,69.2,13.1,High income,ISL,1.94
+Iceland,Europe,2001,80.6,0.872,10.1,43300.0,69.4,12.8,High income,ISL,1.87
+Iceland,Europe,2002,80.8,0.881,10.5,43100.0,70.1,12.2,High income,ISL,2.99
+Iceland,Europe,2003,81.2,0.887,10.4,43800.0,71.4,12.5,High income,ISL,4.0
+Iceland,Europe,2004,81.4,0.891,10.7,46800.0,70.3,12.4,High income,ISL,4.03
+Iceland,Europe,2005,81.6,0.896,10.1,48900.0,71.8,11.8,High income,ISL,2.55
+Iceland,Europe,2006,81.7,0.899,10.5,50700.0,72.1,12.5,High income,ISL,2.83
+Iceland,Europe,2007,81.9,0.905,11.5,53600.0,73.2,14.8,High income,ISL,2.25
+Iceland,Europe,2008,82.2,0.899,12.2,53800.0,73.4,14.8,High income,ISL,2.95
+Iceland,Europe,2009,82.4,0.898,11.8,49500.0,75.7,14.3,High income,ISL,7.22
+Iceland,Europe,2010,82.6,0.898,11.3,48200.0,76.0,12.8,High income,ISL,7.56
+Iceland,Europe,2011,82.8,0.907,10.8,48900.0,76.0,11.6,High income,ISL,7.03
+Iceland,Europe,2012,82.9,0.915,10.7,49200.0,76.2,13.5,High income,ISL,6.0
+Iceland,Europe,2013,83.2,0.927,10.7,50900.0,76.9,13.9,High income,ISL,5.38
+Iceland,Europe,2014,83.7,0.931,10.5,51200.0,77.0,15.7,High income,ISL,4.9
+Iceland,Europe,2015,83.7,0.934,10.7,53000.0,77.9,14.3,High income,ISL,3.98
+Iceland,Europe,2016,83.8,0.941,10.5,55500.0,78.6,13.0,High income,ISL,2.98
+Iceland,Europe,2017,83.9,0.943,10.8,56500.0,78.8,12.2,High income,ISL,2.74
+Iceland,Europe,2018,84.0,0.946,10.8,57700.0,79.2,10.8,High income,ISL,2.7
+India,Asia,2000,62.9,0.495,0.975,758.0,24.0,17.0,Lower middle income,IND,5.56
+India,Asia,2001,63.3,0.499,0.964,781.0,24.3,16.6,Lower middle income,IND,5.58
+India,Asia,2002,63.8,0.506,0.959,797.0,24.5,16.1,Lower middle income,IND,5.53
+India,Asia,2003,64.5,0.518,0.983,845.0,24.7,15.3,Lower middle income,IND,5.64
+India,Asia,2004,65.2,0.527,1.01,898.0,25.0,15.2,Lower middle income,IND,5.63
+India,Asia,2005,65.4,0.536,1.06,954.0,25.2,15.5,Lower middle income,IND,5.61
+India,Asia,2006,65.6,0.546,1.11,1010.0,25.5,15.6,Lower middle income,IND,5.6
+India,Asia,2007,65.8,0.555,1.18,1080.0,25.8,15.3,Lower middle income,IND,5.57
+India,Asia,2008,66.1,0.563,1.29,1090.0,26.1,15.1,Lower middle income,IND,5.41
+India,Asia,2009,66.8,0.569,1.41,1160.0,26.4,14.5,Lower middle income,IND,5.54
+India,Asia,2010,67.3,0.579,1.38,1240.0,26.7,14.6,Lower middle income,IND,5.55
+India,Asia,2011,67.6,0.588,1.45,1290.0,27.6,14.7,Lower middle income,IND,5.43
+India,Asia,2012,68.0,0.597,1.56,1350.0,28.6,14.3,Lower middle income,IND,5.41
+India,Asia,2013,68.4,0.604,1.56,1420.0,29.1,13.7,Lower middle income,IND,5.42
+India,Asia,2014,69.0,0.616,1.7,1500.0,29.7,12.8,Lower middle income,IND,5.44
+India,Asia,2015,69.4,0.624,1.76,1610.0,30.2,12.3,Lower middle income,IND,5.43
+India,Asia,2016,70.0,0.63,1.79,1720.0,30.7,12.1,Lower middle income,IND,5.42
+India,Asia,2017,70.3,0.64,1.84,1820.0,31.2,12.0,Lower middle income,IND,5.36
+India,Asia,2018,70.5,0.642,1.96,1920.0,31.7,12.6,Lower middle income,IND,5.33
+Indonesia,Asia,2000,67.2,0.603,1.26,1870.0,37.3,3.5,Lower middle income,IDN,6.08
+Indonesia,Asia,2001,67.5,0.609,1.39,1910.0,37.5,3.4,Lower middle income,IDN,6.08
+Indonesia,Asia,2002,67.7,0.615,1.42,1970.0,36.9,3.3,Lower middle income,IDN,6.6
+Indonesia,Asia,2003,67.8,0.622,1.44,2030.0,35.9,3.2,Lower middle income,IDN,6.66
+Indonesia,Asia,2004,66.3,0.628,1.52,2110.0,38.7,3.2,Lower middle income,IDN,7.3
+Indonesia,Asia,2005,68.3,0.632,1.52,2200.0,37.2,3.0,Lower middle income,IDN,7.94
+Indonesia,Asia,2006,68.4,0.642,1.51,2290.0,39.3,2.9,Lower middle income,IDN,7.55
+Indonesia,Asia,2007,68.7,0.643,1.62,2400.0,39.9,2.9,Lower middle income,IDN,8.06
+Indonesia,Asia,2008,68.9,0.647,1.77,2510.0,40.5,2.8,Lower middle income,IDN,7.21
+Indonesia,Asia,2009,69.1,0.658,1.88,2600.0,41.3,2.7,Lower middle income,IDN,6.11
+Indonesia,Asia,2010,69.3,0.665,1.77,2720.0,42.2,2.6,Lower middle income,IDN,5.61
+Indonesia,Asia,2011,69.6,0.673,2.07,2850.0,42.8,2.6,Lower middle income,IDN,5.15
+Indonesia,Asia,2012,69.8,0.681,2.12,2980.0,43.0,2.5,Lower middle income,IDN,4.47
+Indonesia,Asia,2013,70.0,0.687,1.63,3100.0,44.1,2.5,Lower middle income,IDN,4.34
+Indonesia,Asia,2014,70.2,0.69,1.44,3220.0,44.3,2.4,Lower middle income,IDN,4.05
+Indonesia,Asia,2015,70.4,0.695,1.96,3330.0,44.9,2.4,Lower middle income,IDN,4.51
+Indonesia,Asia,2016,70.7,0.703,2.15,3460.0,46.5,2.4,Lower middle income,IDN,4.3
+Indonesia,Asia,2017,70.9,0.707,2.21,3590.0,47.2,2.4,Lower middle income,IDN,3.88
+Indonesia,Asia,2018,71.1,0.712,2.3,3730.0,48.1,2.4,Lower middle income,IDN,4.4
+Iran,Asia,2000,71.9,0.658,5.63,3890.0,45.6,8.0,Lower middle income,IRN,11.57
+Iran,Asia,2001,72.2,0.665,5.95,3870.0,45.6,7.8,Lower middle income,IRN,12.28
+Iran,Asia,2002,72.5,0.67,5.92,4100.0,45.2,7.5,Lower middle income,IRN,12.8
+Iran,Asia,2003,71.8,0.677,6.08,4410.0,44.8,7.0,Lower middle income,IRN,11.51
+Iran,Asia,2004,73.2,0.678,6.42,4540.0,44.8,6.7,Lower middle income,IRN,10.3
+Iran,Asia,2005,73.5,0.683,6.65,4630.0,44.9,6.3,Lower middle income,IRN,11.81
+Iran,Asia,2006,74.0,0.719,7.15,4810.0,45.1,6.0,Lower middle income,IRN,11.52
+Iran,Asia,2007,74.4,0.723,7.2,5150.0,45.1,6.4,Lower middle income,IRN,10.77
+Iran,Asia,2008,74.8,0.728,7.42,5100.0,46.5,6.2,Lower middle income,IRN,10.63
+Iran,Asia,2009,75.1,0.734,7.51,5100.0,47.3,6.2,Lower middle income,IRN,12.11
+Iran,Asia,2010,75.5,0.742,7.65,5330.0,48.6,6.3,Lower middle income,IRN,13.68
+Iran,Asia,2011,75.8,0.753,7.76,5410.0,48.2,6.8,Lower middle income,IRN,12.49
+Iran,Asia,2012,76.0,0.768,7.96,4950.0,48.3,6.7,Lower middle income,IRN,12.27
+Iran,Asia,2013,76.2,0.771,7.97,4880.0,48.5,6.6,Lower middle income,IRN,10.6
+Iran,Asia,2014,76.5,0.774,8.29,5040.0,48.3,6.5,Lower middle income,IRN,10.68
+Iran,Asia,2015,76.7,0.774,8.17,4900.0,49.4,6.3,Lower middle income,IRN,11.17
+Iran,Asia,2016,77.1,0.784,8.21,5490.0,50.1,6.2,Lower middle income,IRN,12.62
+Iran,Asia,2017,77.3,0.787,8.51,5610.0,50.4,6.0,Lower middle income,IRN,12.23
+Iran,Asia,2018,77.6,0.785,8.81,5200.0,50.3,5.7,Lower middle income,IRN,12.19
+Iraq,Asia,2000,68.6,0.595,3.05,4340.0,50.6,3.8,Upper middle income,IRQ,8.73
+Iraq,Asia,2001,69.0,0.601,3.5,4280.0,51.3,3.8,Upper middle income,IRQ,8.81
+Iraq,Asia,2002,69.3,0.603,3.47,3820.0,52.6,3.8,Upper middle income,IRQ,8.85
+Iraq,Asia,2003,68.1,0.589,3.54,2350.0,52.9,3.8,Upper middle income,IRQ,8.82
+Iraq,Asia,2004,68.3,0.615,4.32,3520.0,54.2,3.8,Upper middle income,IRQ,8.61
+Iraq,Asia,2005,67.7,0.617,4.2,3490.0,54.1,3.8,Upper middle income,IRQ,8.71
+Iraq,Asia,2006,66.6,0.62,3.58,3620.0,53.9,3.8,Upper middle income,IRQ,8.65
+Iraq,Asia,2007,67.2,0.623,2.2,3630.0,54.6,3.7,Upper middle income,IRQ,8.65
+Iraq,Asia,2008,69.3,0.63,3.25,3860.0,54.6,3.6,Upper middle income,IRQ,8.48
+Iraq,Asia,2009,70.1,0.632,3.57,3910.0,55.4,3.7,Upper middle income,IRQ,8.39
+Iraq,Asia,2010,70.6,0.636,3.73,4050.0,55.3,3.9,Upper middle income,IRQ,8.25
+Iraq,Asia,2011,71.0,0.642,4.41,4220.0,55.4,4.1,Upper middle income,IRQ,8.12
+Iraq,Asia,2012,71.3,0.646,4.8,4630.0,55.0,4.1,Upper middle income,IRQ,7.96
+Iraq,Asia,2013,70.9,0.646,4.94,4790.0,55.3,4.2,Upper middle income,IRQ,9.26
+Iraq,Asia,2014,69.9,0.645,4.8,4630.0,55.8,4.1,Upper middle income,IRQ,10.59
+Iraq,Asia,2015,70.7,0.649,4.66,4690.0,56.9,4.1,Upper middle income,IRQ,10.73
+Iraq,Asia,2016,70.9,0.656,5.15,5180.0,56.6,4.0,Upper middle income,IRQ,10.82
+Iraq,Asia,2017,71.5,0.667,4.99,4960.0,57.5,3.9,Upper middle income,IRQ,13.02
+Iraq,Asia,2018,73.3,0.671,5.32,4790.0,58.4,3.7,Upper middle income,IRQ,12.97
+Ireland,Europe,2000,76.8,0.867,12.0,41600.0,63.6,12.7,High income,IRL,4.32
+Ireland,Europe,2001,77.3,0.873,12.4,43100.0,64.0,13.2,High income,IRL,3.68
+Ireland,Europe,2002,77.8,0.881,11.8,44900.0,65.3,12.2,High income,IRL,4.22
+Ireland,Europe,2003,78.3,0.889,11.5,45500.0,65.8,12.1,High income,IRL,4.48
+Ireland,Europe,2004,78.7,0.898,11.4,47700.0,66.0,11.9,High income,IRL,4.49
+Ireland,Europe,2005,79.1,0.904,11.6,49400.0,66.5,11.8,High income,IRL,4.34
+Ireland,Europe,2006,79.4,0.906,11.3,50400.0,66.5,10.9,High income,IRL,4.41
+Ireland,Europe,2007,79.7,0.909,11.0,51600.0,68.8,11.5,High income,IRL,4.98
+Ireland,Europe,2008,80.0,0.911,10.7,48300.0,71.4,12.2,High income,IRL,6.77
+Ireland,Europe,2009,80.2,0.906,9.38,45400.0,74.6,14.0,High income,IRL,12.61
+Ireland,Europe,2010,80.8,0.901,9.16,45900.0,76.2,11.9,High income,IRL,14.53
+Ireland,Europe,2011,80.8,0.902,8.28,46200.0,76.8,12.5,High income,IRL,15.35
+Ireland,Europe,2012,81.0,0.908,8.29,46000.0,77.2,12.4,High income,IRL,15.45
+Ireland,Europe,2013,81.2,0.917,8.06,46300.0,77.0,11.4,High income,IRL,13.73
+Ireland,Europe,2014,81.5,0.928,7.93,50000.0,77.3,11.0,High income,IRL,11.86
+Ireland,Europe,2015,81.7,0.935,8.27,62000.0,76.6,9.3,High income,IRL,9.91
+Ireland,Europe,2016,81.9,0.943,8.5,62500.0,76.2,10.0,High income,IRL,8.37
+Ireland,Europe,2017,81.9,0.947,8.15,67400.0,76.1,10.0,High income,IRL,6.71
+Ireland,Europe,2018,82.0,0.951,8.09,72600.0,76.4,9.9,High income,IRL,5.74
+Italy,Europe,2000,79.6,0.838,8.3,32300.0,63.0,7.5,High income,ITA,10.84
+Italy,Europe,2001,79.9,0.845,8.38,33000.0,63.1,7.3,High income,ITA,9.6
+Italy,Europe,2002,80.2,0.85,8.36,33000.0,63.5,7.4,High income,ITA,9.21
+Italy,Europe,2003,80.3,0.855,8.53,32900.0,63.5,7.4,High income,ITA,8.87
+Italy,Europe,2004,80.8,0.86,8.54,33100.0,65.0,7.2,High income,ITA,7.87
+Italy,Europe,2005,81.0,0.865,8.49,33200.0,65.1,6.7,High income,ITA,7.73
+Italy,Europe,2006,81.3,0.87,8.36,33700.0,65.7,6.7,High income,ITA,6.78
+Italy,Europe,2007,81.5,0.874,8.16,34100.0,65.9,6.7,High income,ITA,6.08
+Italy,Europe,2008,81.6,0.876,7.94,33500.0,66.5,6.9,High income,ITA,6.72
+Italy,Europe,2009,81.8,0.876,7.06,31600.0,67.1,7.0,High income,ITA,7.75
+Italy,Europe,2010,82.1,0.879,7.19,32000.0,67.6,6.9,High income,ITA,8.36
+Italy,Europe,2011,82.2,0.883,6.95,32200.0,68.0,7.4,High income,ITA,8.36
+Italy,Europe,2012,82.4,0.882,6.56,31200.0,68.7,7.6,High income,ITA,10.65
+Italy,Europe,2013,82.6,0.881,6.06,30200.0,69.4,7.5,High income,ITA,12.15
+Italy,Europe,2014,82.8,0.882,5.77,30000.0,69.5,7.2,High income,ITA,12.68
+Italy,Europe,2015,82.7,0.882,5.88,30200.0,69.6,7.1,High income,ITA,11.9
+Italy,Europe,2016,83.0,0.884,5.83,30700.0,70.0,6.6,High income,ITA,11.69
+Italy,Europe,2017,83.1,0.886,5.76,31200.0,70.2,7.1,High income,ITA,11.21
+Italy,Europe,2018,83.1,0.89,5.58,31600.0,70.1,6.7,High income,ITA,10.61
+Jamaica,North America,2000,74.6,0.678,3.89,4840.0,62.2,1.9,Upper middle income,JAM,15.54
+Jamaica,North America,2001,74.7,0.689,3.96,4870.0,62.1,1.9,Upper middle income,JAM,14.93
+Jamaica,North America,2002,75.5,0.692,3.79,4930.0,62.6,1.8,Upper middle income,JAM,14.19
+Jamaica,North America,2003,76.3,0.687,3.94,5080.0,62.2,1.7,Upper middle income,JAM,11.73
+Jamaica,North America,2004,76.8,0.704,3.88,5120.0,63.3,1.6,Upper middle income,JAM,12.21
+Jamaica,North America,2005,77.4,0.706,3.78,5140.0,64.1,1.5,Upper middle income,JAM,11.26
+Jamaica,North America,2006,77.5,0.711,4.15,5260.0,64.0,1.5,Upper middle income,JAM,10.32
+Jamaica,North America,2007,76.3,0.719,3.48,5310.0,64.6,1.8,Upper middle income,JAM,9.75
+Jamaica,North America,2008,75.2,0.737,3.57,5240.0,65.1,2.2,Upper middle income,JAM,10.59
+Jamaica,North America,2009,74.6,0.733,2.73,4990.0,65.6,2.3,Upper middle income,JAM,11.36
+Jamaica,North America,2010,76.3,0.732,2.54,4890.0,66.0,1.9,Upper middle income,JAM,12.37
+Jamaica,North America,2011,75.8,0.731,2.72,4950.0,66.3,2.2,Upper middle income,JAM,12.7
+Jamaica,North America,2012,77.0,0.731,2.58,4890.0,66.3,2.1,Upper middle income,JAM,13.93
+Jamaica,North America,2013,77.1,0.729,2.78,4880.0,66.5,2.0,Upper middle income,JAM,15.25
+Jamaica,North America,2014,76.3,0.729,2.54,4890.0,66.6,2.2,Upper middle income,JAM,13.74
+Jamaica,North America,2015,76.1,0.731,2.62,4910.0,67.3,2.2,Upper middle income,JAM,13.51
+Jamaica,North America,2016,76.2,0.731,2.81,4950.0,67.7,2.2,Upper middle income,JAM,13.19
+Jamaica,North America,2017,76.3,0.734,2.8,4970.0,67.5,2.3,Upper middle income,JAM,11.63
+Jamaica,North America,2018,76.3,0.734,2.79,5040.0,67.7,2.3,Upper middle income,JAM,9.1
+Japan,Asia,2000,81.6,0.858,9.93,31400.0,63.5,23.9,High income,JPN,4.75
+Japan,Asia,2001,81.9,0.861,9.8,31500.0,64.4,23.2,High income,JPN,5.02
+Japan,Asia,2002,82.2,0.864,10.0,31400.0,65.3,23.8,High income,JPN,5.39
+Japan,Asia,2003,82.3,0.867,10.1,31800.0,66.2,25.6,High income,JPN,5.25
+Japan,Asia,2004,82.5,0.871,10.0,32500.0,67.0,24.1,High income,JPN,4.73
+Japan,Asia,2005,82.5,0.875,10.1,33100.0,67.6,24.3,High income,JPN,4.45
+Japan,Asia,2006,82.8,0.879,9.88,33500.0,67.9,23.9,High income,JPN,4.19
+Japan,Asia,2007,82.9,0.882,10.1,34000.0,68.2,25.0,High income,JPN,3.89
+Japan,Asia,2008,83.1,0.883,9.59,33600.0,68.6,24.4,High income,JPN,4.0
+Japan,Asia,2009,83.3,0.882,9.05,31700.0,69.6,24.9,High income,JPN,5.07
+Japan,Asia,2010,83.3,0.887,9.46,32900.0,70.4,24.1,High income,JPN,5.1
+Japan,Asia,2011,83.2,0.892,9.85,33000.0,70.7,23.4,High income,JPN,4.55
+Japan,Asia,2012,83.6,0.897,10.2,33500.0,70.9,21.6,High income,JPN,4.36
+Japan,Asia,2013,83.9,0.902,10.3,34200.0,71.0,21.4,High income,JPN,4.0
+Japan,Asia,2014,84.1,0.906,9.88,34400.0,71.2,20.1,High income,JPN,3.6
+Japan,Asia,2015,84.3,0.908,9.58,35000.0,71.4,19.1,High income,JPN,3.4
+Japan,Asia,2016,84.5,0.912,9.45,35300.0,71.8,17.5,High income,JPN,3.1
+Japan,Asia,2017,84.7,0.915,9.33,35900.0,71.9,17.0,High income,JPN,2.8
+Japan,Asia,2018,84.8,0.917,9.14,36200.0,72.1,16.7,High income,JPN,2.4
+Jordan,Asia,2000,72.9,0.711,2.97,3590.0,74.9,2.5,Upper middle income,JOR,13.7
+Jordan,Asia,2001,73.0,0.717,2.99,3710.0,74.9,2.4,Upper middle income,JOR,14.7
+Jordan,Asia,2002,73.3,0.715,3.09,3850.0,74.9,2.3,Upper middle income,JOR,15.3
+Jordan,Asia,2003,73.8,0.72,3.13,3920.0,72.8,2.3,Upper middle income,JOR,14.5
+Jordan,Asia,2004,74.0,0.726,3.35,4150.0,70.1,2.2,Upper middle income,JOR,14.58
+Jordan,Asia,2005,74.1,0.738,3.55,4340.0,69.9,2.0,Upper middle income,JOR,14.8
+Jordan,Asia,2006,74.5,0.741,3.43,4520.0,70.0,1.9,Upper middle income,JOR,14.0
+Jordan,Asia,2007,75.5,0.744,3.43,4680.0,69.9,1.7,Upper middle income,JOR,13.1
+Jordan,Asia,2008,76.2,0.745,3.16,4790.0,70.0,1.7,Upper middle income,JOR,12.7
+Jordan,Asia,2009,76.7,0.743,3.1,4780.0,70.0,1.6,Upper middle income,JOR,12.9
+Jordan,Asia,2010,76.9,0.737,2.84,4640.0,70.3,1.5,Upper middle income,JOR,12.5
+Jordan,Asia,2011,77.2,0.734,2.77,4520.0,70.9,1.5,Upper middle income,JOR,12.9
+Jordan,Asia,2012,77.5,0.735,2.95,4390.0,71.2,1.5,Upper middle income,JOR,12.2
+Jordan,Asia,2013,77.9,0.729,2.8,4270.0,71.5,1.5,Upper middle income,JOR,12.6
+Jordan,Asia,2014,78.1,0.729,2.91,4220.0,71.9,1.5,Upper middle income,JOR,11.9
+Jordan,Asia,2015,78.2,0.73,2.75,4160.0,72.2,1.5,Upper middle income,JOR,13.08
+Jordan,Asia,2016,78.1,0.729,2.55,4120.0,72.6,1.5,Upper middle income,JOR,15.28
+Jordan,Asia,2017,78.2,0.726,2.47,4110.0,72.9,1.5,Upper middle income,JOR,18.14
+Jordan,Asia,2018,77.9,0.728,2.42,4110.0,73.2,1.6,Upper middle income,JOR,18.27
+Kazakhstan,Asia,2000,64.7,0.685,8.95,4450.0,47.3,38.7,Upper middle income,KAZ,12.75
+Kazakhstan,Asia,2001,64.7,0.7,8.57,5060.0,48.2,39.0,Upper middle income,KAZ,10.43
+Kazakhstan,Asia,2002,64.7,0.714,9.76,5550.0,48.2,38.2,Upper middle income,KAZ,9.33
+Kazakhstan,Asia,2003,64.6,0.726,10.8,6050.0,47.8,39.2,Upper middle income,KAZ,8.78
+Kazakhstan,Asia,2004,64.6,0.737,11.2,6580.0,49.1,39.7,Upper middle income,KAZ,8.4
+Kazakhstan,Asia,2005,64.6,0.747,11.9,7160.0,49.6,39.2,Upper middle income,KAZ,8.13
+Kazakhstan,Asia,2006,64.8,0.754,13.3,7840.0,50.0,38.0,Upper middle income,KAZ,7.79
+Kazakhstan,Asia,2007,65.3,0.758,13.6,8440.0,49.9,38.0,Upper middle income,KAZ,7.26
+Kazakhstan,Asia,2008,66.3,0.758,13.4,8550.0,50.9,34.6,Upper middle income,KAZ,6.63
+Kazakhstan,Asia,2009,67.3,0.762,13.0,8490.0,52.3,30.3,Upper middle income,KAZ,6.55
+Kazakhstan,Asia,2010,67.6,0.764,14.5,8980.0,53.0,29.9,Upper middle income,KAZ,5.77
+Kazakhstan,Asia,2011,68.1,0.772,13.8,9510.0,54.6,28.7,Upper middle income,KAZ,5.39
+Kazakhstan,Asia,2012,68.6,0.782,14.0,9820.0,55.1,27.6,Upper middle income,KAZ,5.29
+Kazakhstan,Asia,2013,69.4,0.791,14.1,10300.0,56.0,26.3,Upper middle income,KAZ,5.2
+Kazakhstan,Asia,2014,70.1,0.798,14.8,10500.0,58.8,24.2,Upper middle income,KAZ,5.06
+Kazakhstan,Asia,2015,70.6,0.806,15.0,10500.0,61.4,23.2,Upper middle income,KAZ,4.93
+Kazakhstan,Asia,2016,71.1,0.808,15.0,10500.0,62.2,21.7,Upper middle income,KAZ,4.96
+Kazakhstan,Asia,2017,71.5,0.815,15.7,10800.0,62.8,20.8,Upper middle income,KAZ,4.9
+Kazakhstan,Asia,2018,71.7,0.819,17.6,11100.0,63.4,19.0,Upper middle income,KAZ,4.85
+Kenya,Africa,2000,54.8,0.461,0.323,1000.0,39.7,7.6,Lower middle income,KEN,3.02
+Kenya,Africa,2001,54.9,0.465,0.281,1010.0,38.3,6.9,Lower middle income,KEN,2.99
+Kenya,Africa,2002,55.0,0.465,0.232,991.0,36.7,6.4,Lower middle income,KEN,3.0
+Kenya,Africa,2003,55.2,0.478,0.19,992.0,35.1,6.1,Lower middle income,KEN,2.97
+Kenya,Africa,2004,55.7,0.49,0.209,1020.0,33.7,5.7,Lower middle income,KEN,2.94
+Kenya,Africa,2005,56.5,0.5,0.228,1050.0,32.2,6.0,Lower middle income,KEN,2.92
+Kenya,Africa,2006,57.5,0.515,0.248,1080.0,32.4,6.0,Lower middle income,KEN,2.91
+Kenya,Africa,2007,58.5,0.523,0.247,1130.0,32.7,6.3,Lower middle income,KEN,2.89
+Kenya,Africa,2008,59.4,0.532,0.249,1100.0,32.8,6.2,Lower middle income,KEN,2.92
+Kenya,Africa,2009,60.3,0.541,0.293,1100.0,33.0,6.0,Lower middle income,KEN,2.88
+Kenya,Africa,2010,61.2,0.551,0.28,1160.0,33.7,6.0,Lower middle income,KEN,2.84
+Kenya,Africa,2011,62.0,0.559,0.3,1200.0,34.3,5.9,Lower middle income,KEN,2.84
+Kenya,Africa,2012,62.6,0.566,0.271,1220.0,34.8,5.9,Lower middle income,KEN,2.83
+Kenya,Africa,2013,63.2,0.573,0.281,1260.0,35.4,5.9,Lower middle income,KEN,2.81
+Kenya,Africa,2014,63.8,0.58,0.295,1300.0,36.0,5.7,Lower middle income,KEN,2.8
+Kenya,Africa,2015,64.4,0.587,0.341,1340.0,36.7,5.5,Lower middle income,KEN,2.78
+Kenya,Africa,2016,65.1,0.591,0.35,1380.0,37.3,5.4,Lower middle income,KEN,2.76
+Kenya,Africa,2017,65.7,0.595,0.36,1410.0,38.0,5.6,Lower middle income,KEN,3.51
+Kenya,Africa,2018,66.1,0.599,0.36,1470.0,38.7,6.0,Lower middle income,KEN,4.25
+Kuwait,Asia,2000,78.1,0.781,26.1,30000.0,75.6,3.0,High income,KWT,0.8
+Kuwait,Asia,2001,79.2,0.778,27.4,29200.0,76.4,2.6,High income,KWT,0.8
+Kuwait,Asia,2002,78.6,0.78,27.2,29600.0,77.0,2.8,High income,KWT,1.1
+Kuwait,Asia,2003,78.9,0.788,27.6,34300.0,76.8,2.6,High income,KWT,1.3
+Kuwait,Asia,2004,78.8,0.789,28.7,37200.0,76.5,2.7,High income,KWT,1.7
+Kuwait,Asia,2005,78.7,0.783,31.4,39800.0,76.6,2.6,High income,KWT,1.5
+Kuwait,Asia,2006,78.8,0.788,30.9,41000.0,75.4,2.7,High income,KWT,1.3
+Kuwait,Asia,2007,79.0,0.788,29.9,41200.0,74.2,2.6,High income,KWT,1.5
+Kuwait,Asia,2008,78.1,0.79,31.0,39800.0,72.4,2.9,High income,KWT,1.75
+Kuwait,Asia,2009,78.7,0.789,30.8,34800.0,73.6,2.7,High income,KWT,1.64
+Kuwait,Asia,2010,80.1,0.788,29.9,32000.0,73.9,2.5,High income,KWT,1.82
+Kuwait,Asia,2011,80.9,0.792,27.3,33200.0,73.7,2.3,High income,KWT,2.04
+Kuwait,Asia,2012,81.0,0.796,29.9,33500.0,73.7,2.4,High income,KWT,2.32
+Kuwait,Asia,2013,81.3,0.793,26.8,32100.0,74.0,2.4,High income,KWT,2.62
+Kuwait,Asia,2014,81.6,0.796,23.8,30900.0,74.4,2.5,High income,KWT,2.9
+Kuwait,Asia,2015,81.5,0.801,24.1,29900.0,75.3,2.6,High income,KWT,2.2
+Kuwait,Asia,2016,81.6,0.804,24.8,29800.0,75.6,2.6,High income,KWT,2.16
+Kuwait,Asia,2017,81.6,0.805,24.1,27700.0,76.0,2.7,High income,KWT,2.2
+Kuwait,Asia,2018,81.6,0.807,23.7,27500.0,76.0,2.8,High income,KWT,2.16
+Latvia,Europe,2000,70.7,0.735,2.97,6660.0,58.3,34.7,High income,LVA,14.21
+Latvia,Europe,2001,70.1,0.753,3.17,7170.0,58.3,32.2,High income,LVA,13.82
+Latvia,Europe,2002,70.5,0.767,3.22,7770.0,58.2,31.5,High income,LVA,13.83
+Latvia,Europe,2003,71.0,0.781,3.35,8500.0,58.7,29.1,High income,LVA,12.06
+Latvia,Europe,2004,71.3,0.795,3.4,9330.0,59.8,26.8,High income,LVA,11.71
+Latvia,Europe,2005,70.9,0.809,3.47,10400.0,61.5,26.5,High income,LVA,10.03
+Latvia,Europe,2006,70.5,0.816,3.74,11800.0,61.2,23.2,High income,LVA,7.03
+Latvia,Europe,2007,70.9,0.825,3.93,13100.0,61.2,20.9,High income,LVA,6.05
+Latvia,Europe,2008,72.1,0.828,3.78,12800.0,62.6,26.4,High income,LVA,7.74
+Latvia,Europe,2009,72.9,0.826,3.48,11100.0,66.9,26.3,High income,LVA,17.51
+Latvia,Europe,2010,73.3,0.824,4.04,10900.0,68.3,22.5,High income,LVA,19.48
+Latvia,Europe,2011,73.9,0.829,3.73,11800.0,68.2,22.7,High income,LVA,16.21
+Latvia,Europe,2012,74.2,0.832,3.64,12400.0,68.1,23.5,High income,LVA,15.05
+Latvia,Europe,2013,74.2,0.839,3.61,12900.0,68.0,20.6,High income,LVA,11.87
+Latvia,Europe,2014,74.7,0.845,3.56,13100.0,68.6,20.7,High income,LVA,10.85
+Latvia,Europe,2015,75.1,0.849,3.65,13800.0,68.4,21.6,High income,LVA,9.87
+Latvia,Europe,2016,75.7,0.854,3.67,14200.0,68.2,21.3,High income,LVA,9.64
+Latvia,Europe,2017,75.8,0.859,3.71,14800.0,69.8,21.4,High income,LVA,8.72
+Latvia,Europe,2018,75.8,0.863,3.73,15500.0,69.4,18.1,High income,LVA,7.41
+Lebanon,Asia,2000,74.8,0.74,4.03,6740.0,56.8,2.8,Upper middle income,LBN,8.31
+Lebanon,Asia,2001,75.1,0.74,4.11,6730.0,57.2,2.7,Upper middle income,LBN,8.19
+Lebanon,Asia,2002,75.3,0.74,3.89,6650.0,57.7,2.7,Upper middle income,LBN,8.09
+Lebanon,Asia,2003,75.3,0.74,4.23,6540.0,58.1,2.6,Upper middle income,LBN,7.99
+Lebanon,Asia,2004,75.4,0.74,3.77,6700.0,58.2,2.7,Upper middle income,LBN,7.85
+Lebanon,Asia,2005,75.4,0.74,3.55,6690.0,58.7,2.7,Upper middle income,LBN,8.28
+Lebanon,Asia,2006,75.1,0.739,3.11,6710.0,59.2,2.5,Upper middle income,LBN,8.68
+Lebanon,Asia,2007,75.5,0.751,2.89,7320.0,59.1,2.9,Upper middle income,LBN,8.98
+Lebanon,Asia,2008,75.4,0.757,3.66,7990.0,59.1,2.9,Upper middle income,LBN,7.67
+Lebanon,Asia,2009,75.5,0.764,4.36,8720.0,58.9,3.0,Upper middle income,LBN,6.35
+Lebanon,Asia,2010,75.6,0.766,4.04,9150.0,59.2,3.0,Upper middle income,LBN,6.84
+Lebanon,Asia,2011,75.7,0.768,3.9,8780.0,59.8,3.0,Upper middle income,LBN,7.39
+Lebanon,Asia,2012,75.7,0.759,4.04,8460.0,60.2,3.0,Upper middle income,LBN,7.85
+Lebanon,Asia,2013,75.8,0.757,3.76,8230.0,60.5,3.0,Upper middle income,LBN,8.31
+Lebanon,Asia,2014,75.8,0.748,3.79,7960.0,61.1,2.8,Upper middle income,LBN,8.81
+Lebanon,Asia,2015,75.9,0.744,3.69,7640.0,61.9,2.8,Upper middle income,LBN,9.32
+Lebanon,Asia,2016,76.1,0.741,3.64,7550.0,62.5,2.7,Upper middle income,LBN,9.78
+Lebanon,Asia,2017,76.2,0.748,3.53,7500.0,63.2,3.0,Upper middle income,LBN,10.27
+Lebanon,Asia,2018,76.2,0.747,3.53,7310.0,64.1,2.5,Upper middle income,LBN,10.8
+Libya,Africa,2000,74.9,0.78,8.74,6590.0,46.5,4.9,Upper middle income,LBY,19.67
+Libya,Africa,2001,75.0,0.785,8.78,6370.0,47.3,5.1,Upper middle income,LBY,19.7
+Libya,Africa,2002,75.0,0.79,8.59,6210.0,47.8,5.2,Upper middle income,LBY,19.65
+Libya,Africa,2003,75.5,0.797,8.69,6910.0,47.6,5.1,Upper middle income,LBY,19.46
+Libya,Africa,2004,76.4,0.798,8.76,7100.0,48.1,4.4,Upper middle income,LBY,19.51
+Libya,Africa,2005,76.8,0.8,8.92,7830.0,47.9,4.3,Upper middle income,LBY,19.39
+Libya,Africa,2006,76.9,0.8,8.95,8210.0,48.2,4.2,Upper middle income,LBY,19.41
+Libya,Africa,2007,76.0,0.8,8.26,8600.0,48.5,4.9,Upper middle income,LBY,19.38
+Libya,Africa,2008,75.9,0.8,9.14,8710.0,48.7,5.4,Upper middle income,LBY,19.38
+Libya,Africa,2009,75.7,0.799,9.33,8530.0,49.3,5.7,Upper middle income,LBY,19.37
+Libya,Africa,2010,76.2,0.798,9.87,8870.0,49.9,5.6,Upper middle income,LBY,19.27
+Libya,Africa,2011,73.2,0.764,6.29,3340.0,51.8,5.1,Upper middle income,LBY,19.39
+Libya,Africa,2012,76.5,0.789,8.34,7400.0,53.2,5.7,Upper middle income,LBY,19.03
+Libya,Africa,2013,76.7,0.761,8.87,6360.0,55.1,4.8,Upper middle income,LBY,19.45
+Libya,Africa,2014,74.3,0.728,9.23,4800.0,56.9,6.3,Upper middle income,LBY,19.46
+Libya,Africa,2015,74.6,0.697,8.79,4340.0,58.3,5.6,Upper middle income,LBY,19.53
+Libya,Africa,2016,74.3,0.687,7.72,4170.0,59.3,5.0,Upper middle income,LBY,19.53
+Libya,Africa,2017,75.6,0.714,7.96,5210.0,58.8,5.5,Upper middle income,LBY,19.37
+Libya,Africa,2018,75.7,0.721,8.09,5910.0,58.6,5.8,Upper middle income,LBY,19.45
+Lithuania,Europe,2000,72.2,0.762,3.37,6420.0,54.0,50.1,High income,LTU,15.93
+Lithuania,Europe,2001,71.7,0.774,3.6,6900.0,55.8,47.1,High income,LTU,16.84
+Lithuania,Europe,2002,72.0,0.785,3.66,7420.0,54.0,47.0,High income,LTU,13.01
+Lithuania,Europe,2003,72.0,0.797,3.69,8270.0,54.1,45.4,High income,LTU,12.87
+Lithuania,Europe,2004,72.0,0.805,3.9,8920.0,55.5,43.3,High income,LTU,10.68
+Lithuania,Europe,2005,71.3,0.817,4.22,9760.0,56.7,42.7,High income,LTU,8.32
+Lithuania,Europe,2006,70.9,0.826,4.36,10700.0,56.6,35.2,High income,LTU,5.78
+Lithuania,Europe,2007,70.6,0.833,4.84,12000.0,58.1,34.5,High income,LTU,4.25
+Lithuania,Europe,2008,71.4,0.838,4.7,12400.0,61.4,37.8,High income,LTU,5.83
+Lithuania,Europe,2009,73.0,0.828,4.05,10700.0,64.2,39.2,High income,LTU,13.79
+Lithuania,Europe,2010,73.2,0.831,4.39,11100.0,66.6,37.2,High income,LTU,17.81
+Lithuania,Europe,2011,73.7,0.838,4.57,12000.0,67.0,38.1,High income,LTU,15.39
+Lithuania,Europe,2012,74.0,0.841,4.65,12700.0,66.1,35.0,High income,LTU,13.36
+Lithuania,Europe,2013,74.0,0.847,4.36,13300.0,66.1,40.5,High income,LTU,11.77
+Lithuania,Europe,2014,74.6,0.859,4.34,13800.0,66.1,35.6,High income,LTU,10.7
+Lithuania,Europe,2015,74.7,0.862,4.48,14300.0,65.9,34.9,High income,LTU,9.12
+Lithuania,Europe,2016,74.9,0.867,4.54,14800.0,66.9,32.8,High income,LTU,7.86
+Lithuania,Europe,2017,76.0,0.873,4.72,15700.0,67.1,29.7,High income,LTU,7.07
+Lithuania,Europe,2018,76.1,0.876,4.84,16400.0,67.1,27.4,High income,LTU,6.15
+Malaysia,Asia,2000,73.0,0.723,5.46,6390.0,49.5,4.7,Upper middle income,MYS,3.0
+Malaysia,Asia,2001,73.3,0.721,5.7,6290.0,51.8,4.5,Upper middle income,MYS,3.53
+Malaysia,Asia,2002,73.5,0.723,5.64,6490.0,53.1,4.5,Upper middle income,MYS,3.48
+Malaysia,Asia,2003,73.5,0.73,6.37,6730.0,53.7,4.7,Upper middle income,MYS,3.61
+Malaysia,Asia,2004,73.8,0.733,6.82,7040.0,55.3,4.7,Upper middle income,MYS,3.54
+Malaysia,Asia,2005,74.1,0.73,7.08,7270.0,55.6,4.6,Upper middle income,MYS,3.53
+Malaysia,Asia,2006,74.4,0.737,6.83,7530.0,55.1,4.5,Upper middle income,MYS,3.31
+Malaysia,Asia,2007,74.5,0.75,6.85,7850.0,56.8,4.4,Upper middle income,MYS,3.23
+Malaysia,Asia,2008,74.3,0.761,7.44,8070.0,57.4,4.5,Upper middle income,MYS,3.32
+Malaysia,Asia,2009,74.2,0.765,7.11,7810.0,59.5,4.6,Upper middle income,MYS,3.66
+Malaysia,Asia,2010,74.4,0.772,7.68,8250.0,59.1,4.5,Upper middle income,MYS,3.39
+Malaysia,Asia,2011,74.6,0.778,7.6,8550.0,59.7,4.6,Upper middle income,MYS,3.05
+Malaysia,Asia,2012,74.8,0.781,7.43,8890.0,59.2,4.6,Upper middle income,MYS,3.1
+Malaysia,Asia,2013,75.3,0.785,7.96,9180.0,59.4,4.4,Upper middle income,MYS,3.16
+Malaysia,Asia,2014,75.1,0.791,8.08,9600.0,59.7,4.6,Upper middle income,MYS,2.88
+Malaysia,Asia,2015,75.0,0.796,7.71,9960.0,60.0,4.8,Upper middle income,MYS,3.1
+Malaysia,Asia,2016,75.0,0.8,8.05,10300.0,61.1,5.1,Upper middle income,MYS,3.44
+Malaysia,Asia,2017,75.1,0.805,7.93,10700.0,61.0,5.4,Upper middle income,MYS,3.41
+Malaysia,Asia,2018,75.2,0.805,8.08,11100.0,62.3,5.4,Upper middle income,MYS,3.3
+Mali,Africa,2000,53.3,0.312,0.076,572.0,19.3,4.8,Low income,MLI,5.63
+Mali,Africa,2001,53.8,0.325,0.0745,641.0,20.1,4.7,Low income,MLI,6.3
+Mali,Africa,2002,54.3,0.334,0.0739,641.0,20.3,4.7,Low income,MLI,7.16
+Mali,Africa,2003,54.9,0.347,0.0716,678.0,20.8,4.6,Low income,MLI,7.9
+Mali,Africa,2004,55.6,0.356,0.072,667.0,21.0,4.5,Low income,MLI,8.75
+Mali,Africa,2005,56.2,0.367,0.0718,688.0,21.4,4.6,Low income,MLI,9.69
+Mali,Africa,2006,56.6,0.376,0.0819,697.0,21.7,4.5,Low income,MLI,10.7
+Mali,Africa,2007,57.1,0.371,0.0951,697.0,22.0,4.6,Low income,MLI,11.71
+Mali,Africa,2008,57.6,0.394,0.11,707.0,22.4,4.6,Low income,MLI,10.49
+Mali,Africa,2009,58.0,0.401,0.122,717.0,22.8,4.6,Low income,MLI,9.29
+Mali,Africa,2010,58.4,0.408,0.131,732.0,23.2,4.5,Low income,MLI,8.07
+Mali,Africa,2011,58.9,0.413,0.139,732.0,23.8,4.5,Low income,MLI,6.9
+Mali,Africa,2012,59.1,0.413,0.144,705.0,24.0,4.5,Low income,MLI,6.65
+Mali,Africa,2013,59.2,0.413,0.161,701.0,24.3,4.5,Low income,MLI,6.35
+Mali,Africa,2014,59.5,0.419,0.172,729.0,25.3,4.4,Low income,MLI,6.38
+Mali,Africa,2015,59.9,0.417,0.178,751.0,29.5,4.3,Low income,MLI,7.73
+Mali,Africa,2016,60.4,0.422,0.173,772.0,28.3,4.2,Low income,MLI,7.57
+Mali,Africa,2017,60.8,0.427,0.186,789.0,28.6,4.1,Low income,MLI,7.41
+Mali,Africa,2018,61.2,0.431,0.187,802.0,29.3,4.1,Low income,MLI,7.43
+Mauritius,Africa,2000,72.3,0.678,2.27,5530.0,49.3,11.8,Upper middle income,MUS,9.18
+Mauritius,Africa,2001,72.6,0.687,2.4,5670.0,51.7,10.1,Upper middle income,MUS,9.14
+Mauritius,Africa,2002,72.7,0.692,2.4,5730.0,52.6,11.3,Upper middle income,MUS,8.2
+Mauritius,Africa,2003,72.9,0.701,2.53,6020.0,53.2,7.7,Upper middle income,MUS,8.25
+Mauritius,Africa,2004,73.2,0.708,2.54,6240.0,56.4,8.2,Upper middle income,MUS,8.34
+Mauritius,Africa,2005,73.2,0.717,2.7,6320.0,57.5,9.0,Upper middle income,MUS,9.52
+Mauritius,Africa,2006,73.3,0.724,2.96,6590.0,58.1,9.2,Upper middle income,MUS,9.04
+Mauritius,Africa,2007,73.8,0.731,2.99,6940.0,58.6,10.3,Upper middle income,MUS,8.48
+Mauritius,Africa,2008,73.7,0.738,3.04,7290.0,59.1,6.7,Upper middle income,MUS,7.17
+Mauritius,Africa,2009,73.8,0.745,2.98,7510.0,61.3,9.1,Upper middle income,MUS,7.26
+Mauritius,Africa,2010,74.2,0.751,3.14,7820.0,62.7,7.8,Upper middle income,MUS,7.65
+Mauritius,Africa,2011,74.6,0.76,3.13,8120.0,64.1,9.0,Upper middle income,MUS,7.45
+Mauritius,Africa,2012,74.7,0.771,3.17,8380.0,64.3,9.6,Upper middle income,MUS,7.47
+Mauritius,Africa,2013,75.1,0.779,3.24,8650.0,65.2,8.2,Upper middle income,MUS,7.32
+Mauritius,Africa,2014,75.0,0.789,3.35,8950.0,66.1,10.2,Upper middle income,MUS,7.47
+Mauritius,Africa,2015,75.2,0.789,3.35,9260.0,67.0,7.9,Upper middle income,MUS,7.41
+Mauritius,Africa,2016,75.2,0.794,3.45,9610.0,67.9,8.1,Upper middle income,MUS,6.81
+Mauritius,Africa,2017,75.3,0.797,3.75,9970.0,68.8,9.6,Upper middle income,MUS,6.75
+Mauritius,Africa,2018,75.3,0.801,3.83,10300.0,69.7,8.7,Upper middle income,MUS,6.43
+Mexico,North America,2000,74.2,0.708,4.01,8860.0,55.5,3.5,Upper middle income,MEX,2.65
+Mexico,North America,2001,74.6,0.712,4.1,8700.0,56.5,3.8,Upper middle income,MEX,2.63
+Mexico,North America,2002,74.6,0.718,4.05,8580.0,57.2,3.9,Upper middle income,MEX,3.0
+Mexico,North America,2003,74.7,0.722,4.25,8590.0,57.9,4.0,Upper middle income,MEX,3.46
+Mexico,North America,2004,75.0,0.731,4.2,8800.0,58.4,4.0,Upper middle income,MEX,3.94
+Mexico,North America,2005,75.0,0.737,4.38,8880.0,59.0,4.1,Upper middle income,MEX,3.56
+Mexico,North America,2006,75.3,0.745,4.43,9140.0,59.6,4.0,Upper middle income,MEX,3.57
+Mexico,North America,2007,75.6,0.746,4.4,9210.0,60.0,4.1,Upper middle income,MEX,3.63
+Mexico,North America,2008,75.2,0.748,4.45,9180.0,60.7,4.4,Upper middle income,MEX,3.87
+Mexico,North America,2009,75.0,0.748,4.24,8570.0,61.9,4.6,Upper middle income,MEX,5.36
+Mexico,North America,2010,75.3,0.748,4.07,8880.0,61.7,4.5,Upper middle income,MEX,5.3
+Mexico,North America,2011,75.5,0.755,4.19,9080.0,62.0,5.2,Upper middle income,MEX,5.17
+Mexico,North America,2012,75.7,0.759,4.24,9280.0,62.2,4.9,Upper middle income,MEX,4.89
+Mexico,North America,2013,75.5,0.756,4.13,9280.0,62.0,5.2,Upper middle income,MEX,4.91
+Mexico,North America,2014,75.6,0.761,4.0,9430.0,61.4,5.7,Upper middle income,MEX,4.81
+Mexico,North America,2015,75.7,0.766,3.96,9620.0,61.4,5.6,Upper middle income,MEX,4.31
+Mexico,North America,2016,75.5,0.768,3.94,9750.0,61.1,5.6,Upper middle income,MEX,3.86
+Mexico,North America,2017,75.5,0.771,3.95,9840.0,60.9,5.9,Upper middle income,MEX,3.42
+Mexico,North America,2018,75.5,0.776,3.79,9950.0,61.1,5.4,Upper middle income,MEX,3.28
+Moldova,Europe,2000,68.9,0.643,0.851,1340.0,35.1,17.2,Upper middle income,MDA,8.46
+Moldova,Europe,2001,69.2,0.651,0.905,1420.0,35.0,18.6,Upper middle income,MDA,7.29
+Moldova,Europe,2002,69.1,0.663,0.971,1540.0,35.9,17.7,Upper middle income,MDA,6.8
+Moldova,Europe,2003,69.1,0.673,1.06,1640.0,40.9,18.5,Upper middle income,MDA,7.95
+Moldova,Europe,2004,69.4,0.684,1.11,1770.0,43.3,18.3,Upper middle income,MDA,8.17
+Moldova,Europe,2005,68.9,0.692,1.19,1910.0,43.3,19.4,Upper middle income,MDA,7.29
+Moldova,Europe,2006,69.4,0.699,1.21,2000.0,48.2,19.7,Upper middle income,MDA,7.38
+Moldova,Europe,2007,69.6,0.704,1.21,2070.0,48.5,17.2,Upper middle income,MDA,5.07
+Moldova,Europe,2008,69.9,0.71,1.26,2230.0,49.3,19.1,Upper middle income,MDA,3.98
+Moldova,Europe,2009,70.1,0.706,1.11,2100.0,52.5,19.7,Upper middle income,MDA,6.4
+Moldova,Europe,2010,70.0,0.713,1.18,2250.0,53.8,20.5,Upper middle income,MDA,7.45
+Moldova,Europe,2011,71.7,0.719,1.21,2390.0,53.7,15.3,Upper middle income,MDA,6.68
+Moldova,Europe,2012,72.0,0.726,1.17,2370.0,54.3,17.0,Upper middle income,MDA,5.58
+Moldova,Europe,2013,72.7,0.735,1.2,2590.0,53.5,17.0,Upper middle income,MDA,5.1
+Moldova,Europe,2014,72.3,0.737,1.16,2720.0,51.6,17.2,Upper middle income,MDA,3.73
+Moldova,Europe,2015,72.1,0.736,1.18,2730.0,48.0,16.2,Upper middle income,MDA,4.7
+Moldova,Europe,2016,72.6,0.738,1.21,2890.0,49.2,15.9,Upper middle income,MDA,4.02
+Moldova,Europe,2017,73.7,0.743,1.18,3070.0,51.0,14.9,Upper middle income,MDA,4.1
+Moldova,Europe,2018,74.0,0.746,1.27,3260.0,55.9,14.4,Upper middle income,MDA,4.11
+Mongolia,Asia,2000,61.0,0.588,3.13,1610.0,37.2,22.0,Lower middle income,MNG,6.23
+Mongolia,Asia,2001,61.3,0.599,3.26,1640.0,38.0,22.3,Lower middle income,MNG,6.21
+Mongolia,Asia,2002,61.7,0.608,3.38,1700.0,40.7,21.7,Lower middle income,MNG,6.2
+Mongolia,Asia,2003,62.1,0.621,3.25,1800.0,41.4,23.1,Lower middle income,MNG,6.8
+Mongolia,Asia,2004,62.5,0.636,3.44,1970.0,43.7,23.7,Lower middle income,MNG,6.82
+Mongolia,Asia,2005,62.9,0.649,3.4,2090.0,43.3,24.0,Lower middle income,MNG,7.04
+Mongolia,Asia,2006,63.5,0.659,3.68,2240.0,43.9,23.7,Lower middle income,MNG,7.13
+Mongolia,Asia,2007,64.0,0.671,4.66,2440.0,44.7,23.6,Lower middle income,MNG,7.2
+Mongolia,Asia,2008,64.5,0.682,4.57,2620.0,44.2,23.8,Lower middle income,MNG,5.56
+Mongolia,Asia,2009,64.8,0.687,4.89,2540.0,45.0,23.6,Lower middle income,MNG,5.86
+Mongolia,Asia,2010,65.1,0.696,5.09,2660.0,50.2,23.4,Lower middle income,MNG,6.55
+Mongolia,Asia,2011,65.5,0.71,7.74,3060.0,49.6,22.7,Lower middle income,MNG,4.77
+Mongolia,Asia,2012,66.1,0.718,12.4,3370.0,46.8,21.7,Lower middle income,MNG,3.9
+Mongolia,Asia,2013,66.6,0.727,15.1,3690.0,49.8,21.0,Lower middle income,MNG,4.23
+Mongolia,Asia,2014,67.2,0.732,10.1,3900.0,51.3,20.0,Lower middle income,MNG,4.8
+Mongolia,Asia,2015,67.7,0.735,7.76,3920.0,51.3,20.0,Lower middle income,MNG,4.86
+Mongolia,Asia,2016,67.8,0.729,8.29,3890.0,50.6,20.1,Lower middle income,MNG,7.24
+Mongolia,Asia,2017,67.9,0.728,8.49,4020.0,52.0,19.2,Lower middle income,MNG,6.36
+Mongolia,Asia,2018,68.0,0.735,8.88,4240.0,52.5,18.6,Lower middle income,MNG,5.38
+Morocco,Africa,2000,69.5,0.529,1.17,1980.0,34.8,9.9,Lower middle income,MAR,13.58
+Morocco,Africa,2001,69.9,0.541,1.29,2100.0,35.1,9.9,Lower middle income,MAR,12.46
+Morocco,Africa,2002,70.3,0.551,1.29,2130.0,35.5,9.6,Lower middle income,MAR,11.59
+Morocco,Africa,2003,70.3,0.562,1.26,2240.0,35.9,9.6,Lower middle income,MAR,11.92
+Morocco,Africa,2004,70.5,0.572,1.44,2320.0,34.7,9.5,Lower middle income,MAR,10.83
+Morocco,Africa,2005,70.8,0.58,1.5,2360.0,35.0,9.4,Lower middle income,MAR,11.01
+Morocco,Africa,2006,71.0,0.586,1.54,2510.0,36.3,9.3,Lower middle income,MAR,9.67
+Morocco,Africa,2007,71.2,0.594,1.61,2570.0,36.7,9.3,Lower middle income,MAR,9.56
+Morocco,Africa,2008,71.4,0.602,1.68,2690.0,37.0,9.3,Lower middle income,MAR,9.57
+Morocco,Africa,2009,71.6,0.608,1.65,2770.0,37.5,9.2,Lower middle income,MAR,8.96
+Morocco,Africa,2010,71.9,0.616,1.74,2840.0,37.9,9.2,Lower middle income,MAR,9.09
+Morocco,Africa,2011,72.1,0.626,1.73,2950.0,38.4,9.2,Lower middle income,MAR,8.91
+Morocco,Africa,2012,72.3,0.635,1.78,3000.0,39.4,8.9,Lower middle income,MAR,8.99
+Morocco,Africa,2013,72.1,0.644,1.74,3090.0,39.9,8.0,Lower middle income,MAR,9.23
+Morocco,Africa,2014,72.3,0.652,1.75,3130.0,40.6,7.7,Lower middle income,MAR,9.7
+Morocco,Africa,2015,72.5,0.658,1.76,3220.0,41.1,7.4,Lower middle income,MAR,9.46
+Morocco,Africa,2016,72.8,0.667,1.74,3210.0,41.8,7.2,Lower middle income,MAR,9.3
+Morocco,Africa,2017,72.9,0.673,1.79,3310.0,42.3,7.1,Lower middle income,MAR,9.24
+Morocco,Africa,2018,73.1,0.68,1.84,3370.0,43.0,7.2,Lower middle income,MAR,9.27
+Namibia,Africa,2000,53.9,0.544,0.915,3120.0,56.4,19.3,Upper middle income,NAM,20.3
+Namibia,Africa,2001,53.1,0.543,1.11,3110.0,56.1,18.8,Upper middle income,NAM,20.8
+Namibia,Africa,2002,52.5,0.541,0.951,3210.0,55.8,18.7,Upper middle income,NAM,21.23
+Namibia,Africa,2003,52.1,0.543,0.997,3300.0,55.5,18.2,Upper middle income,NAM,21.72
+Namibia,Africa,2004,52.4,0.545,1.03,3650.0,55.2,16.7,Upper middle income,NAM,22.09
+Namibia,Africa,2005,53.5,0.545,1.19,3680.0,55.6,17.8,Upper middle income,NAM,22.22
+Namibia,Africa,2006,55.3,0.551,1.18,3880.0,56.1,17.7,Upper middle income,NAM,22.14
+Namibia,Africa,2007,57.4,0.559,1.18,4010.0,56.6,17.3,Upper middle income,NAM,22.16
+Namibia,Africa,2008,59.2,0.567,1.63,4040.0,57.0,14.1,Upper middle income,NAM,22.19
+Namibia,Africa,2009,60.1,0.576,1.47,3980.0,57.3,13.1,Upper middle income,NAM,22.21
+Namibia,Africa,2010,60.9,0.589,1.46,4150.0,57.8,12.9,Upper middle income,NAM,22.12
+Namibia,Africa,2011,61.9,0.602,1.28,4280.0,58.3,11.4,Upper middle income,NAM,19.46
+Namibia,Africa,2012,62.9,0.613,1.53,4420.0,58.7,10.2,Upper middle income,NAM,16.77
+Namibia,Africa,2013,63.3,0.624,1.17,4590.0,54.2,10.2,Upper middle income,NAM,19.03
+Namibia,Africa,2014,63.3,0.631,1.63,4780.0,55.8,10.9,Upper middle income,NAM,18.52
+Namibia,Africa,2015,63.5,0.638,1.71,4900.0,58.5,11.6,Upper middle income,NAM,20.91
+Namibia,Africa,2016,63.7,0.639,1.78,4810.0,60.6,10.7,Upper middle income,NAM,23.35
+Namibia,Africa,2017,64.1,0.644,1.76,4670.0,61.0,10.9,Upper middle income,NAM,21.64
+Namibia,Africa,2018,64.7,0.645,1.75,4630.0,61.2,9.9,Upper middle income,NAM,19.88
+Nepal,Asia,2000,65.4,0.453,0.127,562.0,14.2,8.5,Lower middle income,NPL,1.86
+Nepal,Asia,2001,66.1,0.454,0.133,579.0,14.4,8.1,Lower middle income,NPL,1.75
+Nepal,Asia,2002,66.2,0.464,0.105,571.0,14.6,8.0,Lower middle income,NPL,1.54
+Nepal,Asia,2003,67.0,0.47,0.112,585.0,14.8,7.8,Lower middle income,NPL,1.6
+Nepal,Asia,2004,67.2,0.476,0.104,605.0,15.1,7.7,Lower middle income,NPL,1.55
+Nepal,Asia,2005,67.7,0.482,0.119,618.0,15.4,7.9,Lower middle income,NPL,1.46
+Nepal,Asia,2006,68.0,0.493,0.0971,631.0,15.7,7.7,Lower middle income,NPL,1.39
+Nepal,Asia,2007,68.3,0.498,0.0978,644.0,16.0,8.0,Lower middle income,NPL,1.33
+Nepal,Asia,2008,68.5,0.509,0.127,676.0,16.3,8.3,Lower middle income,NPL,1.33
+Nepal,Asia,2009,68.8,0.522,0.156,701.0,16.6,8.5,Lower middle income,NPL,1.55
+Nepal,Asia,2010,69.0,0.537,0.181,732.0,17.0,8.7,Lower middle income,NPL,1.82
+Nepal,Asia,2011,69.2,0.545,0.195,756.0,17.3,8.9,Lower middle income,NPL,2.03
+Nepal,Asia,2012,69.5,0.559,0.205,791.0,17.7,8.9,Lower middle income,NPL,2.33
+Nepal,Asia,2013,69.7,0.568,0.234,821.0,18.1,8.7,Lower middle income,NPL,2.55
+Nepal,Asia,2014,69.9,0.576,0.285,871.0,18.5,8.5,Lower middle income,NPL,2.94
+Nepal,Asia,2015,69.3,0.583,0.223,902.0,18.9,8.5,Lower middle income,NPL,3.1
+Nepal,Asia,2016,70.4,0.586,0.325,897.0,19.3,8.5,Lower middle income,NPL,2.87
+Nepal,Asia,2017,70.6,0.588,0.33,965.0,19.7,8.7,Lower middle income,NPL,3.32
+Nepal,Asia,2018,70.8,0.596,0.337,1020.0,20.1,8.8,Lower middle income,NPL,3.19
+Netherlands,Europe,2000,78.3,0.882,10.8,40400.0,75.1,9.6,High income,NLD,2.73
+Netherlands,Europe,2001,78.4,0.886,11.1,41100.0,75.3,9.6,High income,NLD,2.12
+Netherlands,Europe,2002,78.6,0.885,11.0,40900.0,76.1,10.0,High income,NLD,2.55
+Netherlands,Europe,2003,78.9,0.89,11.1,40800.0,77.0,9.6,High income,NLD,3.59
+Netherlands,Europe,2004,79.3,0.892,11.1,41400.0,76.6,9.7,High income,NLD,4.65
+Netherlands,Europe,2005,79.6,0.897,10.9,42200.0,75.3,9.8,High income,NLD,5.87
+Netherlands,Europe,2006,80.0,0.903,10.5,43600.0,75.7,9.6,High income,NLD,5.0
+Netherlands,Europe,2007,80.3,0.91,10.5,45100.0,76.9,8.4,High income,NLD,4.15
+Netherlands,Europe,2008,80.5,0.913,10.6,45900.0,77.7,9.0,High income,NLD,3.65
+Netherlands,Europe,2009,80.8,0.912,10.2,44000.0,78.4,9.5,High income,NLD,4.35
+Netherlands,Europe,2010,81.0,0.917,10.9,44400.0,79.2,9.8,High income,NLD,4.99
+Netherlands,Europe,2011,81.1,0.928,10.1,44900.0,80.0,10.1,High income,NLD,4.98
+Netherlands,Europe,2012,81.2,0.928,9.89,44200.0,80.1,10.7,High income,NLD,5.82
+Netherlands,Europe,2013,81.4,0.93,9.85,44000.0,81.4,11.8,High income,NLD,7.24
+Netherlands,Europe,2014,81.6,0.932,9.41,44500.0,81.5,11.6,High income,NLD,7.42
+Netherlands,Europe,2015,81.7,0.934,9.83,45200.0,81.2,11.8,High income,NLD,6.87
+Netherlands,Europe,2016,81.7,0.936,9.81,45900.0,81.3,11.9,High income,NLD,6.01
+Netherlands,Europe,2017,81.7,0.939,9.67,47000.0,81.2,12.1,High income,NLD,4.84
+Netherlands,Europe,2018,81.7,0.942,9.48,47800.0,81.7,11.4,High income,NLD,3.83
+New Zealand,Oceania,2000,78.4,0.876,8.38,30900.0,68.0,12.5,High income,NZL,6.13
+New Zealand,Oceania,2001,78.6,0.88,8.83,31800.0,68.0,13.9,High income,NZL,5.43
+New Zealand,Oceania,2002,78.8,0.888,8.75,32700.0,68.4,12.5,High income,NZL,5.28
+New Zealand,Oceania,2003,79.1,0.891,9.05,33500.0,69.6,13.7,High income,NZL,4.75
+New Zealand,Oceania,2004,79.4,0.894,8.82,34300.0,69.7,12.6,High income,NZL,4.01
+New Zealand,Oceania,2005,79.8,0.896,9.1,35100.0,70.7,12.9,High income,NZL,3.81
+New Zealand,Oceania,2006,80.0,0.898,8.96,35600.0,70.4,13.1,High income,NZL,3.86
+New Zealand,Oceania,2007,80.2,0.901,8.65,36400.0,70.8,12.3,High income,NZL,3.66
+New Zealand,Oceania,2008,80.4,0.902,8.79,35700.0,71.5,12.4,High income,NZL,4.17
+New Zealand,Oceania,2009,80.6,0.905,8.05,35300.0,72.6,11.5,High income,NZL,6.12
+New Zealand,Oceania,2010,80.9,0.906,8.01,35400.0,72.6,12.6,High income,NZL,6.56
+New Zealand,Oceania,2011,80.9,0.909,7.77,35900.0,73.0,11.4,High income,NZL,6.49
+New Zealand,Oceania,2012,81.2,0.911,8.06,36500.0,73.4,12.7,High income,NZL,6.93
+New Zealand,Oceania,2013,81.5,0.914,7.82,37200.0,73.7,12.2,High income,NZL,5.84
+New Zealand,Oceania,2014,81.5,0.916,7.81,38000.0,73.3,11.3,High income,NZL,5.43
+New Zealand,Oceania,2015,81.7,0.921,7.77,38600.0,72.3,11.7,High income,NZL,5.41
+New Zealand,Oceania,2016,81.9,0.924,7.36,39200.0,73.3,12.2,High income,NZL,5.15
+New Zealand,Oceania,2017,82.0,0.926,7.67,39800.0,73.2,12.7,High income,NZL,4.74
+New Zealand,Oceania,2018,81.8,0.928,7.34,40300.0,74.3,11.4,High income,NZL,4.33
+Nicaragua,North America,2000,73.7,0.577,0.735,1440.0,50.1,5.5,Lower middle income,NIC,7.35
+Nicaragua,North America,2001,73.7,0.583,0.763,1470.0,50.7,5.2,Lower middle income,NIC,7.45
+Nicaragua,North America,2002,73.6,0.589,0.765,1460.0,51.1,5.0,Lower middle income,NIC,7.58
+Nicaragua,North America,2003,73.6,0.592,0.82,1470.0,51.5,5.6,Lower middle income,NIC,7.6
+Nicaragua,North America,2004,73.7,0.597,0.817,1530.0,51.3,5.4,Lower middle income,NIC,6.41
+Nicaragua,North America,2005,73.5,0.601,0.786,1570.0,51.4,5.2,Lower middle income,NIC,5.37
+Nicaragua,North America,2006,74.3,0.605,0.802,1620.0,51.6,4.6,Lower middle income,NIC,5.31
+Nicaragua,North America,2007,73.9,0.611,0.815,1670.0,50.1,4.9,Lower middle income,NIC,4.89
+Nicaragua,North America,2008,74.0,0.616,0.771,1710.0,52.2,5.1,Lower middle income,NIC,6.2
+Nicaragua,North America,2009,74.1,0.617,0.774,1630.0,52.7,5.0,Lower middle income,NIC,8.16
+Nicaragua,North America,2010,74.4,0.622,0.768,1680.0,52.2,4.8,Lower middle income,NIC,7.83
+Nicaragua,North America,2011,74.3,0.628,0.815,1760.0,51.5,5.5,Lower middle income,NIC,6.5
+Nicaragua,North America,2012,74.4,0.633,0.76,1850.0,51.4,4.4,Lower middle income,NIC,5.21
+Nicaragua,North America,2013,74.5,0.639,0.718,1920.0,51.2,5.3,Lower middle income,NIC,5.28
+Nicaragua,North America,2014,74.5,0.649,0.749,1980.0,50.9,4.5,Lower middle income,NIC,4.52
+Nicaragua,North America,2015,74.9,0.652,0.844,2050.0,51.3,4.2,Lower middle income,NIC,4.7
+Nicaragua,North America,2016,74.8,0.657,0.875,2120.0,52.0,4.4,Lower middle income,NIC,3.9
+Nicaragua,North America,2017,75.0,0.661,0.862,2190.0,52.4,4.4,Lower middle income,NIC,3.3
+Nicaragua,North America,2018,75.2,0.659,0.862,2090.0,52.9,4.5,Lower middle income,NIC,5.2
+Nigeria,Africa,2000,54.6,0.45,0.645,1450.0,38.9,4.9,Lower middle income,NGA,3.95
+Nigeria,Africa,2001,54.8,0.45,0.692,1500.0,39.6,4.9,Lower middle income,NGA,3.93
+Nigeria,Africa,2002,55.1,0.45,0.734,1690.0,40.8,4.8,Lower middle income,NGA,3.88
+Nigeria,Africa,2003,55.5,0.45,0.759,1760.0,41.7,4.8,Lower middle income,NGA,3.9
+Nigeria,Africa,2004,56.0,0.46,0.73,1880.0,42.6,4.8,Lower middle income,NGA,3.88
+Nigeria,Africa,2005,56.6,0.465,0.762,1950.0,43.6,4.8,Lower middle income,NGA,3.87
+Nigeria,Africa,2006,57.2,0.473,0.687,2010.0,44.5,4.7,Lower middle income,NGA,3.86
+Nigeria,Africa,2007,57.9,0.478,0.645,2090.0,45.5,4.7,Lower middle income,NGA,3.84
+Nigeria,Africa,2008,58.5,0.484,0.631,2170.0,46.4,4.6,Lower middle income,NGA,3.82
+Nigeria,Africa,2009,59.0,0.49,0.486,2290.0,47.4,4.5,Lower middle income,NGA,3.8
+Nigeria,Africa,2010,59.6,0.482,0.713,2400.0,48.4,4.4,Lower middle income,NGA,3.78
+Nigeria,Africa,2011,60.2,0.492,0.8,2460.0,49.3,4.4,Lower middle income,NGA,3.77
+Nigeria,Africa,2012,60.7,0.5,0.701,2500.0,49.6,4.2,Lower middle income,NGA,3.74
+Nigeria,Africa,2013,61.2,0.519,0.711,2600.0,49.9,4.1,Lower middle income,NGA,3.7
+Nigeria,Africa,2014,61.6,0.523,0.725,2690.0,50.6,3.9,Lower middle income,NGA,4.56
+Nigeria,Africa,2015,62.1,0.526,0.627,2690.0,51.1,3.7,Lower middle income,NGA,4.31
+Nigeria,Africa,2016,62.7,0.526,0.634,2580.0,51.4,3.7,Lower middle income,NGA,7.06
+Nigeria,Africa,2017,63.3,0.531,0.644,2530.0,51.8,3.6,Lower middle income,NGA,8.39
+Nigeria,Africa,2018,63.8,0.534,0.65,2510.0,52.2,3.5,Lower middle income,NGA,8.46
+Norway,Europe,2000,78.9,0.915,9.46,67400.0,73.9,13.9,High income,NOR,3.46
+Norway,Europe,2001,79.1,0.914,9.71,68500.0,74.2,14.2,High income,NOR,3.74
+Norway,Europe,2002,79.3,0.917,9.46,69100.0,74.4,12.1,High income,NOR,4.02
+Norway,Europe,2003,79.7,0.923,9.71,69300.0,74.5,11.8,High income,NOR,4.22
+Norway,Europe,2004,80.1,0.932,9.72,71700.0,75.6,12.8,High income,NOR,4.26
+Norway,Europe,2005,80.4,0.931,9.5,73000.0,75.8,12.4,High income,NOR,4.38
+Norway,Europe,2006,80.5,0.934,9.53,74200.0,75.9,12.8,High income,NOR,3.4
+Norway,Europe,2007,80.7,0.936,9.81,75600.0,76.0,11.8,High income,NOR,2.49
+Norway,Europe,2008,80.9,0.937,9.52,75000.0,76.3,11.8,High income,NOR,2.55
+Norway,Europe,2009,81.1,0.937,9.1,72800.0,77.1,13.0,High income,NOR,3.1
+Norway,Europe,2010,81.3,0.94,9.47,72400.0,77.8,12.4,High income,NOR,3.52
+Norway,Europe,2011,81.3,0.942,9.2,72200.0,77.4,13.3,High income,NOR,3.21
+Norway,Europe,2012,81.6,0.941,8.99,73200.0,77.5,11.4,High income,NOR,3.12
+Norway,Europe,2013,81.8,0.944,8.86,73000.0,77.5,11.8,High income,NOR,3.42
+Norway,Europe,2014,82.2,0.944,8.74,73700.0,77.3,11.6,High income,NOR,3.48
+Norway,Europe,2015,82.4,0.947,8.72,74400.0,77.9,12.5,High income,NOR,4.3
+Norway,Europe,2016,82.5,0.95,8.47,74500.0,78.4,12.6,High income,NOR,4.68
+Norway,Europe,2017,82.8,0.954,8.26,75600.0,78.5,12.1,High income,NOR,4.16
+Norway,Europe,2018,82.8,0.956,8.31,76000.0,78.4,12.0,High income,NOR,3.8
+Oman,Asia,2000,69.1,0.693,9.5,18000.0,82.4,6.2,High income,OMN,4.09
+Oman,Asia,2001,69.5,0.705,8.77,18600.0,80.9,6.2,High income,OMN,4.13
+Oman,Asia,2002,69.6,0.714,10.8,18100.0,79.3,5.9,High income,OMN,4.2
+Oman,Asia,2003,69.8,0.724,13.4,17200.0,77.6,6.1,High income,OMN,4.23
+Oman,Asia,2004,70.2,0.731,11.3,17000.0,75.6,5.9,High income,OMN,4.18
+Oman,Asia,2005,70.3,0.736,11.7,17000.0,73.2,6.0,High income,OMN,4.18
+Oman,Asia,2006,70.1,0.74,15.1,17400.0,70.6,6.5,High income,OMN,4.15
+Oman,Asia,2007,69.9,0.752,16.4,17700.0,68.0,6.8,High income,OMN,4.18
+Oman,Asia,2008,70.0,0.77,15.3,18400.0,65.2,6.8,High income,OMN,4.14
+Oman,Asia,2009,70.2,0.777,14.1,18700.0,62.4,6.5,High income,OMN,4.05
+Oman,Asia,2010,70.4,0.782,15.4,18000.0,58.0,6.7,High income,OMN,3.99
+Oman,Asia,2011,70.8,0.782,16.4,17300.0,58.9,6.1,High income,OMN,3.87
+Oman,Asia,2012,71.5,0.791,16.8,17500.0,59.3,5.4,High income,OMN,3.68
+Oman,Asia,2013,71.9,0.799,16.2,17100.0,60.3,5.3,High income,OMN,3.62
+Oman,Asia,2014,72.3,0.802,15.0,16200.0,61.3,5.1,High income,OMN,3.54
+Oman,Asia,2015,72.4,0.814,15.1,16000.0,62.2,5.0,High income,OMN,3.39
+Oman,Asia,2016,72.6,0.815,14.0,16100.0,63.0,4.7,High income,OMN,3.27
+Oman,Asia,2017,72.9,0.819,13.7,15500.0,63.9,4.7,High income,OMN,2.57
+Oman,Asia,2018,73.6,0.813,13.9,15100.0,64.3,4.7,High income,OMN,1.8
+Pakistan,Asia,2000,61.0,0.447,0.741,1030.0,36.1,8.8,Lower middle income,PAK,0.58
+Pakistan,Asia,2001,61.2,0.454,0.734,1040.0,36.4,8.9,Lower middle income,PAK,0.56
+Pakistan,Asia,2002,61.4,0.462,0.756,1040.0,36.8,9.1,Lower middle income,PAK,0.55
+Pakistan,Asia,2003,61.5,0.471,0.768,1070.0,37.2,9.1,Lower middle income,PAK,0.59
+Pakistan,Asia,2004,61.8,0.473,0.83,1130.0,36.9,9.2,Lower middle income,PAK,0.61
+Pakistan,Asia,2005,61.0,0.486,0.841,1180.0,36.6,9.0,Lower middle income,PAK,0.59
+Pakistan,Asia,2006,62.3,0.492,0.877,1220.0,35.9,9.2,Lower middle income,PAK,0.58
+Pakistan,Asia,2007,62.7,0.496,0.929,1250.0,35.4,9.1,Lower middle income,PAK,0.4
+Pakistan,Asia,2008,62.9,0.503,0.906,1240.0,35.2,9.0,Lower middle income,PAK,0.42
+Pakistan,Asia,2009,63.1,0.508,0.885,1250.0,35.7,8.8,Lower middle income,PAK,0.54
+Pakistan,Asia,2010,63.3,0.512,0.925,1240.0,35.2,8.8,Lower middle income,PAK,0.65
+Pakistan,Asia,2011,63.6,0.516,0.917,1250.0,34.7,8.7,Lower middle income,PAK,0.8
+Pakistan,Asia,2012,63.8,0.519,0.889,1260.0,34.8,8.8,Lower middle income,PAK,1.85
+Pakistan,Asia,2013,64.0,0.523,0.895,1290.0,34.8,8.9,Lower middle income,PAK,2.95
+Pakistan,Asia,2014,64.2,0.53,0.915,1320.0,34.9,8.9,Lower middle income,PAK,1.83
+Pakistan,Asia,2015,64.4,0.536,0.926,1360.0,35.0,9.0,Lower middle income,PAK,3.57
+Pakistan,Asia,2016,64.7,0.542,0.967,1400.0,34.1,9.1,Lower middle income,PAK,3.78
+Pakistan,Asia,2017,64.9,0.55,1.02,1450.0,35.9,9.1,Lower middle income,PAK,3.92
+Pakistan,Asia,2018,65.5,0.552,1.05,1500.0,37.6,8.9,Lower middle income,PAK,4.08
+Panama,North America,2000,78.0,0.735,1.89,6960.0,65.7,5.4,Upper middle income,PAN,3.81
+Panama,North America,2001,78.1,0.738,2.25,6860.0,64.7,5.7,Upper middle income,PAN,3.82
+Panama,North America,2002,78.1,0.744,1.85,6880.0,65.7,5.3,Upper middle income,PAN,3.79
+Panama,North America,2003,78.0,0.746,1.89,7040.0,65.3,5.9,Upper middle income,PAN,3.79
+Panama,North America,2004,78.2,0.751,1.75,7430.0,66.4,5.8,Upper middle income,PAN,3.74
+Panama,North America,2005,78.2,0.754,2.03,7820.0,67.2,5.0,Upper middle income,PAN,3.75
+Panama,North America,2006,78.2,0.759,2.17,8340.0,66.0,5.7,Upper middle income,PAN,3.7
+Panama,North America,2007,78.5,0.767,2.09,9170.0,66.0,4.9,Upper middle income,PAN,3.68
+Panama,North America,2008,78.4,0.771,2.08,9890.0,63.0,5.4,Upper middle income,PAN,3.74
+Panama,North America,2009,78.4,0.772,2.35,9840.0,62.8,4.8,Upper middle income,PAN,3.85
+Panama,North America,2010,78.5,0.774,2.49,10200.0,63.9,4.2,Upper middle income,PAN,3.72
+Panama,North America,2011,78.7,0.78,2.69,11200.0,64.7,3.8,Upper middle income,PAN,2.38
+Panama,North America,2012,78.6,0.786,2.59,12100.0,65.0,3.6,Upper middle income,PAN,2.39
+Panama,North America,2013,78.7,0.791,2.97,12700.0,63.5,3.4,Upper middle income,PAN,2.29
+Panama,North America,2014,78.9,0.795,2.78,13100.0,64.2,4.1,Upper middle income,PAN,2.71
+Panama,North America,2015,79.3,0.799,2.74,13600.0,66.6,2.9,Upper middle income,PAN,2.98
+Panama,North America,2016,79.5,0.805,2.59,14100.0,66.2,3.3,Upper middle income,PAN,3.26
+Panama,North America,2017,79.6,0.811,2.54,14600.0,67.0,3.2,Upper middle income,PAN,3.86
+Panama,North America,2018,79.9,0.812,2.62,14900.0,67.0,2.9,Upper middle income,PAN,3.83
+Papua New Guinea,Oceania,2000,63.1,0.45,0.456,1880.0,23.0,2.1,Lower middle income,PNG,2.92
+Papua New Guinea,Oceania,2001,62.9,0.456,0.537,1840.0,23.3,2.3,Lower middle income,PNG,2.8
+Papua New Guinea,Oceania,2002,62.7,0.462,0.572,1800.0,23.3,2.3,Lower middle income,PNG,2.73
+Papua New Guinea,Oceania,2003,62.5,0.47,0.634,1800.0,23.5,2.4,Lower middle income,PNG,2.62
+Papua New Guinea,Oceania,2004,62.3,0.473,0.706,1810.0,23.9,2.4,Lower middle income,PNG,2.54
+Papua New Guinea,Oceania,2005,62.2,0.48,0.675,1890.0,24.3,2.4,Lower middle income,PNG,2.41
+Papua New Guinea,Oceania,2006,62.2,0.485,0.648,1940.0,24.7,2.4,Lower middle income,PNG,2.36
+Papua New Guinea,Oceania,2007,62.3,0.498,0.899,2050.0,25.4,2.5,Lower middle income,PNG,2.24
+Papua New Guinea,Oceania,2008,62.5,0.503,0.688,1990.0,25.6,2.5,Lower middle income,PNG,2.31
+Papua New Guinea,Oceania,2009,62.6,0.512,0.713,2080.0,26.2,2.4,Lower middle income,PNG,2.12
+Papua New Guinea,Oceania,2010,62.8,0.522,0.638,2240.0,26.7,2.6,Lower middle income,PNG,2.0
+Papua New Guinea,Oceania,2011,63.0,0.53,0.7,2210.0,27.2,2.6,Lower middle income,PNG,2.62
+Papua New Guinea,Oceania,2012,63.1,0.52,0.653,2270.0,27.8,2.7,Lower middle income,PNG,2.54
+Papua New Guinea,Oceania,2013,63.4,0.537,0.662,2300.0,27.9,2.7,Lower middle income,PNG,2.55
+Papua New Guinea,Oceania,2014,63.7,0.542,0.727,2560.0,28.3,2.9,Lower middle income,PNG,2.38
+Papua New Guinea,Oceania,2015,63.9,0.548,0.91,2680.0,29.1,3.0,Lower middle income,PNG,2.48
+Papua New Guinea,Oceania,2016,64.1,0.549,0.899,2770.0,29.6,3.0,Lower middle income,PNG,2.48
+Papua New Guinea,Oceania,2017,64.3,0.549,0.9,2810.0,29.9,2.8,Lower middle income,PNG,2.51
+Papua New Guinea,Oceania,2018,64.4,0.549,0.911,2750.0,30.1,2.9,Lower middle income,PNG,2.56
+Paraguay,South America,2000,75.6,0.643,0.678,3900.0,49.6,3.1,Upper middle income,PRY,7.61
+Paraguay,South America,2001,76.0,0.652,0.681,3800.0,50.0,3.1,Upper middle income,PRY,6.21
+Paraguay,South America,2002,76.1,0.662,0.698,3720.0,50.6,3.6,Upper middle income,PRY,9.39
+Paraguay,South America,2003,75.8,0.66,0.716,3820.0,52.7,3.4,Upper middle income,PRY,6.81
+Paraguay,South America,2004,75.2,0.667,0.709,3900.0,50.6,4.2,Upper middle income,PRY,6.51
+Paraguay,South America,2005,75.6,0.67,0.65,3920.0,52.2,4.4,Upper middle income,PRY,4.82
+Paraguay,South America,2006,75.6,0.67,0.662,4050.0,52.8,4.2,Upper middle income,PRY,5.28
+Paraguay,South America,2007,76.0,0.675,0.674,4210.0,53.1,3.8,Upper middle income,PRY,4.71
+Paraguay,South America,2008,76.0,0.684,0.704,4420.0,55.6,3.6,Upper middle income,PRY,4.42
+Paraguay,South America,2009,75.8,0.681,0.736,4350.0,54.4,4.4,Upper middle income,PRY,5.46
+Paraguay,South America,2010,75.7,0.696,0.804,4770.0,55.2,3.5,Upper middle income,PRY,4.57
+Paraguay,South America,2011,76.0,0.701,0.821,4900.0,56.7,4.6,Upper middle income,PRY,4.67
+Paraguay,South America,2012,76.2,0.701,0.806,4800.0,57.0,4.6,Upper middle income,PRY,4.09
+Paraguay,South America,2013,76.0,0.712,0.795,5130.0,59.7,4.9,Upper middle income,PRY,4.38
+Paraguay,South America,2014,76.4,0.715,0.828,5330.0,58.8,5.9,Upper middle income,PRY,5.03
+Paraguay,South America,2015,76.5,0.721,0.905,5410.0,60.6,5.7,Upper middle income,PRY,4.56
+Paraguay,South America,2016,76.1,0.722,1.06,5570.0,59.3,5.3,Upper middle income,PRY,5.25
+Paraguay,South America,2017,76.3,0.726,1.05,5760.0,59.7,6.1,Upper middle income,PRY,4.61
+Paraguay,South America,2018,76.5,0.727,1.07,5870.0,61.3,6.0,Upper middle income,PRY,6.22
+Peru,South America,2000,74.6,0.679,1.14,3300.0,50.6,3.1,Upper middle income,PER,4.88
+Peru,South America,2001,75.5,0.687,1.01,3280.0,50.9,2.9,Upper middle income,PER,5.03
+Peru,South America,2002,75.9,0.688,0.995,3420.0,51.4,2.9,Upper middle income,PER,4.84
+Peru,South America,2003,76.0,0.687,0.954,3530.0,50.7,3.0,Upper middle income,PER,4.15
+Peru,South America,2004,76.7,0.694,1.14,3670.0,51.4,2.8,Upper middle income,PER,4.7
+Peru,South America,2005,77.2,0.699,1.32,3870.0,51.1,2.7,Upper middle income,PER,4.88
+Peru,South America,2006,77.7,0.697,1.01,4120.0,52.1,2.7,Upper middle income,PER,4.18
+Peru,South America,2007,78.3,0.704,1.22,4440.0,54.3,2.6,Upper middle income,PER,4.04
+Peru,South America,2008,78.5,0.715,1.43,4800.0,54.6,2.7,Upper middle income,PER,4.04
+Peru,South America,2009,77.4,0.718,1.78,4820.0,55.0,3.3,Upper middle income,PER,3.98
+Peru,South America,2010,77.3,0.721,1.97,5180.0,55.4,3.5,Upper middle income,PER,3.58
+Peru,South America,2011,77.7,0.734,1.67,5460.0,55.2,3.3,Upper middle income,PER,3.48
+Peru,South America,2012,78.0,0.742,1.84,5750.0,55.5,3.2,Upper middle income,PER,3.24
+Peru,South America,2013,78.4,0.75,1.53,6030.0,55.6,3.1,Upper middle income,PER,3.57
+Peru,South America,2014,78.9,0.76,1.67,6110.0,55.6,2.9,Upper middle income,PER,3.21
+Peru,South America,2015,79.4,0.759,1.69,6230.0,55.2,2.7,Upper middle income,PER,3.27
+Peru,South America,2016,79.6,0.765,1.82,6380.0,55.4,2.6,Upper middle income,PER,3.74
+Peru,South America,2017,79.8,0.767,1.68,6430.0,56.7,2.7,Upper middle income,PER,3.69
+Peru,South America,2018,80.0,0.771,1.74,6570.0,56.8,2.8,Upper middle income,PER,3.49
+Philippines,Asia,2000,70.3,0.632,0.928,1830.0,47.0,1.8,Lower middle income,PHL,3.65
+Philippines,Asia,2001,70.2,0.633,0.883,1850.0,47.3,1.5,Lower middle income,PHL,3.7
+Philippines,Asia,2002,70.2,0.638,0.863,1880.0,47.4,1.7,Lower middle income,PHL,3.63
+Philippines,Asia,2003,70.3,0.642,0.846,1930.0,48.0,1.8,Lower middle income,PHL,3.53
+Philippines,Asia,2004,70.4,0.652,0.86,2020.0,48.4,1.8,Lower middle income,PHL,3.55
+Philippines,Asia,2005,70.3,0.654,0.849,2080.0,49.1,1.9,Lower middle income,PHL,3.8
+Philippines,Asia,2006,70.2,0.656,0.758,2150.0,49.7,2.0,Lower middle income,PHL,4.05
+Philippines,Asia,2007,70.5,0.662,0.792,2250.0,50.1,1.9,Lower middle income,PHL,3.43
+Philippines,Asia,2008,70.4,0.666,0.851,2310.0,50.4,2.0,Lower middle income,PHL,3.72
+Philippines,Asia,2009,70.4,0.665,0.828,2300.0,50.7,2.3,Lower middle income,PHL,3.86
+Philippines,Asia,2010,70.6,0.671,0.883,2430.0,51.4,2.4,Lower middle income,PHL,3.61
+Philippines,Asia,2011,70.7,0.676,0.877,2480.0,52.0,2.7,Lower middle income,PHL,3.59
+Philippines,Asia,2012,70.7,0.684,0.91,2610.0,52.6,2.4,Lower middle income,PHL,3.5
+Philippines,Asia,2013,70.6,0.691,0.97,2740.0,53.4,2.4,Lower middle income,PHL,3.5
+Philippines,Asia,2014,71.0,0.696,1.02,2870.0,53.6,2.3,Lower middle income,PHL,3.6
+Philippines,Asia,2015,70.9,0.701,1.12,3000.0,54.6,2.3,Lower middle income,PHL,3.07
+Philippines,Asia,2016,71.0,0.704,1.15,3170.0,55.8,2.2,Lower middle income,PHL,2.7
+Philippines,Asia,2017,71.2,0.708,1.25,3340.0,56.3,2.2,Lower middle income,PHL,2.55
+Philippines,Asia,2018,71.6,0.711,1.27,3500.0,56.6,2.2,Lower middle income,PHL,2.34
+Poland,Europe,2000,73.9,0.79,8.26,7360.0,50.3,17.0,High income,POL,16.31
+Poland,Europe,2001,74.3,0.796,8.17,7450.0,50.1,17.2,High income,POL,18.37
+Poland,Europe,2002,74.7,0.804,7.97,7610.0,51.8,17.3,High income,POL,19.89
+Poland,Europe,2003,74.9,0.809,8.32,7880.0,53.3,17.0,High income,POL,19.37
+Poland,Europe,2004,75.0,0.807,8.43,8280.0,53.4,17.6,High income,POL,19.07
+Poland,Europe,2005,75.2,0.813,8.41,8570.0,53.4,17.7,High income,POL,17.75
+Poland,Europe,2006,75.3,0.819,8.76,9100.0,54.2,17.1,High income,POL,13.84
+Poland,Europe,2007,75.4,0.824,8.76,9750.0,54.5,15.7,High income,POL,9.6
+Poland,Europe,2008,75.6,0.829,8.58,10200.0,54.1,17.0,High income,POL,7.12
+Poland,Europe,2009,75.9,0.834,8.23,10400.0,55.6,19.2,High income,POL,8.17
+Poland,Europe,2010,76.5,0.84,8.71,10900.0,56.6,18.6,High income,POL,9.64
+Poland,Europe,2011,76.8,0.845,8.7,11400.0,56.4,18.0,High income,POL,9.63
+Poland,Europe,2012,76.9,0.842,8.52,11500.0,57.0,18.5,High income,POL,10.09
+Poland,Europe,2013,77.2,0.856,8.43,11700.0,57.5,18.2,High income,POL,10.33
+Poland,Europe,2014,77.6,0.858,8.11,12100.0,58.0,17.4,High income,POL,8.99
+Poland,Europe,2015,77.6,0.863,8.22,12600.0,57.9,15.9,High income,POL,7.5
+Poland,Europe,2016,77.9,0.869,8.51,13000.0,58.0,13.8,High income,POL,6.16
+Poland,Europe,2017,78.0,0.873,8.88,13600.0,58.1,13.3,High income,POL,4.89
+Poland,Europe,2018,78.0,0.877,9.07,14300.0,58.6,12.7,High income,POL,3.85
+Portugal,Europe,2000,76.8,0.792,6.43,18800.0,52.9,7.6,High income,PRT,3.81
+Portugal,Europe,2001,77.2,0.798,6.36,19000.0,53.4,8.8,High income,PRT,3.83
+Portugal,Europe,2002,77.5,0.799,6.71,19100.0,54.0,12.5,High income,PRT,4.5
+Portugal,Europe,2003,77.8,0.805,6.19,18800.0,54.4,11.9,High income,PRT,6.13
+Portugal,Europe,2004,78.4,0.809,6.43,19100.0,56.6,10.6,High income,PRT,6.32
+Portugal,Europe,2005,78.8,0.813,6.62,19200.0,57.6,11.4,High income,PRT,7.58
+Portugal,Europe,2006,79.2,0.811,6.15,19500.0,57.8,11.5,High income,PRT,7.65
+Portugal,Europe,2007,79.4,0.814,5.9,19900.0,57.9,12.6,High income,PRT,7.96
+Portugal,Europe,2008,79.7,0.817,5.67,20000.0,59.6,13.1,High income,PRT,7.55
+Portugal,Europe,2009,79.9,0.823,5.39,19300.0,60.7,13.1,High income,PRT,9.43
+Portugal,Europe,2010,80.2,0.829,5.0,19700.0,61.5,13.6,High income,PRT,10.77
+Portugal,Europe,2011,80.5,0.833,4.9,19400.0,62.9,12.3,High income,PRT,12.68
+Portugal,Europe,2012,80.8,0.836,4.75,18600.0,64.0,13.5,High income,PRT,15.53
+Portugal,Europe,2013,81.1,0.84,4.6,18600.0,66.1,12.5,High income,PRT,16.18
+Portugal,Europe,2014,81.3,0.847,4.61,18800.0,67.5,14.2,High income,PRT,13.89
+Portugal,Europe,2015,81.5,0.854,5.04,19200.0,68.1,13.2,High income,PRT,12.44
+Portugal,Europe,2016,81.6,0.855,4.88,19700.0,68.6,11.4,High income,PRT,11.07
+Portugal,Europe,2017,81.6,0.858,5.32,20400.0,68.9,12.0,High income,PRT,8.87
+Portugal,Europe,2018,81.7,0.86,4.97,21000.0,69.1,11.7,High income,PRT,6.99
+Qatar,Asia,2000,71.2,0.816,58.4,56900.0,60.4,7.8,High income,QAT,0.84
+Qatar,Asia,2001,71.5,0.817,67.1,56900.0,59.3,8.0,High income,QAT,0.85
+Qatar,Asia,2002,71.5,0.822,63.6,58500.0,58.5,7.8,High income,QAT,0.85
+Qatar,Asia,2003,71.7,0.83,60.6,57100.0,57.5,7.4,High income,QAT,0.86
+Qatar,Asia,2004,72.2,0.832,56.7,61600.0,56.2,7.2,High income,QAT,0.86
+Qatar,Asia,2005,72.3,0.838,58.6,57600.0,56.0,6.8,High income,QAT,0.87
+Qatar,Asia,2006,72.1,0.835,61.8,61500.0,55.5,6.8,High income,QAT,0.87
+Qatar,Asia,2007,72.2,0.838,51.7,60900.0,45.8,8.4,High income,QAT,0.52
+Qatar,Asia,2008,72.5,0.843,44.8,60800.0,38.9,8.3,High income,QAT,0.31
+Qatar,Asia,2009,72.8,0.841,41.5,59100.0,40.0,8.4,High income,QAT,0.31
+Qatar,Asia,2010,73.4,0.834,38.8,63000.0,42.2,8.2,High income,QAT,0.45
+Qatar,Asia,2011,73.9,0.84,39.2,65100.0,44.5,8.0,High income,QAT,0.56
+Qatar,Asia,2012,74.3,0.854,42.5,63200.0,46.9,7.4,High income,QAT,0.48
+Qatar,Asia,2013,74.7,0.842,36.0,62700.0,46.9,6.7,High income,QAT,0.28
+Qatar,Asia,2014,74.9,0.835,43.1,62800.0,45.7,6.3,High income,QAT,0.2
+Qatar,Asia,2015,75.5,0.839,41.3,63000.0,44.6,6.1,High income,QAT,0.17
+Qatar,Asia,2016,75.7,0.845,38.5,62800.0,44.2,6.1,High income,QAT,0.15
+Qatar,Asia,2017,75.9,0.848,39.8,60300.0,44.2,5.8,High income,QAT,0.14
+Qatar,Asia,2018,76.1,0.845,38.0,59800.0,44.5,5.8,High income,QAT,0.11
+Romania,Europe,2000,71.2,0.716,4.31,4550.0,29.0,12.9,Upper middle income,ROU,6.97
+Romania,Europe,2001,71.2,0.722,4.57,4850.0,29.7,12.3,Upper middle income,ROU,6.56
+Romania,Europe,2002,71.2,0.731,4.66,5220.0,32.7,14.2,Upper middle income,ROU,8.11
+Romania,Europe,2003,71.5,0.739,4.85,5390.0,33.2,13.5,Upper middle income,ROU,6.95
+Romania,Europe,2004,72.0,0.753,4.83,5980.0,36.4,12.7,Upper middle income,ROU,7.72
+Romania,Europe,2005,72.4,0.762,4.8,6300.0,37.3,12.3,Upper middle income,ROU,7.17
+Romania,Europe,2006,72.8,0.774,4.95,6850.0,38.7,12.9,Upper middle income,ROU,7.27
+Romania,Europe,2007,73.4,0.788,5.09,7450.0,39.1,11.6,Upper middle income,ROU,6.41
+Romania,Europe,2008,73.4,0.803,5.05,8280.0,39.7,11.7,Upper middle income,ROU,5.79
+Romania,Europe,2009,73.5,0.806,4.25,7890.0,40.9,12.2,Upper middle income,ROU,6.86
+Romania,Europe,2010,73.8,0.805,4.11,7630.0,40.7,13.2,Upper middle income,ROU,6.96
+Romania,Europe,2011,74.6,0.806,4.42,7810.0,42.2,12.1,Upper middle income,ROU,7.18
+Romania,Europe,2012,74.7,0.803,4.28,8000.0,42.1,12.6,Upper middle income,ROU,6.79
+Romania,Europe,2013,75.3,0.808,3.84,8340.0,42.5,12.2,Upper middle income,ROU,7.1
+Romania,Europe,2014,75.0,0.811,3.87,8670.0,42.7,11.3,Upper middle income,ROU,6.8
+Romania,Europe,2015,75.3,0.815,3.91,8970.0,46.0,11.5,Upper middle income,ROU,6.81
+Romania,Europe,2016,75.3,0.82,3.83,9440.0,47.0,10.2,Upper middle income,ROU,5.9
+Romania,Europe,2017,75.4,0.821,3.82,10200.0,47.1,10.1,Upper middle income,ROU,4.93
+Romania,Europe,2018,75.5,0.823,3.8,10700.0,47.7,10.2,Upper middle income,ROU,4.19
+Russia,Europe,2000,65.6,0.722,10.1,6490.0,56.3,53.8,Upper middle income,RUS,10.58
+Russia,Europe,2001,65.5,0.728,10.3,6850.0,57.8,52.4,Upper middle income,RUS,8.98
+Russia,Europe,2002,65.4,0.734,10.3,7210.0,58.5,52.0,Upper middle income,RUS,7.88
+Russia,Europe,2003,65.2,0.742,10.6,7770.0,59.0,51.6,Upper middle income,RUS,8.21
+Russia,Europe,2004,65.5,0.748,10.6,8360.0,59.8,50.1,Upper middle income,RUS,7.76
+Russia,Europe,2005,65.0,0.753,10.8,8930.0,60.6,49.8,Upper middle income,RUS,7.12
+Russia,Europe,2006,66.5,0.76,11.2,9690.0,61.2,44.8,Upper middle income,RUS,7.06
+Russia,Europe,2007,67.5,0.769,11.2,10500.0,61.8,41.7,Upper middle income,RUS,6.0
+Russia,Europe,2008,67.7,0.775,11.4,11100.0,62.8,40.7,Upper middle income,RUS,6.21
+Russia,Europe,2009,68.7,0.773,10.7,10200.0,64.2,38.4,Upper middle income,RUS,8.3
+Russia,Europe,2010,68.8,0.781,11.3,10700.0,64.5,38.1,Upper middle income,RUS,7.37
+Russia,Europe,2011,70.0,0.79,11.6,11100.0,64.9,35.9,Upper middle income,RUS,6.54
+Russia,Europe,2012,70.5,0.798,11.7,11600.0,64.9,34.4,Upper middle income,RUS,5.44
+Russia,Europe,2013,70.9,0.802,11.2,11700.0,65.2,33.5,Upper middle income,RUS,5.46
+Russia,Europe,2014,71.0,0.807,11.2,11600.0,65.7,33.8,Upper middle income,RUS,5.16
+Russia,Europe,2015,71.5,0.809,11.2,11400.0,66.0,32.0,Upper middle income,RUS,5.57
+Russia,Europe,2016,72.0,0.815,11.1,11400.0,66.3,31.0,Upper middle income,RUS,5.56
+Russia,Europe,2017,72.9,0.82,11.3,11600.0,67.1,28.2,Upper middle income,RUS,5.21
+Russia,Europe,2018,73.0,0.823,11.7,11900.0,67.3,27.1,Upper middle income,RUS,4.85
+Rwanda,Africa,2000,50.5,0.341,0.0656,345.0,8.89,15.8,Low income,RWA,0.79
+Rwanda,Africa,2001,51.5,0.35,0.0634,361.0,9.12,14.0,Low income,RWA,0.84
+Rwanda,Africa,2002,53.2,0.366,0.0617,399.0,9.52,12.5,Low income,RWA,0.89
+Rwanda,Africa,2003,54.5,0.379,0.0594,401.0,9.97,11.0,Low income,RWA,0.94
+Rwanda,Africa,2004,56.3,0.396,0.0594,425.0,10.6,9.6,Low income,RWA,0.95
+Rwanda,Africa,2005,58.2,0.413,0.0583,457.0,11.2,8.8,Low income,RWA,0.96
+Rwanda,Africa,2006,60.2,0.434,0.0569,488.0,11.9,8.4,Low income,RWA,0.99
+Rwanda,Africa,2007,61.6,0.45,0.0585,512.0,12.5,8.0,Low income,RWA,1.01
+Rwanda,Africa,2008,62.6,0.461,0.0555,554.0,13.3,7.5,Low income,RWA,1.02
+Rwanda,Africa,2009,63.4,0.477,0.0571,573.0,14.0,7.0,Low income,RWA,1.06
+Rwanda,Africa,2010,64.5,0.492,0.0572,599.0,14.8,6.6,Low income,RWA,1.08
+Rwanda,Africa,2011,65.3,0.5,0.0629,631.0,15.6,6.2,Low income,RWA,1.1
+Rwanda,Africa,2012,65.8,0.508,0.0682,669.0,16.5,6.0,Low income,RWA,1.12
+Rwanda,Africa,2013,66.8,0.515,0.0724,683.0,19.8,5.8,Low income,RWA,1.15
+Rwanda,Africa,2014,67.2,0.521,0.0734,708.0,23.6,5.8,Low income,RWA,1.17
+Rwanda,Africa,2015,67.4,0.526,0.0816,751.0,24.9,5.7,Low income,RWA,1.15
+Rwanda,Africa,2016,67.6,0.527,0.0898,775.0,25.9,5.7,Low income,RWA,1.14
+Rwanda,Africa,2017,68.0,0.535,0.0912,785.0,27.1,5.6,Low income,RWA,1.14
+Rwanda,Africa,2018,68.3,0.54,0.0913,830.0,28.2,5.6,Low income,RWA,1.11
+Saudi Arabia,Asia,2000,70.4,0.743,14.4,17700.0,74.0,3.2,High income,SAU,4.57
+Saudi Arabia,Asia,2001,70.6,0.746,14.0,17000.0,73.0,3.3,High income,SAU,4.62
+Saudi Arabia,Asia,2002,70.7,0.748,14.9,16100.0,74.4,3.4,High income,SAU,5.27
+Saudi Arabia,Asia,2003,70.9,0.755,14.6,17400.0,74.6,3.5,High income,SAU,5.56
+Saudi Arabia,Asia,2004,71.1,0.764,17.1,18200.0,74.9,3.4,High income,SAU,5.82
+Saudi Arabia,Asia,2005,71.2,0.77,16.6,18700.0,75.4,3.7,High income,SAU,6.05
+Saudi Arabia,Asia,2006,71.2,0.777,17.6,18700.0,75.8,4.0,High income,SAU,6.25
+Saudi Arabia,Asia,2007,71.3,0.783,15.4,18500.0,74.9,4.3,High income,SAU,5.73
+Saudi Arabia,Asia,2008,71.4,0.792,16.7,19100.0,75.9,4.6,High income,SAU,5.08
+Saudi Arabia,Asia,2009,71.6,0.796,17.5,18200.0,75.5,5.0,High income,SAU,5.38
+Saudi Arabia,Asia,2010,71.8,0.809,18.9,18600.0,74.6,5.5,High income,SAU,5.55
+Saudi Arabia,Asia,2011,72.2,0.823,17.6,19800.0,73.5,6.1,High income,SAU,5.77
+Saudi Arabia,Asia,2012,72.6,0.835,19.3,20200.0,72.7,6.4,High income,SAU,5.52
+Saudi Arabia,Asia,2013,72.9,0.845,18.0,20200.0,71.8,6.5,High income,SAU,5.57
+Saudi Arabia,Asia,2014,73.2,0.852,19.5,20300.0,71.7,6.6,High income,SAU,5.72
+Saudi Arabia,Asia,2015,73.3,0.859,19.6,20600.0,71.2,6.3,High income,SAU,5.59
+Saudi Arabia,Asia,2016,73.7,0.859,19.5,20500.0,70.5,6.3,High income,SAU,5.65
+Saudi Arabia,Asia,2017,74.0,0.852,19.1,19900.0,71.7,6.2,High income,SAU,5.89
+Saudi Arabia,Asia,2018,74.3,0.854,18.4,20100.0,72.7,6.1,High income,SAU,6.04
+Serbia,Europe,2000,71.4,0.716,4.74,3190.0,46.2,23.1,Upper middle income,SRB,12.6
+Serbia,Europe,2001,71.9,0.723,5.24,3420.0,47.0,21.8,Upper middle income,SRB,12.8
+Serbia,Europe,2002,72.2,0.726,5.58,3640.0,47.9,22.4,Upper middle income,SRB,13.8
+Serbia,Europe,2003,72.2,0.732,6.0,3810.0,48.6,21.2,Upper middle income,SRB,15.2
+Serbia,Europe,2004,72.3,0.74,6.52,4160.0,49.0,21.3,Upper middle income,SRB,18.5
+Serbia,Europe,2005,72.3,0.749,5.62,4400.0,49.1,20.1,Upper middle income,SRB,20.85
+Serbia,Europe,2006,72.7,0.754,6.66,4650.0,50.2,19.5,Upper middle income,SRB,20.85
+Serbia,Europe,2007,73.2,0.758,6.56,4970.0,49.7,18.7,Upper middle income,SRB,18.06
+Serbia,Europe,2008,73.5,0.764,5.71,5270.0,48.7,18.0,Upper middle income,SRB,13.7
+Serbia,Europe,2009,73.6,0.766,5.09,5150.0,50.8,19.5,Upper middle income,SRB,16.14
+Serbia,Europe,2010,74.1,0.766,5.09,5210.0,52.1,17.2,Upper middle income,SRB,19.22
+Serbia,Europe,2011,74.3,0.776,5.47,5350.0,52.0,18.0,Upper middle income,SRB,22.97
+Serbia,Europe,2012,74.8,0.775,4.89,5340.0,52.6,18.2,Upper middle income,SRB,24.0
+Serbia,Europe,2013,74.9,0.778,5.0,5520.0,52.9,17.9,Upper middle income,SRB,22.15
+Serbia,Europe,2014,75.0,0.784,4.18,5460.0,55.5,17.0,Upper middle income,SRB,19.22
+Serbia,Europe,2015,75.1,0.789,4.93,5590.0,56.1,16.4,Upper middle income,SRB,17.66
+Serbia,Europe,2016,75.5,0.795,5.09,5810.0,57.0,15.2,Upper middle income,SRB,15.26
+Serbia,Europe,2017,75.6,0.798,5.17,5960.0,57.5,0.6,Upper middle income,SRB,13.48
+Serbia,Europe,2018,75.6,0.803,5.17,6260.0,57.2,11.3,Upper middle income,SRB,12.73
+Singapore,Asia,2000,79.4,0.821,12.1,34900.0,71.9,12.4,High income,SGP,3.7
+Singapore,Asia,2001,79.8,0.825,12.1,33600.0,73.3,11.3,High income,SGP,3.76
+Singapore,Asia,2002,80.1,0.833,11.5,34600.0,73.9,12.4,High income,SGP,5.65
+Singapore,Asia,2003,80.4,0.842,7.54,36700.0,74.0,12.1,High income,SGP,5.93
+Singapore,Asia,2004,80.7,0.849,6.82,39800.0,75.0,11.7,High income,SGP,5.84
+Singapore,Asia,2005,81.3,0.874,7.12,41700.0,77.1,11.2,High income,SGP,5.59
+Singapore,Asia,2006,81.6,0.881,7.0,44100.0,76.6,11.7,High income,SGP,4.48
+Singapore,Asia,2007,81.8,0.882,4.35,46100.0,76.3,10.7,High income,SGP,3.9
+Singapore,Asia,2008,82.1,0.888,7.57,44500.0,76.1,10.4,High income,SGP,3.96
+Singapore,Asia,2009,82.5,0.888,11.8,43300.0,76.6,10.5,High income,SGP,5.86
+Singapore,Asia,2010,82.8,0.909,11.4,48700.0,78.0,9.9,High income,SGP,4.12
+Singapore,Asia,2011,83.1,0.913,8.88,50700.0,79.0,9.6,High income,SGP,3.89
+Singapore,Asia,2012,83.3,0.918,9.31,51700.0,79.4,11.3,High income,SGP,3.72
+Singapore,Asia,2013,83.5,0.921,10.3,53300.0,80.0,10.3,High income,SGP,3.86
+Singapore,Asia,2014,83.8,0.926,10.3,54700.0,82.2,10.2,High income,SGP,3.74
+Singapore,Asia,2015,84.1,0.931,11.0,55600.0,82.5,9.0,High income,SGP,3.79
+Singapore,Asia,2016,84.4,0.935,6.64,56800.0,83.1,9.1,High income,SGP,4.08
+Singapore,Asia,2017,84.7,0.933,7.11,59300.0,83.5,9.0,High income,SGP,4.2
+Singapore,Asia,2018,84.7,0.936,7.1,61100.0,84.0,9.4,High income,SGP,3.64
+Slovenia,Europe,2000,76.3,0.832,7.78,16200.0,52.7,32.0,High income,SVN,6.92
+Slovenia,Europe,2001,76.3,0.843,8.25,16700.0,51.4,30.9,High income,SVN,5.68
+Slovenia,Europe,2002,76.8,0.85,8.32,17300.0,51.6,29.1,High income,SVN,5.92
+Slovenia,Europe,2003,77.0,0.857,8.2,17800.0,54.4,29.7,High income,SVN,6.48
+Slovenia,Europe,2004,77.4,0.864,8.37,18600.0,53.9,28.7,High income,SVN,6.01
+Slovenia,Europe,2005,78.1,0.869,8.5,19200.0,53.8,26.8,High income,SVN,6.51
+Slovenia,Europe,2006,78.3,0.876,8.57,20300.0,54.9,27.9,High income,SVN,5.95
+Slovenia,Europe,2007,78.6,0.88,8.59,21600.0,54.9,22.9,High income,SVN,4.82
+Slovenia,Europe,2008,79.1,0.886,9.01,22300.0,56.3,20.6,High income,SVN,4.37
+Slovenia,Europe,2009,79.4,0.885,8.03,20400.0,57.7,22.5,High income,SVN,5.86
+Slovenia,Europe,2010,79.7,0.889,8.02,20600.0,58.6,20.7,High income,SVN,7.24
+Slovenia,Europe,2011,80.0,0.891,7.98,20700.0,59.7,21.6,High income,SVN,8.17
+Slovenia,Europe,2012,80.2,0.884,7.69,20100.0,60.6,22.0,High income,SVN,8.84
+Slovenia,Europe,2013,80.5,0.893,7.36,19900.0,60.5,22.2,High income,SVN,10.1
+Slovenia,Europe,2014,81.3,0.894,6.55,20400.0,59.4,19.6,High income,SVN,9.67
+Slovenia,Europe,2015,81.0,0.894,6.58,20900.0,60.9,21.0,High income,SVN,8.96
+Slovenia,Europe,2016,81.3,0.9,6.95,21500.0,61.8,19.0,High income,SVN,8.0
+Slovenia,Europe,2017,81.3,0.907,6.87,22600.0,61.2,20.9,High income,SVN,6.56
+Slovenia,Europe,2018,81.4,0.912,6.95,23500.0,61.2,17.8,High income,SVN,5.11
+South Africa,Africa,2000,55.6,0.631,8.42,4510.0,62.8,22.4,Upper middle income,ZAF,29.88
+South Africa,Africa,2001,54.8,0.611,8.16,4570.0,63.7,23.0,Upper middle income,ZAF,30.69
+South Africa,Africa,2002,53.7,0.619,7.73,4680.0,64.5,24.3,Upper middle income,ZAF,33.29
+South Africa,Africa,2003,52.7,0.619,8.66,4760.0,65.3,25.1,Upper middle income,ZAF,32.31
+South Africa,Africa,2004,52.2,0.619,9.5,4910.0,66.0,24.6,Upper middle income,ZAF,29.45
+South Africa,Africa,2005,52.1,0.622,8.69,5110.0,66.7,24.4,Upper middle income,ZAF,29.12
+South Africa,Africa,2006,52.3,0.626,9.22,5330.0,67.5,23.6,Upper middle income,ZAF,28.34
+South Africa,Africa,2007,53.2,0.632,9.47,5540.0,68.1,24.6,Upper middle income,ZAF,26.54
+South Africa,Africa,2008,54.3,0.646,9.94,5640.0,68.7,26.7,Upper middle income,ZAF,22.41
+South Africa,Africa,2009,55.7,0.655,9.96,5480.0,69.7,26.7,Upper middle income,ZAF,23.52
+South Africa,Africa,2010,57.1,0.664,9.16,5560.0,70.8,24.6,Upper middle income,ZAF,24.68
+South Africa,Africa,2011,58.7,0.665,9.16,5660.0,71.2,22.4,Upper middle income,ZAF,24.64
+South Africa,Africa,2012,60.1,0.675,8.77,5690.0,71.7,22.9,Upper middle income,ZAF,24.73
+South Africa,Africa,2013,61.3,0.685,8.53,5740.0,71.5,23.7,Upper middle income,ZAF,24.56
+South Africa,Africa,2014,61.8,0.693,8.86,5750.0,71.9,24.1,Upper middle income,ZAF,24.89
+South Africa,Africa,2015,62.3,0.701,8.35,5730.0,70.6,24.5,Upper middle income,ZAF,25.15
+South Africa,Africa,2016,62.7,0.703,8.46,5670.0,71.1,24.4,Upper middle income,ZAF,26.54
+South Africa,Africa,2017,63.2,0.705,8.12,5670.0,71.4,25.2,Upper middle income,ZAF,27.04
+South Africa,Africa,2018,64.4,0.707,8.1,5640.0,71.7,24.1,Upper middle income,ZAF,26.91
+Spain,Europe,2000,79.5,0.832,7.62,23900.0,62.5,8.6,High income,ESP,13.79
+Spain,Europe,2001,79.8,0.835,7.57,24700.0,62.0,8.0,High income,ESP,10.35
+Spain,Europe,2002,79.9,0.837,7.95,25000.0,63.0,8.3,High income,ESP,11.15
+Spain,Europe,2003,80.0,0.84,7.91,25300.0,63.6,8.5,High income,ESP,11.28
+Spain,Europe,2004,80.3,0.844,8.17,25600.0,64.3,8.5,High income,ESP,11.09
+Spain,Europe,2005,80.6,0.851,8.37,26100.0,65.1,8.0,High income,ESP,9.15
+Spain,Europe,2006,81.0,0.856,8.04,26800.0,65.8,7.5,High income,ESP,8.45
+Spain,Europe,2007,81.2,0.86,8.09,27200.0,66.4,7.4,High income,ESP,8.23
+Spain,Europe,2008,81.4,0.863,7.29,27000.0,68.1,7.8,High income,ESP,11.25
+Spain,Europe,2009,81.8,0.865,6.37,25800.0,71.3,7.6,High income,ESP,17.86
+Spain,Europe,2010,82.1,0.872,6.04,25700.0,72.8,6.9,High income,ESP,19.86
+Spain,Europe,2011,82.3,0.878,6.04,25400.0,74.1,7.1,High income,ESP,21.39
+Spain,Europe,2012,82.4,0.881,5.93,24600.0,75.1,7.7,High income,ESP,24.79
+Spain,Europe,2013,82.7,0.882,5.37,24400.0,76.0,8.5,High income,ESP,26.09
+Spain,Europe,2014,82.8,0.888,5.45,24800.0,76.3,8.6,High income,ESP,24.44
+Spain,Europe,2015,82.8,0.895,5.81,25700.0,76.0,7.9,High income,ESP,22.06
+Spain,Europe,2016,83.0,0.899,5.59,26500.0,76.2,7.8,High income,ESP,19.63
+Spain,Europe,2017,83.0,0.903,5.89,27200.0,75.6,8.2,High income,ESP,17.22
+Spain,Europe,2018,83.1,0.905,5.75,27700.0,75.5,7.8,High income,ESP,15.25
+Sri Lanka,Asia,2000,71.5,0.691,0.54,1920.0,35.4,26.7,Lower middle income,LKA,7.74
+Sri Lanka,Asia,2001,72.6,0.697,0.547,1880.0,35.9,21.8,Lower middle income,LKA,7.9
+Sri Lanka,Asia,2002,73.4,0.703,0.575,1940.0,36.6,21.0,Lower middle income,LKA,8.76
+Sri Lanka,Asia,2003,73.4,0.712,0.57,2040.0,37.2,20.9,Lower middle income,LKA,8.22
+Sri Lanka,Asia,2004,69.0,0.719,0.627,2130.0,37.7,21.8,Lower middle income,LKA,8.38
+Sri Lanka,Asia,2005,73.3,0.725,0.611,2240.0,38.3,28.6,Lower middle income,LKA,7.67
+Sri Lanka,Asia,2006,73.6,0.732,0.599,2400.0,38.9,18.3,Lower middle income,LKA,6.5
+Sri Lanka,Asia,2007,74.0,0.738,0.613,2540.0,39.5,20.0,Lower middle income,LKA,5.97
+Sri Lanka,Asia,2008,73.3,0.746,0.6,2670.0,40.1,17.5,Lower middle income,LKA,5.22
+Sri Lanka,Asia,2009,73.4,0.749,0.644,2750.0,40.7,22.7,Lower middle income,LKA,5.85
+Sri Lanka,Asia,2010,74.0,0.754,0.645,2950.0,42.6,21.9,Lower middle income,LKA,4.78
+Sri Lanka,Asia,2011,75.3,0.76,0.73,3180.0,42.8,17.9,Lower middle income,LKA,4.12
+Sri Lanka,Asia,2012,75.5,0.766,0.77,3460.0,42.9,16.6,Lower middle income,LKA,3.88
+Sri Lanka,Asia,2013,76.0,0.769,0.711,3550.0,43.8,15.2,Lower middle income,LKA,4.24
+Sri Lanka,Asia,2014,76.1,0.773,0.852,3690.0,44.8,13.1,Lower middle income,LKA,4.19
+Sri Lanka,Asia,2015,76.4,0.776,0.949,3840.0,45.6,15.1,Lower middle income,LKA,4.52
+Sri Lanka,Asia,2016,76.6,0.773,1.1,3970.0,46.5,14.8,Lower middle income,LKA,4.24
+Sri Lanka,Asia,2017,76.8,0.775,1.16,4070.0,45.5,14.4,Lower middle income,LKA,4.05
+Sri Lanka,Asia,2018,77.2,0.779,1.1,4160.0,46.6,14.2,Lower middle income,LKA,4.32
+Sudan,Africa,2000,63.3,0.403,0.185,1020.0,37.1,4.3,Low income,SDN,15.23
+Sudan,Africa,2001,63.7,0.409,0.208,1050.0,37.4,4.2,Low income,SDN,15.18
+Sudan,Africa,2002,63.9,0.415,0.259,1090.0,37.7,4.2,Low income,SDN,15.13
+Sudan,Africa,2003,64.1,0.422,0.281,1140.0,38.0,4.1,Low income,SDN,15.07
+Sudan,Africa,2004,64.2,0.43,0.347,1150.0,38.5,4.1,Low income,SDN,15.05
+Sudan,Africa,2005,65.5,0.437,0.324,1210.0,38.7,4.2,Low income,SDN,14.97
+Sudan,Africa,2006,65.8,0.443,0.347,1290.0,38.9,4.1,Low income,SDN,14.89
+Sudan,Africa,2007,66.3,0.45,0.399,1400.0,39.0,4.1,Low income,SDN,14.82
+Sudan,Africa,2008,66.8,0.461,0.413,1470.0,39.2,4.1,Low income,SDN,14.8
+Sudan,Africa,2009,67.0,0.468,0.42,1480.0,39.6,4.1,Low income,SDN,13.0
+Sudan,Africa,2010,67.4,0.469,0.417,1490.0,40.1,4.0,Low income,SDN,15.2
+Sudan,Africa,2011,67.6,0.474,0.396,1630.0,40.1,4.1,Low income,SDN,17.44
+Sudan,Africa,2012,68.1,0.486,0.393,1830.0,40.3,4.0,Low income,SDN,17.45
+Sudan,Africa,2013,68.3,0.494,0.407,1900.0,40.7,4.0,Low income,SDN,17.41
+Sudan,Africa,2014,68.7,0.499,0.407,1990.0,41.3,3.9,Low income,SDN,17.43
+Sudan,Africa,2015,69.0,0.504,0.499,2020.0,41.7,3.9,Low income,SDN,17.49
+Sudan,Africa,2016,69.4,0.507,0.491,2040.0,42.2,3.9,Low income,SDN,17.52
+Sudan,Africa,2017,69.8,0.509,0.503,2090.0,42.8,3.8,Low income,SDN,17.53
+Sudan,Africa,2018,70.1,0.506,0.504,2100.0,43.8,3.9,Low income,SDN,17.58
+Sweden,Europe,2000,80.0,0.903,6.16,41100.0,72.7,15.1,High income,SWE,5.47
+Sweden,Europe,2001,80.2,0.905,6.26,41600.0,73.6,16.0,High income,SWE,4.73
+Sweden,Europe,2002,80.3,0.908,6.35,42400.0,74.5,15.5,High income,SWE,4.97
+Sweden,Europe,2003,80.5,0.913,6.39,43200.0,74.9,14.4,High income,SWE,5.55
+Sweden,Europe,2004,80.7,0.901,6.28,44900.0,75.1,14.8,High income,SWE,6.69
+Sweden,Europe,2005,81.0,0.904,5.96,46000.0,75.6,15.7,High income,SWE,7.49
+Sweden,Europe,2006,81.1,0.908,5.9,47900.0,75.9,15.0,High income,SWE,7.07
+Sweden,Europe,2007,81.3,0.91,5.76,49100.0,76.1,14.5,High income,SWE,6.16
+Sweden,Europe,2008,81.5,0.907,5.49,48500.0,76.6,15.0,High income,SWE,6.23
+Sweden,Europe,2009,81.7,0.905,5.06,46000.0,77.7,15.7,High income,SWE,8.35
+Sweden,Europe,2010,81.9,0.911,5.63,48400.0,78.0,14.7,High income,SWE,8.61
+Sweden,Europe,2011,82.0,0.912,5.17,49500.0,78.1,14.2,High income,SWE,7.8
+Sweden,Europe,2012,82.1,0.914,4.86,48900.0,78.3,15.0,High income,SWE,7.98
+Sweden,Europe,2013,82.3,0.933,4.66,49000.0,78.8,15.9,High income,SWE,8.05
+Sweden,Europe,2014,82.5,0.935,4.46,49900.0,79.4,14.8,High income,SWE,7.95
+Sweden,Europe,2015,82.5,0.938,4.41,51500.0,79.7,15.7,High income,SWE,7.43
+Sweden,Europe,2016,82.6,0.94,4.33,52000.0,79.9,14.6,High income,SWE,6.99
+Sweden,Europe,2017,82.7,0.942,4.25,52600.0,80.0,15.0,High income,SWE,6.72
+Sweden,Europe,2018,82.7,0.943,4.12,53000.0,80.1,14.9,High income,SWE,6.36
+Switzerland,Europe,2000,80.3,0.898,6.11,74000.0,70.1,20.2,High income,CHE,2.67
+Switzerland,Europe,2001,80.6,0.9,6.28,74700.0,71.2,19.6,High income,CHE,2.49
+Switzerland,Europe,2002,80.9,0.899,6.02,74100.0,72.3,20.9,High income,CHE,2.92
+Switzerland,Europe,2003,81.1,0.905,6.15,73600.0,73.3,18.7,High income,CHE,4.12
+Switzerland,Europe,2004,81.4,0.909,6.18,75100.0,73.8,18.5,High income,CHE,4.32
+Switzerland,Europe,2005,81.7,0.914,6.2,76800.0,73.6,19.0,High income,CHE,4.44
+Switzerland,Europe,2006,81.9,0.92,6.09,79400.0,73.5,18.8,High income,CHE,4.0
+Switzerland,Europe,2007,82.2,0.923,5.76,81800.0,73.5,19.5,High income,CHE,3.65
+Switzerland,Europe,2008,82.4,0.925,5.87,83000.0,73.5,18.8,High income,CHE,3.35
+Switzerland,Europe,2009,82.5,0.935,5.65,80300.0,74.6,16.0,High income,CHE,4.12
+Switzerland,Europe,2010,82.8,0.941,5.77,82000.0,74.1,14.5,High income,CHE,4.8
+Switzerland,Europe,2011,83.0,0.941,5.19,82700.0,74.2,14.6,High income,CHE,4.4
+Switzerland,Europe,2012,83.1,0.944,5.28,82800.0,74.9,14.7,High income,CHE,4.48
+Switzerland,Europe,2013,83.3,0.946,5.33,83300.0,74.7,15.1,High income,CHE,4.75
+Switzerland,Europe,2014,83.5,0.942,4.78,84300.0,75.1,14.7,High income,CHE,4.83
+Switzerland,Europe,2015,83.6,0.947,4.67,84800.0,75.8,15.0,High income,CHE,4.8
+Switzerland,Europe,2016,83.8,0.947,4.68,85600.0,76.0,14.1,High income,CHE,4.92
+Switzerland,Europe,2017,83.9,0.949,4.52,86100.0,76.4,14.6,High income,CHE,4.8
+Switzerland,Europe,2018,83.9,0.955,4.33,88000.0,76.5,14.5,High income,CHE,4.71
+Tanzania,Africa,2000,53.4,0.39,0.0768,522.0,14.2,8.9,Lower middle income,TZA,3.06
+Tanzania,Africa,2001,54.0,0.397,0.0885,540.0,14.8,7.9,Lower middle income,TZA,2.99
+Tanzania,Africa,2002,54.6,0.407,0.0988,562.0,16.1,7.0,Lower middle income,TZA,3.04
+Tanzania,Africa,2003,55.3,0.416,0.102,583.0,17.5,6.4,Lower middle income,TZA,3.11
+Tanzania,Africa,2004,55.9,0.426,0.113,610.0,19.0,5.8,Lower middle income,TZA,3.16
+Tanzania,Africa,2005,56.5,0.437,0.14,637.0,20.6,5.4,Lower middle income,TZA,3.23
+Tanzania,Africa,2006,57.3,0.447,0.149,660.0,22.3,5.3,Lower middle income,TZA,3.3
+Tanzania,Africa,2007,58.5,0.456,0.14,685.0,22.7,5.4,Lower middle income,TZA,3.03
+Tanzania,Africa,2008,59.6,0.465,0.142,704.0,23.0,5.8,Lower middle income,TZA,2.77
+Tanzania,Africa,2009,60.3,0.474,0.132,720.0,23.4,5.5,Lower middle income,TZA,2.5
+Tanzania,Africa,2010,61.1,0.481,0.154,743.0,23.8,5.0,Lower middle income,TZA,2.99
+Tanzania,Africa,2011,61.7,0.487,0.171,777.0,24.3,4.8,Lower middle income,TZA,3.47
+Tanzania,Africa,2012,62.7,0.496,0.196,788.0,24.7,4.3,Lower middle income,TZA,3.23
+Tanzania,Africa,2013,63.7,0.497,0.225,817.0,25.2,4.4,Lower middle income,TZA,2.93
+Tanzania,Africa,2014,64.5,0.504,0.225,846.0,25.7,4.2,Lower middle income,TZA,2.12
+Tanzania,Africa,2015,65.1,0.514,0.244,872.0,26.2,4.2,Lower middle income,TZA,2.14
+Tanzania,Africa,2016,65.5,0.52,0.219,904.0,26.8,4.2,Lower middle income,TZA,2.16
+Tanzania,Africa,2017,66.0,0.523,0.222,937.0,27.4,4.2,Lower middle income,TZA,2.18
+Tanzania,Africa,2018,66.7,0.524,0.222,959.0,27.9,4.2,Lower middle income,TZA,2.21
+Thailand,Asia,2000,71.8,0.652,2.71,3520.0,32.2,12.0,Upper middle income,THA,2.39
+Thailand,Asia,2001,72.8,0.66,2.87,3610.0,35.1,10.9,Upper middle income,THA,2.6
+Thailand,Asia,2002,73.1,0.669,3.0,3800.0,36.2,11.0,Upper middle income,THA,1.82
+Thailand,Asia,2003,73.6,0.677,3.15,4040.0,37.3,10.7,Upper middle income,THA,1.54
+Thailand,Asia,2004,73.7,0.686,3.36,4260.0,38.5,10.5,Upper middle income,THA,1.51
+Thailand,Asia,2005,74.8,0.696,3.43,4410.0,38.9,9.1,Upper middle income,THA,1.35
+Thailand,Asia,2006,75.4,0.697,3.46,4600.0,38.3,8.9,Upper middle income,THA,1.22
+Thailand,Asia,2007,76.0,0.714,3.49,4830.0,38.5,8.4,Upper middle income,THA,1.18
+Thailand,Asia,2008,76.5,0.718,3.43,4880.0,39.1,8.1,Upper middle income,THA,1.18
+Thailand,Asia,2009,76.9,0.722,3.64,4830.0,40.2,8.0,Upper middle income,THA,0.95
+Thailand,Asia,2010,77.0,0.724,3.82,5160.0,41.1,8.1,Upper middle income,THA,0.62
+Thailand,Asia,2011,77.4,0.733,3.76,5180.0,39.6,8.0,Upper middle income,THA,0.66
+Thailand,Asia,2012,77.7,0.737,3.99,5530.0,38.0,7.9,Upper middle income,THA,0.58
+Thailand,Asia,2013,78.0,0.734,4.17,5650.0,38.0,7.5,Upper middle income,THA,0.25
+Thailand,Asia,2014,78.1,0.742,4.07,5690.0,43.0,7.8,Upper middle income,THA,0.58
+Thailand,Asia,2015,78.2,0.749,4.1,5840.0,44.0,8.0,Upper middle income,THA,0.6
+Thailand,Asia,2016,78.0,0.756,4.07,6020.0,45.2,8.5,Upper middle income,THA,0.69
+Thailand,Asia,2017,78.2,0.765,4.12,6250.0,45.7,8.4,Upper middle income,THA,0.83
+Thailand,Asia,2018,78.3,0.772,4.15,6490.0,45.1,8.8,Upper middle income,THA,0.77
+Tunisia,Africa,2000,74.3,0.651,2.03,2690.0,48.0,3.7,Lower middle income,TUN,14.94
+Tunisia,Africa,2001,74.5,0.659,2.1,2770.0,48.2,3.7,Lower middle income,TUN,14.4
+Tunisia,Africa,2002,74.7,0.664,2.08,2790.0,48.6,3.8,Lower middle income,TUN,14.55
+Tunisia,Africa,2003,74.9,0.671,2.11,2890.0,48.8,3.8,Lower middle income,TUN,14.51
+Tunisia,Africa,2004,75.1,0.681,2.19,3050.0,48.8,3.7,Lower middle income,TUN,14.23
+Tunisia,Africa,2005,75.4,0.688,2.21,3130.0,49.1,3.7,Lower middle income,TUN,12.87
+Tunisia,Africa,2006,75.5,0.694,2.22,3270.0,48.3,3.7,Lower middle income,TUN,12.51
+Tunisia,Africa,2007,75.7,0.7,2.3,3450.0,48.4,3.6,Lower middle income,TUN,12.36
+Tunisia,Africa,2008,75.9,0.707,2.34,3560.0,48.5,3.5,Lower middle income,TUN,12.44
+Tunisia,Africa,2009,76.0,0.709,2.31,3630.0,49.2,3.5,Lower middle income,TUN,13.29
+Tunisia,Africa,2010,76.2,0.716,2.55,3720.0,48.6,3.5,Lower middle income,TUN,13.05
+Tunisia,Africa,2011,76.2,0.718,2.38,3610.0,49.9,3.4,Lower middle income,TUN,18.33
+Tunisia,Africa,2012,76.5,0.72,2.43,3720.0,49.8,3.4,Lower middle income,TUN,17.63
+Tunisia,Africa,2013,76.7,0.723,2.45,3790.0,51.3,3.3,Lower middle income,TUN,15.93
+Tunisia,Africa,2014,76.8,0.726,2.52,3860.0,51.6,3.2,Lower middle income,TUN,15.06
+Tunisia,Africa,2015,77.0,0.729,2.62,3860.0,52.2,3.1,Lower middle income,TUN,15.16
+Tunisia,Africa,2016,77.2,0.731,2.57,3870.0,51.9,3.1,Lower middle income,TUN,15.56
+Tunisia,Africa,2017,77.3,0.734,2.67,3900.0,52.0,3.1,Lower middle income,TUN,15.33
+Tunisia,Africa,2018,77.5,0.738,2.73,3950.0,52.3,3.2,Lower middle income,TUN,15.46
+Turkey,Asia,2000,74.7,0.66,3.64,6540.0,45.1,4.0,Upper middle income,TUR,6.5
+Turkey,Asia,2001,75.0,0.666,3.33,6080.0,46.3,3.6,Upper middle income,TUR,8.38
+Turkey,Asia,2002,75.2,0.677,3.39,6370.0,46.8,3.2,Upper middle income,TUR,10.36
+Turkey,Asia,2003,75.7,0.684,3.58,6640.0,47.5,3.1,Upper middle income,TUR,10.54
+Turkey,Asia,2004,76.3,0.69,3.65,7190.0,48.0,3.0,Upper middle income,TUR,10.84
+Turkey,Asia,2005,76.8,0.696,3.89,7740.0,48.6,2.8,Upper middle income,TUR,10.64
+Turkey,Asia,2006,77.0,0.704,4.1,8170.0,49.2,2.7,Upper middle income,TUR,8.72
+Turkey,Asia,2007,77.1,0.712,4.5,8480.0,49.8,2.5,Upper middle income,TUR,8.87
+Turkey,Asia,2008,77.0,0.714,4.4,8450.0,50.7,2.4,Upper middle income,TUR,9.71
+Turkey,Asia,2009,76.8,0.72,4.43,7940.0,51.7,2.4,Upper middle income,TUR,12.55
+Turkey,Asia,2010,76.7,0.739,4.35,8490.0,50.1,2.4,Upper middle income,TUR,10.66
+Turkey,Asia,2011,76.8,0.753,4.63,9300.0,49.4,2.2,Upper middle income,TUR,8.8
+Turkey,Asia,2012,77.0,0.765,4.74,9590.0,50.4,2.2,Upper middle income,TUR,8.15
+Turkey,Asia,2013,77.0,0.785,4.55,10200.0,50.7,2.3,Upper middle income,TUR,8.73
+Turkey,Asia,2014,77.1,0.796,4.69,10500.0,51.1,2.3,Upper middle income,TUR,9.88
+Turkey,Asia,2015,77.4,0.801,4.86,11000.0,52.4,2.3,Upper middle income,TUR,10.24
+Turkey,Asia,2016,77.5,0.808,5.03,11200.0,53.7,2.3,Upper middle income,TUR,10.84
+Turkey,Asia,2017,77.8,0.814,5.25,11800.0,54.1,2.3,Upper middle income,TUR,10.82
+Turkey,Asia,2018,78.1,0.817,5.2,12000.0,54.9,2.3,Upper middle income,TUR,10.89
+Uganda,Africa,2000,49.6,0.404,0.0593,515.0,22.2,10.2,Low income,UGA,3.03
+Uganda,Africa,2001,50.3,0.412,0.0602,525.0,22.6,9.8,Low income,UGA,3.27
+Uganda,Africa,2002,51.0,0.427,0.06,553.0,23.1,9.4,Low income,UGA,3.5
+Uganda,Africa,2003,51.8,0.436,0.0607,570.0,23.5,9.4,Low income,UGA,3.6
+Uganda,Africa,2004,52.6,0.436,0.0627,590.0,23.7,9.5,Low income,UGA,2.75
+Uganda,Africa,2005,53.9,0.444,0.0761,608.0,23.9,9.7,Low income,UGA,1.9
+Uganda,Africa,2006,55.5,0.456,0.0865,653.0,24.3,9.4,Low income,UGA,2.29
+Uganda,Africa,2007,56.5,0.466,0.0956,685.0,24.6,8.0,Low income,UGA,2.73
+Uganda,Africa,2008,57.6,0.479,0.1,722.0,24.9,7.1,Low income,UGA,3.15
+Uganda,Africa,2009,58.5,0.487,0.103,747.0,25.1,6.8,Low income,UGA,3.6
+Uganda,Africa,2010,59.3,0.498,0.116,764.0,25.3,6.3,Low income,UGA,3.59
+Uganda,Africa,2011,60.4,0.504,0.122,810.0,25.6,6.3,Low income,UGA,3.51
+Uganda,Africa,2012,61.4,0.507,0.112,815.0,25.8,5.7,Low income,UGA,3.55
+Uganda,Africa,2013,62.4,0.513,0.117,817.0,21.1,5.2,Low income,UGA,1.91
+Uganda,Africa,2014,63.2,0.519,0.123,831.0,20.8,4.8,Low income,UGA,1.91
+Uganda,Africa,2015,63.9,0.525,0.133,844.0,20.9,4.7,Low income,UGA,1.91
+Uganda,Africa,2016,64.0,0.529,0.136,852.0,20.9,4.7,Low income,UGA,1.92
+Uganda,Africa,2017,65.0,0.532,0.137,852.0,20.7,4.4,Low income,UGA,1.93
+Uganda,Africa,2018,65.7,0.538,0.135,872.0,21.0,4.4,Low income,UGA,1.92
+Ukraine,Europe,2000,68.0,0.694,5.85,1820.0,49.0,39.1,Lower middle income,UKR,11.71
+Ukraine,Europe,2001,68.2,0.708,6.28,2010.0,49.5,36.7,Lower middle income,UKR,11.06
+Ukraine,Europe,2002,68.1,0.717,6.17,2130.0,50.0,36.0,Lower middle income,UKR,10.14
+Ukraine,Europe,2003,68.3,0.725,6.46,2350.0,50.6,34.5,Lower middle income,UKR,9.06
+Ukraine,Europe,2004,68.0,0.732,6.58,2660.0,51.1,33.8,Lower middle income,UKR,8.59
+Ukraine,Europe,2005,67.8,0.738,6.68,2760.0,51.5,33.8,Lower middle income,UKR,7.18
+Ukraine,Europe,2006,68.4,0.744,7.14,2980.0,52.0,30.8,Lower middle income,UKR,6.81
+Ukraine,Europe,2007,68.1,0.751,7.26,3230.0,52.5,31.5,Lower middle income,UKR,6.35
+Ukraine,Europe,2008,68.3,0.755,7.06,3320.0,52.9,30.9,Lower middle income,UKR,6.36
+Ukraine,Europe,2009,70.0,0.749,6.04,2840.0,53.2,26.3,Lower middle income,UKR,8.84
+Ukraine,Europe,2010,70.8,0.755,6.43,2970.0,54.0,24.5,Lower middle income,UKR,8.1
+Ukraine,Europe,2011,71.5,0.76,6.76,3140.0,54.0,23.0,Lower middle income,UKR,7.85
+Ukraine,Europe,2012,71.6,0.764,6.69,3150.0,54.2,23.1,Lower middle income,UKR,7.53
+Ukraine,Europe,2013,71.8,0.767,6.57,3160.0,55.2,22.6,Lower middle income,UKR,7.17
+Ukraine,Europe,2014,71.7,0.771,5.71,3120.0,59.1,24.4,Lower middle income,UKR,9.27
+Ukraine,Europe,2015,72.5,0.765,4.99,2830.0,60.1,21.6,Lower middle income,UKR,9.14
+Ukraine,Europe,2016,72.9,0.768,5.24,2900.0,60.2,21.4,Lower middle income,UKR,9.35
+Ukraine,Europe,2017,73.8,0.771,5.02,2990.0,60.3,20.6,Lower middle income,UKR,9.5
+Ukraine,Europe,2018,73.9,0.774,5.09,3110.0,61.0,21.9,Lower middle income,UKR,8.8
+United Arab Emirates,Asia,2000,69.1,0.782,35.7,60800.0,58.7,8.6,High income,ARE,2.25
+United Arab Emirates,Asia,2001,69.2,0.787,30.5,58500.0,59.3,8.6,High income,ARE,2.49
+United Arab Emirates,Asia,2002,69.4,0.792,24.1,56900.0,59.9,8.0,High income,ARE,2.65
+United Arab Emirates,Asia,2003,69.3,0.798,28.5,58000.0,60.1,7.5,High income,ARE,2.75
+United Arab Emirates,Asia,2004,69.1,0.803,27.5,58000.0,60.2,7.7,High income,ARE,2.91
+United Arab Emirates,Asia,2005,69.2,0.809,25.0,53900.0,60.3,7.9,High income,ARE,3.12
+United Arab Emirates,Asia,2006,69.5,0.814,23.0,51200.0,60.0,8.3,High income,ARE,2.94
+United Arab Emirates,Asia,2007,70.0,0.819,21.6,45400.0,59.9,8.3,High income,ARE,2.87
+United Arab Emirates,Asia,2008,70.4,0.821,21.7,40800.0,60.0,8.5,High income,ARE,2.74
+United Arab Emirates,Asia,2009,70.6,0.819,20.9,34600.0,60.5,8.5,High income,ARE,2.68
+United Arab Emirates,Asia,2010,70.8,0.82,18.3,32600.0,61.1,8.4,High income,ARE,2.48
+United Arab Emirates,Asia,2011,71.0,0.826,18.9,33300.0,61.8,8.2,High income,ARE,2.3
+United Arab Emirates,Asia,2012,71.2,0.832,23.8,34000.0,62.3,7.9,High income,ARE,2.18
+United Arab Emirates,Asia,2013,71.6,0.838,23.7,35500.0,62.7,7.5,High income,ARE,2.04
+United Arab Emirates,Asia,2014,73.0,0.847,24.2,37000.0,62.9,7.0,High income,ARE,1.91
+United Arab Emirates,Asia,2015,73.2,0.859,20.7,38700.0,63.0,6.5,High income,ARE,1.77
+United Arab Emirates,Asia,2016,73.4,0.864,21.7,39400.0,63.3,6.0,High income,ARE,1.64
+United Arab Emirates,Asia,2017,73.5,0.881,21.1,39800.0,63.8,5.6,High income,ARE,2.46
+United Arab Emirates,Asia,2018,73.7,0.889,21.4,39700.0,63.9,6.0,High income,ARE,2.35
+United Kingdom,Europe,2000,78.0,0.874,9.63,38500.0,73.3,8.6,High income,GBR,5.56
+United Kingdom,Europe,2001,78.3,0.878,9.75,39300.0,74.0,8.3,High income,GBR,4.7
+United Kingdom,Europe,2002,78.5,0.881,9.45,40000.0,74.7,8.3,High income,GBR,5.04
+United Kingdom,Europe,2003,78.6,0.885,9.6,41200.0,75.4,7.9,High income,GBR,4.81
+United Kingdom,Europe,2004,79.0,0.892,9.58,41900.0,76.4,8.2,High income,GBR,4.59
+United Kingdom,Europe,2005,79.3,0.897,9.46,42800.0,76.4,7.9,High income,GBR,4.75
+United Kingdom,Europe,2006,79.5,0.896,9.33,43700.0,76.6,7.8,High income,GBR,5.35
+United Kingdom,Europe,2007,79.8,0.899,9.1,44300.0,76.4,7.6,High income,GBR,5.26
+United Kingdom,Europe,2008,80.0,0.903,8.77,43900.0,76.9,8.1,High income,GBR,5.62
+United Kingdom,Europe,2009,80.3,0.906,7.87,41700.0,79.3,8.0,High income,GBR,7.54
+United Kingdom,Europe,2010,80.6,0.912,8.07,42300.0,79.6,7.8,High income,GBR,7.79
+United Kingdom,Europe,2011,80.8,0.906,7.34,42500.0,79.6,8.3,High income,GBR,8.04
+United Kingdom,Europe,2012,80.9,0.904,7.56,42800.0,79.7,8.2,High income,GBR,7.88
+United Kingdom,Europe,2013,81.0,0.921,7.36,43400.0,80.1,8.8,High income,GBR,7.52
+United Kingdom,Europe,2014,81.1,0.925,6.71,44300.0,79.8,8.6,High income,GBR,6.11
+United Kingdom,Europe,2015,81.0,0.923,6.42,45000.0,80.2,8.8,High income,GBR,5.3
+United Kingdom,Europe,2016,81.1,0.924,6.04,45500.0,80.4,8.5,High income,GBR,4.81
+United Kingdom,Europe,2017,81.2,0.926,5.81,45900.0,80.6,8.2,High income,GBR,4.33
+United Kingdom,Europe,2018,81.0,0.928,5.65,46200.0,80.8,8.1,High income,GBR,4.0
+United States,North America,2000,77.0,0.886,21.3,48700.0,73.9,11.0,High income,USA,3.99
+United States,North America,2001,77.1,0.889,20.7,48700.0,74.7,11.4,High income,USA,4.73
+United States,North America,2002,77.2,0.891,20.7,49100.0,75.7,11.8,High income,USA,5.78
+United States,North America,2003,77.3,0.894,20.7,50100.0,76.0,11.7,High income,USA,5.99
+United States,North America,2004,77.7,0.897,20.9,51500.0,76.1,11.9,High income,USA,5.53
+United States,North America,2005,77.7,0.9,20.8,52800.0,76.3,11.9,High income,USA,5.08
+United States,North America,2006,78.0,0.903,20.3,53800.0,76.3,12.1,High income,USA,4.62
+United States,North America,2007,78.2,0.906,20.4,54300.0,76.6,12.4,High income,USA,4.62
+United States,North America,2008,78.4,0.911,19.5,53700.0,77.2,12.7,High income,USA,5.78
+United States,North America,2009,78.6,0.912,17.9,51900.0,78.6,12.8,High income,USA,9.25
+United States,North America,2010,78.9,0.916,18.5,52800.0,78.9,13.1,High income,USA,9.63
+United States,North America,2011,78.9,0.919,17.9,53200.0,78.8,13.4,High income,USA,8.95
+United States,North America,2012,79.0,0.92,17.1,54000.0,78.9,13.5,High income,USA,8.07
+United States,North America,2013,79.1,0.918,17.5,54600.0,78.7,13.5,High income,USA,7.37
+United States,North America,2014,79.1,0.92,17.5,55600.0,78.7,14.0,High income,USA,6.17
+United States,North America,2015,79.0,0.921,16.9,56900.0,78.7,14.4,High income,USA,5.28
+United States,North America,2016,78.9,0.922,16.4,57400.0,78.8,15.1,High income,USA,4.87
+United States,North America,2017,79.0,0.924,16.2,58400.0,78.8,15.9,High income,USA,4.36
+United States,North America,2018,79.0,0.925,16.6,59800.0,78.8,15.7,High income,USA,3.9
+Uruguay,South America,2000,74.8,0.743,1.59,10100.0,65.8,16.0,High income,URY,12.63
+Uruguay,South America,2001,75.0,0.747,1.51,9680.0,66.6,14.5,High income,URY,15.05
+Uruguay,South America,2002,75.0,0.749,1.37,8930.0,67.6,19.8,High income,URY,16.65
+Uruguay,South America,2003,75.0,0.752,1.36,9010.0,68.0,15.6,High income,URY,16.66
+Uruguay,South America,2004,75.2,0.755,1.68,9460.0,68.1,15.3,High income,URY,12.98
+Uruguay,South America,2005,75.5,0.758,1.73,10200.0,68.0,14.8,High income,URY,12.01
+Uruguay,South America,2006,75.9,0.763,1.99,10600.0,68.1,15.5,High income,URY,10.84
+Uruguay,South America,2007,75.7,0.765,1.79,11200.0,67.6,17.4,High income,URY,9.4
+Uruguay,South America,2008,76.2,0.769,2.46,12000.0,67.9,15.1,High income,URY,8.03
+Uruguay,South America,2009,76.5,0.775,2.37,12500.0,68.1,15.0,High income,URY,7.74
+Uruguay,South America,2010,76.5,0.782,1.88,13400.0,67.0,16.0,High income,URY,7.16
+Uruguay,South America,2011,76.4,0.789,2.27,14100.0,69.4,16.8,High income,URY,6.31
+Uruguay,South America,2012,76.5,0.793,2.55,14500.0,70.3,17.8,High income,URY,6.45
+Uruguay,South America,2013,76.8,0.8,2.21,15200.0,69.1,15.8,High income,URY,6.44
+Uruguay,South America,2014,77.1,0.803,1.96,15600.0,69.9,17.4,High income,URY,6.55
+Uruguay,South America,2015,77.1,0.806,1.94,15600.0,70.7,18.6,High income,URY,7.49
+Uruguay,South America,2016,77.3,0.81,1.95,15800.0,71.7,21.1,High income,URY,7.84
+Uruguay,South America,2017,77.3,0.814,1.95,16000.0,71.5,20.8,High income,URY,7.89
+Uruguay,South America,2018,77.5,0.816,2.01,16000.0,72.4,21.2,High income,URY,8.34
+Uzbekistan,Asia,2000,65.1,0.599,4.91,1200.0,39.5,10.1,Lower middle income,UZB,12.23
+Uzbekistan,Asia,2001,65.1,0.607,4.9,1230.0,40.7,10.0,Lower middle income,UZB,11.2
+Uzbekistan,Asia,2002,65.0,0.614,5.03,1260.0,41.8,9.7,Lower middle income,UZB,10.15
+Uzbekistan,Asia,2003,64.9,0.619,4.91,1300.0,42.9,9.0,Lower middle income,UZB,9.11
+Uzbekistan,Asia,2004,64.8,0.626,4.82,1380.0,44.0,8.6,Lower middle income,UZB,8.19
+Uzbekistan,Asia,2005,64.5,0.633,4.43,1460.0,45.1,9.1,Lower middle income,UZB,7.09
+Uzbekistan,Asia,2006,65.0,0.637,4.47,1550.0,46.2,8.8,Lower middle income,UZB,6.03
+Uzbekistan,Asia,2007,65.3,0.649,4.39,1680.0,47.3,8.6,Lower middle income,UZB,4.99
+Uzbekistan,Asia,2008,65.7,0.653,4.47,1800.0,48.4,8.5,Lower middle income,UZB,4.89
+Uzbekistan,Asia,2009,66.2,0.66,3.8,1910.0,49.4,8.0,Lower middle income,UZB,5.0
+Uzbekistan,Asia,2010,66.5,0.669,3.64,2000.0,50.5,8.1,Lower middle income,UZB,5.4
+Uzbekistan,Asia,2011,66.6,0.676,3.9,2100.0,50.1,8.5,Lower middle income,UZB,5.0
+Uzbekistan,Asia,2012,66.7,0.685,3.91,2220.0,50.6,8.9,Lower middle income,UZB,4.9
+Uzbekistan,Asia,2013,67.0,0.692,3.43,2350.0,50.0,8.9,Lower middle income,UZB,4.9
+Uzbekistan,Asia,2014,67.2,0.696,3.44,2480.0,49.6,9.0,Lower middle income,UZB,5.1
+Uzbekistan,Asia,2015,67.3,0.701,3.31,2620.0,49.4,9.2,Lower middle income,UZB,5.2
+Uzbekistan,Asia,2016,67.6,0.705,2.9,2730.0,49.4,9.1,Lower middle income,UZB,5.2
+Uzbekistan,Asia,2017,67.8,0.713,2.92,2800.0,49.7,8.8,Lower middle income,UZB,5.8
+Uzbekistan,Asia,2018,68.1,0.717,2.81,2900.0,50.6,8.6,Lower middle income,UZB,5.84
+Zambia,Africa,2000,45.3,0.425,0.172,774.0,22.2,13.3,Lower middle income,ZMB,12.93
+Zambia,Africa,2001,45.2,0.432,0.176,794.0,21.9,12.4,Lower middle income,ZMB,13.51
+Zambia,Africa,2002,45.9,0.441,0.179,808.0,21.5,12.1,Lower middle income,ZMB,14.12
+Zambia,Africa,2003,46.6,0.451,0.185,843.0,21.2,11.6,Lower middle income,ZMB,14.69
+Zambia,Africa,2004,47.7,0.46,0.182,879.0,20.9,12.2,Lower middle income,ZMB,15.3
+Zambia,Africa,2005,48.7,0.471,0.189,918.0,20.6,11.9,Lower middle income,ZMB,15.9
+Zambia,Africa,2006,50.0,0.482,0.183,965.0,20.8,11.7,Lower middle income,ZMB,13.24
+Zambia,Africa,2007,51.9,0.488,0.149,1020.0,20.9,10.3,Lower middle income,ZMB,10.59
+Zambia,Africa,2008,54.1,0.503,0.164,1070.0,21.0,9.7,Lower middle income,ZMB,7.93
+Zambia,Africa,2009,55.7,0.517,0.182,1130.0,23.8,9.8,Lower middle income,ZMB,10.56
+Zambia,Africa,2010,56.5,0.527,0.189,1210.0,27.0,10.1,Lower middle income,ZMB,13.19
+Zambia,Africa,2011,57.5,0.534,0.199,1240.0,30.2,10.3,Lower middle income,ZMB,10.55
+Zambia,Africa,2012,58.5,0.549,0.241,1300.0,33.9,9.4,Lower middle income,ZMB,7.85
+Zambia,Africa,2013,59.5,0.557,0.252,1320.0,35.2,9.1,Lower middle income,ZMB,8.61
+Zambia,Africa,2014,60.2,0.561,0.277,1340.0,36.2,9.0,Lower middle income,ZMB,9.36
+Zambia,Africa,2015,60.8,0.569,0.271,1340.0,37.1,8.7,Lower middle income,ZMB,10.13
+Zambia,Africa,2016,61.4,0.571,0.296,1350.0,38.0,8.5,Lower middle income,ZMB,10.87
+Zambia,Africa,2017,61.9,0.578,0.304,1350.0,38.6,8.5,Lower middle income,ZMB,11.63
+Zambia,Africa,2018,62.5,0.582,0.302,1370.0,39.3,8.1,Lower middle income,ZMB,12.01
+Zimbabwe,Africa,2000,47.5,0.43,1.16,1700.0,27.8,13.3,Lower middle income,ZWE,5.69
+Zimbabwe,Africa,2001,47.0,0.431,1.05,1720.0,27.7,12.8,Lower middle income,ZWE,5.36
+Zimbabwe,Africa,2002,46.6,0.423,0.996,1560.0,27.2,13.4,Lower middle income,ZWE,5.06
+Zimbabwe,Africa,2003,46.4,0.414,0.886,1290.0,26.5,13.2,Lower middle income,ZWE,4.75
+Zimbabwe,Africa,2004,46.4,0.411,0.785,1210.0,26.2,14.2,Lower middle income,ZWE,4.39
+Zimbabwe,Africa,2005,46.8,0.411,0.887,1140.0,25.8,14.0,Lower middle income,ZWE,4.54
+Zimbabwe,Africa,2006,47.4,0.414,0.853,1090.0,25.4,14.4,Lower middle income,ZWE,4.68
+Zimbabwe,Africa,2007,48.2,0.421,0.803,1040.0,25.2,17.2,Lower middle income,ZWE,4.83
+Zimbabwe,Africa,2008,48.9,0.422,0.624,850.0,24.4,20.1,Lower middle income,ZWE,5.01
+Zimbabwe,Africa,2009,50.2,0.458,0.441,941.0,24.8,22.2,Lower middle income,ZWE,5.08
+Zimbabwe,Africa,2010,52.3,0.482,0.607,1110.0,25.2,21.5,Lower middle income,ZWE,5.21
+Zimbabwe,Africa,2011,54.4,0.499,0.737,1250.0,25.0,20.7,Lower middle income,ZWE,5.37
+Zimbabwe,Africa,2012,56.0,0.525,0.587,1430.0,25.4,19.7,Lower middle income,ZWE,5.15
+Zimbabwe,Africa,2013,57.2,0.537,0.872,1440.0,25.3,18.6,Lower middle income,ZWE,4.98
+Zimbabwe,Africa,2014,58.0,0.547,0.881,1440.0,25.4,18.2,Lower middle income,ZWE,4.77
+Zimbabwe,Africa,2015,58.6,0.553,0.881,1450.0,25.7,18.0,Lower middle income,ZWE,4.78
+Zimbabwe,Africa,2016,59.2,0.558,0.771,1430.0,26.1,16.8,Lower middle income,ZWE,4.79
+Zimbabwe,Africa,2017,59.9,0.563,0.845,1480.0,26.6,15.0,Lower middle income,ZWE,4.78
+Zimbabwe,Africa,2018,60.6,0.569,0.85,1510.0,27.2,14.0,Lower middle income,ZWE,4.8
